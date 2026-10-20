@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-body), var(--font-cjk), sans-serif;
+  --font-display: var(--font-display-face), var(--font-cjk), sans-serif;
+
+  --color-ink: #14213d;
+  --color-ink-soft: #2b3a5c;
+  --color-paper: #faf8f3;
+  --color-card: #ffffff;
+  --color-line: #e7e2d8;
+  --color-muted: #6b7280;
+  --color-amber: #f2a541;
+  --color-rose: #d62839;
+  --color-teal: #0f8b8d;
+  --color-navy: #1d2b4f;
+  --color-mtr: #f38b1c;
+  --color-disney: #e05aa0;
+  --color-tsuen: #e2231a;
+  --color-ferry: #2f6fed;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+.leaflet-container {
+  font-family: var(--font-body), var(--font-cjk), sans-serif;
+  z-index: 0;
+}
+
+.map-pin {
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 9999px;
+  border: 2px solid #fff;
+  color: #fff;
+  font: 700 12px/1 var(--font-body), var(--font-cjk), sans-serif;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.35);
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}

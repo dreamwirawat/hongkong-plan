@@ -1,0 +1,2407 @@
+{
+ "meta": {
+  "title": "香港 2026年11月25–28日",
+  "tagline": "慳錢路線，全程不搭的士 · 以麗豪航天城酒店為據點",
+  "owner": "Dream哥",
+  "nights": "4 DAYS 3 NIGHTS",
+  "flights": [
+   {
+    "label": "去程 · 11月25日（星期三）",
+    "route": "BKK 13:45 → HKG ~17:40",
+    "note": "未計延誤"
+   },
+   {
+    "label": "回程 · 11月28日（星期六）",
+    "route": "HKG 21:00 → BKK ~23:15",
+    "note": "提早 3 小時到機場"
+   }
+  ],
+  "highlight": {
+   "label": "重點",
+   "value": "香港迪士尼樂園",
+   "note": "11月26日（星期四）· 開園前 1 小時到達"
+  },
+  "budgetHeadline": {
+   "label": "每人預算（不含迪士尼門票）",
+   "value": "10,000泰銖 ≈ HK$2,300",
+   "note": "實際約用 6,300泰銖 · 餘額留作購物"
+  },
+  "transportLine": "全程使用酒店穿梭巴士 / 巴士 / 港鐵 / 渡輪 / 纜車",
+  "overview": "每日都由航天城（SKYCITY）的麗豪航天城酒店出發和返回，酒店經室內天橋連接二號客運大樓及亞洲國際博覽館。酒店設免費穿梭巴士往機場（T1）、東涌站及迪士尼樂園；穿梭巴士不行駛的時段可搭巴士 S1/S56 往東涌"
+ },
+ "days": [
+  {
+   "n": 1,
+   "date": "2026-11-25",
+   "weekday": "星期三",
+   "title": "抵達香港，休息",
+   "short": "抵港 · 休息",
+   "summary": "落機、辦理入住、在機場吃晚飯，準備好八達通和迪士尼門票，早點休息",
+   "accent": "teal",
+   "transport": "酒店免費穿梭巴士",
+   "intensity": "輕鬆",
+   "budget": "≈ HK$100",
+   "cover": "hkg-airport",
+   "items": [
+    {
+     "time": "17:40",
+     "title": "抵達 HKG",
+     "detail": "過入境及取行李，預留 45–60 分鐘",
+     "key": true,
+     "places": [
+      "hkg-airport"
+     ]
+    },
+    {
+     "time": "18:30",
+     "title": "在入境大堂港鐵客務中心購買或增值八達通",
+     "detail": "離開機場前辦妥，因為明早要用來搭巴士",
+     "places": [
+      "octopus-card"
+     ]
+    },
+    {
+     "time": "18:45",
+     "title": "酒店免費穿梭巴士 → 入住麗豪航天城酒店",
+     "detail": "在 T1 跟隨酒店穿梭巴士（Hotel Coach）指示 · 每 15–40 分鐘一班，先到先得",
+     "leg": {
+      "modes": [
+       "shuttle"
+      ],
+      "text": "穿梭巴士 · ~10 分鐘 · 免費"
+     },
+     "places": [
+      "regala-skycity"
+     ]
+    },
+    {
+     "time": "19:30",
+     "title": "晚餐",
+     "detail": "可步行到航天城 / 二號客運大樓一帶的餐廳，或上穿梭巴士前在 T1 客運大樓用膳，價錢比酒店餐廳合理",
+     "places": [
+      "skycity-t2"
+     ]
+    },
+    {
+     "time": "20:30",
+     "title": "準備明天行程",
+     "detail": "向禮賓部查詢往迪士尼的穿梭巴士：早上幾點開出、是否免費、明晚回程班次 · 打開香港迪士尼樂園 App，確認已登記入園日期並查看開園時間",
+     "places": []
+    },
+    {
+     "time": "21:30",
+     "title": "早點休息",
+     "detail": "鬧鐘設 07:00，明天 08:15 出發",
+     "places": []
+    }
+   ],
+   "notes": [
+    "毋須趕時間，即使航班延誤 1–2 小時，晚餐延後便可。T1 的穿梭巴士行駛至約 23:45",
+    "酒店早餐通常偏貴，若房價不含早餐，今晚可先在機場便利店買定麵包 / 牛奶"
+   ],
+   "route": [
+    "hkg-airport",
+    "regala-skycity",
+    "skycity-t2"
+   ]
+  },
+  {
+   "n": 2,
+   "date": "2026-11-26",
+   "weekday": "星期四",
+   "title": "香港迪士尼樂園",
+   "short": "香港迪士尼樂園",
+   "summary": "08:15 離開酒店，09:30 前到達園門，一直玩到晚間表演，再搭酒店穿梭巴士返回",
+   "accent": "rose",
+   "transport": "巴士 + 港鐵 / 穿梭巴士回程",
+   "intensity": "全日步行",
+   "budget": "≈ HK$420（不含門票）",
+   "cover": "castle-of-magical-dreams",
+   "items": [
+    {
+     "time": "07:30",
+     "title": "早餐",
+     "detail": "入園前吃飽，因為園內食物較貴",
+     "places": []
+    },
+    {
+     "time": "08:15",
+     "title": "離開酒店 → 在航天城 / 亞洲國際博覽館站搭巴士 S56 或 S1 往東涌站",
+     "detail": "酒店往東涌的穿梭巴士頭班 09:05，對今天來說太遲 · 若禮賓部確認有 09:00 前直達迪士尼的早班穿梭巴士，可改搭該班（~15–20 分鐘）",
+     "leg": {
+      "modes": [
+       "bus"
+      ],
+      "text": "巴士 · ~15 分鐘 · ~HK$4"
+     },
+     "places": [
+      "asiaworld-expo",
+      "tung-chung-station"
+     ]
+    },
+    {
+     "time": "08:40",
+     "title": "港鐵東涌綫 → 欣澳 → 迪士尼綫",
+     "detail": "在欣澳站過對面月台轉乘迪士尼綫",
+     "leg": {
+      "modes": [
+       "mtr"
+      ],
+      "text": "港鐵 · ~20 分鐘（連轉車等候）· HK$15.9"
+     },
+     "places": [
+      "sunny-bay-station",
+      "disneyland-resort-line"
+     ]
+    },
+    {
+     "time": "09:15",
+     "title": "到達園門 — 開園前 1 小時以上",
+     "detail": "如當日 10:00 開園，所有時間提早 30 分鐘（07:45 離開酒店）",
+     "key": true,
+     "places": [
+      "hong-kong-disneyland"
+     ]
+    },
+    {
+     "time": "10:30",
+     "title": "開園 → 先直奔魔雪奇緣世界",
+     "detail": "這是排隊最長的園區，開園時段是最佳時機",
+     "places": [
+      "world-of-frozen"
+     ]
+    },
+    {
+     "time": "11:45",
+     "title": "迷離大宅及灰熊山極速礦車",
+     "places": [
+      "mystic-manor",
+      "big-grizzly-mountain"
+     ]
+    },
+    {
+     "time": "13:00",
+     "title": "午餐",
+     "detail": "避開正午高峰，餐廳人會較少",
+     "places": []
+    },
+    {
+     "time": "14:00",
+     "title": "反斗奇兵大本營、鐵甲奇俠飛行之旅、幻想世界",
+     "detail": "在 App 的節目時間表查看下午巡遊時間，提早 15–20 分鐘佔位",
+     "places": [
+      "toy-story-land",
+      "iron-man-experience",
+      "fantasyland"
+     ]
+    },
+    {
+     "time": "17:30",
+     "title": "拍攝聖誕主題照片 + 晚餐",
+     "places": [
+      "hong-kong-disneyland"
+     ]
+    },
+    {
+     "time": "晚上",
+     "title": "城堡前夜間表演",
+     "detail": "早上在 App 查看表演時間",
+     "places": [
+      "castle-of-magical-dreams"
+     ]
+    },
+    {
+     "time": "表演後",
+     "title": "搭酒店穿梭巴士回程（不用擠港鐵）",
+     "detail": "在旅遊巴士停車場 — Good Neighbour 酒店穿梭巴士站上車 · 約於表演開始後 50 分鐘開出，先停富豪機場酒店，再到麗豪航天城 · 座位有限，先到先得（請再向酒店確認時間）",
+     "leg": {
+      "modes": [
+       "shuttle"
+      ],
+      "text": "酒店穿梭巴士"
+     },
+     "warn": "如錯過班次：港鐵 → 東涌 → 巴士 S1/S56 · ~60 分鐘 · ~HK$20",
+     "places": [
+      "regala-skycity"
+     ]
+    }
+   ],
+   "notes": [],
+   "route": [
+    "regala-skycity",
+    "asiaworld-expo",
+    "tung-chung-station",
+    "sunny-bay-station",
+    "hong-kong-disneyland",
+    "world-of-frozen",
+    "mystic-manor",
+    "big-grizzly-mountain",
+    "toy-story-land",
+    "iron-man-experience",
+    "fantasyland",
+    "castle-of-magical-dreams"
+   ]
+  },
+  {
+   "n": 3,
+   "date": "2026-11-27",
+   "weekday": "星期五",
+   "title": "香港島 + 九龍",
+   "short": "香港島 + 九龍",
+   "summary": "太平山頂、中環點心、大館、天星小輪、尖沙咀海濱、幻彩詠香江、廟街、自拍亭",
+   "accent": "amber",
+   "transport": "巴士 + 港鐵 + 15號巴士 + 天星小輪",
+   "intensity": "適中（已調整）",
+   "budget": "≈ HK$390",
+   "cover": "victoria-peak",
+   "items": [
+    {
+     "time": "08:00",
+     "title": "離開酒店 → 巴士 S56/S1 → 東涌 → 港鐵往香港站",
+     "leg": {
+      "modes": [
+       "bus",
+       "mtr",
+       "walk"
+      ],
+      "text": "巴士 ~15 分鐘 + 港鐵 ~30 分鐘 + 步行 · 共 ~1 小時 · ~HK$29"
+     },
+     "places": [
+      "tung-chung-station",
+      "hong-kong-station"
+     ]
+    },
+    {
+     "time": "09:15",
+     "title": "搭 15 號巴士上太平山頂",
+     "detail": "在中環（交易廣場）巴士總站上車，坐上層左邊，上山景色極美，比山頂纜車便宜數倍",
+     "leg": {
+      "modes": [
+       "bus"
+      ],
+      "text": "巴士 · ~40 分鐘"
+     },
+     "places": [
+      "exchange-square",
+      "bus-15-peak"
+     ]
+    },
+    {
+     "time": "10:00",
+     "title": "太平山頂",
+     "detail": "免費觀景點：獅子亭及山頂環迴步行徑（平坦易行，~1 小時），不用付費上凌霄閣摩天台",
+     "key": true,
+     "places": [
+      "victoria-peak",
+      "lions-pavilion",
+      "peak-circle-walk"
+     ]
+    },
+    {
+     "time": "11:45",
+     "title": "15 號巴士落山返中環",
+     "leg": {
+      "modes": [
+       "bus"
+      ],
+      "text": "巴士 · ~40 分鐘"
+     },
+     "places": [
+      "bus-15-peak"
+     ]
+    },
+    {
+     "time": "12:30",
+     "title": "中環飲茶吃點心",
+     "places": [
+      "dim-sum-central"
+     ]
+    },
+    {
+     "time": "13:45",
+     "title": "中環至半山自動扶梯 → 大館",
+     "detail": "大館免費入場，有座位休息及洗手間（已刪去元創方，避免迪士尼翌日走太多路；如仍有體力可順道前往）",
+     "places": [
+      "mid-levels-escalator",
+      "tai-kwun",
+      "pmq"
+     ]
+    },
+    {
+     "time": "15:30",
+     "title": "步行到中環七號碼頭 → 搭天星小輪過海往尖沙咀",
+     "leg": {
+      "modes": [
+       "walk",
+       "ferry"
+      ],
+      "text": "步行 ~15 分鐘 + 渡輪 ~10 分鐘"
+     },
+     "places": [
+      "central-pier-7",
+      "star-ferry"
+     ]
+    },
+    {
+     "time": "16:15",
+     "title": "尖沙咀海濱長廊、星光大道、K11 MUSEA",
+     "detail": "日落時分的港島景色最美，表演前先找個位置坐下休息",
+     "places": [
+      "tst-promenade",
+      "avenue-of-stars",
+      "k11-musea"
+     ]
+    },
+    {
+     "time": "19:15",
+     "title": "海旁散步 + 自拍亭影相",
+     "detail": "K11 MUSEA 內的 SNAPIO 自拍亭（B2樓近 BRUNO / 3樓近 Five Guys），就在星光大道旁，每套約 HK$60，可用八達通；影完即可返海旁睇20:00表演 · 如想要有房間及道具的韓式自拍館，可改於18:00–19:15去 K11購物藝術館的 FLASH（步行8–10分鐘）",
+     "places": [
+      "photobooth-tst"
+     ]
+    },
+    {
+     "time": "20:00",
+     "title": "幻彩詠香江",
+     "detail": "在尖沙咀海濱觀賞（出發前再確認表演時間）",
+     "key": true,
+     "places": [
+      "symphony-of-lights"
+     ]
+    },
+    {
+     "time": "20:30",
+     "title": "廟街夜市 + 街頭小食晚餐",
+     "leg": {
+      "modes": [
+       "mtr",
+       "walk"
+      ],
+      "text": "港鐵尖沙咀 → 佐敦 1 個站，或步行 ~15 分鐘"
+     },
+     "places": [
+      "temple-street"
+     ]
+    },
+    {
+     "time": "21:45",
+     "title": "回酒店：佐敦 → 荔景（轉綫）→ 東涌 → 巴士 S1/S56",
+     "detail": "約 23:00 回到酒店 · 東涌開出的酒店穿梭巴士尾班為 21:15，所以要搭巴士",
+     "leg": {
+      "modes": [
+       "mtr",
+       "bus"
+      ],
+      "text": "港鐵 ~45 分鐘 + 巴士 ~15 分鐘 · ~HK$24"
+     },
+     "places": [
+      "jordan-station",
+      "lai-king-station",
+      "tung-chung-station"
+     ]
+    }
+   ],
+   "notes": [],
+   "route": [
+    "regala-skycity",
+    "tung-chung-station",
+    "hong-kong-station",
+    "exchange-square",
+    "victoria-peak",
+    "lions-pavilion",
+    "peak-circle-walk",
+    "dim-sum-central",
+    "mid-levels-escalator",
+    "tai-kwun",
+    "central-pier-7",
+    "star-ferry",
+    "tst-promenade",
+    "avenue-of-stars",
+    "k11-musea",
+    "photobooth-tst",
+    "symphony-of-lights",
+    "temple-street",
+    "jordan-station",
+    "lai-king-station"
+   ]
+  },
+  {
+   "n": 4,
+   "date": "2026-11-28",
+   "weekday": "星期六",
+   "title": "大嶼山，然後回程",
+   "short": "大嶼山，然後回程",
+   "summary": "搭免費穿梭巴士往東涌，乘纜車上大佛，逛東薈城，再回酒店取行李，18:00 辦理登機",
+   "accent": "navy",
+   "transport": "免費穿梭巴士 + 纜車",
+   "intensity": "適中",
+   "budget": "≈ HK$570（含纜車）",
+   "cover": "tian-tan-buddha",
+   "items": [
+    {
+     "time": "08:00",
+     "title": "早餐、退房，行李寄存在酒店",
+     "places": [
+      "regala-skycity"
+     ]
+    },
+    {
+     "time": "09:05",
+     "title": "酒店免費穿梭巴士 → 東涌站，再步行往纜車站",
+     "detail": "當日頭班車，先到先得；如滿座改搭巴士 S1/S56",
+     "leg": {
+      "modes": [
+       "shuttle",
+       "walk"
+      ],
+      "text": "穿梭巴士 ~15 分鐘 + 步行 ~5 分鐘 · 免費"
+     },
+     "places": [
+      "tung-chung-station"
+     ]
+    },
+    {
+     "time": "09:30",
+     "title": "排隊搭昂坪360纜車（標準車廂）",
+     "detail": "星期六人多，請預先網上購票，並確認當日不是保養停駛日",
+     "leg": {
+      "modes": [
+       "cable"
+      ],
+      "text": "纜車 ~25 分鐘 + 排隊 · 來回 HK$295"
+     },
+     "places": [
+      "ngong-ping-360"
+     ]
+    },
+    {
+     "time": "10:30",
+     "title": "天壇大佛及寶蓮禪寺",
+     "detail": "登上大佛約 268 級樓梯，慢慢走，不用急",
+     "key": true,
+     "places": [
+      "tian-tan-buddha",
+      "po-lin-monastery"
+     ]
+    },
+    {
+     "time": "12:00",
+     "title": "午餐：寺內齋菜或昂坪市集餐廳",
+     "places": [
+      "po-lin-monastery",
+      "ngong-ping-village"
+     ]
+    },
+    {
+     "time": "13:30",
+     "title": "排隊搭纜車落東涌",
+     "detail": "星期六下午落山人龍很長，不宜再遲 · 如纜車停駛的後備方案：23 號巴士（HK$20.4）",
+     "warn": "需留意時間 · 預留排隊 30–60 分鐘",
+     "places": [
+      "ngong-ping-360",
+      "bus-23"
+     ]
+    },
+    {
+     "time": "14:45",
+     "title": "東薈城名店倉",
+     "detail": "緊鄰東涌站，可買手信，美食廣場價錢實惠",
+     "places": [
+      "citygate-outlets"
+     ]
+    },
+    {
+     "time": "17:00",
+     "title": "回酒店取行李",
+     "detail": "東涌開出的酒店穿梭巴士（每小時一班，請在站牌查看時間），時間不合可搭巴士 S1/S56",
+     "leg": {
+      "modes": [
+       "shuttle",
+       "bus"
+      ],
+      "text": "~15 分鐘 · 免費或 ~HK$4"
+     },
+     "places": [
+      "regala-skycity"
+     ]
+    },
+    {
+     "time": "17:30",
+     "title": "酒店免費穿梭巴士 → 機場",
+     "detail": "如航空公司在 T2，可直接經室內天橋步行前往",
+     "leg": {
+      "modes": [
+       "shuttle"
+      ],
+      "text": "穿梭巴士 ~10 分鐘 · 免費"
+     },
+     "places": [
+      "hkg-airport"
+     ]
+    },
+    {
+     "time": "18:00",
+     "title": "機場辦理登機",
+     "detail": "航班起飛前 3 小時到達 · 預先確認航空公司使用哪個客運大樓",
+     "key": true,
+     "places": [
+      "hkg-airport"
+     ]
+    },
+    {
+     "time": "21:00",
+     "title": "飛返曼谷 · 約 23:15 到達",
+     "leg": {
+      "modes": [
+       "flight"
+      ],
+      "text": "HKG 21:00 → BKK ~23:15"
+     },
+     "places": []
+    }
+   ],
+   "notes": [],
+   "route": [
+    "regala-skycity",
+    "tung-chung-station",
+    "ngong-ping-360",
+    "ngong-ping-village",
+    "tian-tan-buddha",
+    "po-lin-monastery",
+    "citygate-outlets",
+    "hkg-airport"
+   ]
+  }
+ ],
+ "paceCheck": [
+  {
+   "day": "第 1 日",
+   "text": "只需由 T1 搭酒店穿梭巴士，班次行駛至深夜，即使航班延誤也不影響翌日行程",
+   "verdict": "輕鬆"
+  },
+  {
+   "day": "第 2 日",
+   "text": "由航天城搭巴士往東涌，不用繞機場一圈；08:15 出發約 09:15 到園門，預留 15 分鐘緩衝；回程搭酒店穿梭巴士，表演後不用擠港鐵",
+   "verdict": "比原先輕鬆"
+  },
+  {
+   "day": "第 3 日全日",
+   "text": "最辛苦的一天，因為是迪士尼翌日，回程搭港鐵約需 1 小時；因此出發時間改為 08:00、刪去元創方、安排在大館和尖沙咀海濱休息，並於 21:45 前結束廟街行程",
+   "verdict": "適中，不趕"
+  },
+  {
+   "day": "第 4 日",
+   "text": "09:05 免費穿梭巴士往東涌，正好配合纜車時間；全程唯一風險是星期六落山纜車的人龍，所以 13:30 便開始排隊落山，距離 18:00 登機約有 3 小時半緩衝；如排隊太長可縮短在東薈城購物的時間",
+   "verdict": "安全"
+  }
+ ],
+ "budget": {
+  "rate": 4.3,
+  "rows": [
+   {
+    "item": "迪士尼園內餐飲（午餐 + 晚餐 + 小食）",
+    "hkd": 350,
+    "thb": 1500
+   },
+   {
+    "item": "其他日子餐飲",
+    "hkd": 720,
+    "thb": 3100
+   },
+   {
+    "item": "全程交通費（巴士、港鐵、15號巴士、天星小輪 · 酒店穿梭巴士免費）",
+    "hkd": 110,
+    "thb": 470
+   },
+   {
+    "item": "昂坪360纜車（標準車廂來回）",
+    "hkd": 295,
+    "thb": 1270
+   }
+  ],
+  "total": {
+   "hkd": 1475,
+   "thb": 6340
+  },
+  "leftover": {
+   "hkd": 825,
+   "thb": 3660,
+   "label": "餘額用於手信 / 購物 / SIM 卡"
+  },
+  "perDay": [
+   {
+    "day": 1,
+    "hkd": 100
+   },
+   {
+    "day": 2,
+    "hkd": 420
+   },
+   {
+    "day": 3,
+    "hkd": 390
+   },
+   {
+    "day": 4,
+    "hkd": 570
+   }
+  ],
+  "excluded": "不包括：機票、酒店、迪士尼門票（一日票價因日子而異，約 HK$669–939，購票後須在官方網站登記入園日期）· 匯率會波動，兌換前請再確認"
+ },
+ "checklist": {
+  "book": [
+   "購買 11月26日（星期四）迪士尼門票，並在官方網站登記入園日期",
+   "在樂園日曆查看 26日開園時間（如 10:00 開園，07:45 離開酒店）",
+   "預訂 11月28日（星期六）昂坪360纜車票，並確認保養停駛日",
+   "確認回程航空公司使用哪個客運大樓",
+   "向麗豪航天城查詢往迪士尼的穿梭巴士：早班、回程班次、一般住客是否免費、是否需要預約",
+   "索取最新往機場及東涌的穿梭巴士時間表，並查詢退房後寄存行李",
+   "查看幻彩詠香江表演時間"
+  ],
+  "pack": [
+   "八達通（預先增值 HK$150–200，巴士、港鐵、渡輪都適用）",
+   "薄外套：11月下旬早晚較涼，山頂及山上風大",
+   "最舒適好走的鞋，第 2 及第 3 日要走很多路",
+   "流動充電器（全日使用迪士尼 App 十分耗電）",
+   "三腳方頭轉插（英式）",
+   "上網用 SIM 卡或 eSIM",
+   "暈車藥（以防要搭 23 號巴士上山）"
+  ],
+  "routes": [
+   {
+    "label": "酒店 → 各地",
+    "text": "免費穿梭巴士往東涌（09:05–21:15，每小時一班）或巴士 S56/S1 → 東涌站 → 轉乘港鐵"
+   },
+   {
+    "label": "往迪士尼",
+    "text": "東涌綫 → 欣澳 → 迪士尼綫（港鐵 HK$15.9），或時間合適時搭酒店穿梭巴士"
+   },
+   {
+    "label": "入市區",
+    "text": "東涌綫坐到總站香港站（中環），或在荔景站轉綫往九龍"
+   }
+  ]
+ },
+ "updates": [
+  {
+   "id": "symphony-retire",
+   "days": [
+    3
+   ],
+   "places": [
+    "symphony-of-lights"
+   ],
+   "level": "warn",
+   "title": "幻彩詠香江或於 11月27日前停辦",
+   "text": "2026–27 年度政府財政預算案宣布於 2026 年下半年停辦此表演，改為輪流舉行的燈光節，尚未公布最後演出日期（2026年9月21日公告仍如常上演）— 出發前一星期請再確認；即使停辦，尖沙咀海濱夜景依然很美",
+   "sources": [
+    "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
+    "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm"
+   ]
+  },
+  {
+   "id": "t2-checkin",
+   "days": [
+    4
+   ],
+   "places": [
+    "hkg-airport",
+    "skycity-t2"
+   ],
+   "level": "warn",
+   "title": "回程或需在二號客運大樓辦理登機",
+   "text": "自 2026年5月27日起，T2 只開放離港登記部分，旅客辦理後乘列車往 T1 登機；已遷移的航空公司包括香港航空、HK Express、AirAsia、Batik Air、VietJet、Cebu Pacific — 如屬其中之一，可按計劃由酒店經室內天橋直接步行往 T2",
+   "sources": [
+    "https://centreforaviation.com/news/hong-kong-airport-continues-phased-reopening-of-t2-1360832",
+    "https://traveltradejournal.com/hong-kong-international-airport-unveils-new-terminal-2-departure-operations-begin-from-may-27/"
+   ]
+  },
+  {
+   "id": "shuttle-tung-chung-times",
+   "days": [
+    2,
+    3,
+    4
+   ],
+   "places": [
+    "regala-skycity",
+    "tung-chung-station"
+   ],
+   "level": "tip",
+   "title": "最新酒店 ↔ 東涌穿梭巴士時間表與計劃略有不同",
+   "text": "官方時間表（2026年4月27日版）：由酒店開出頭班 08:05，之後 09:05、10:05 … 尾班 22:05 · 由東涌 A 出口開出頭班 08:15，尾班 22:15（原計劃寫 09:05–21:15）· 因此第 2 日可改搭 08:05 一班代替 08:15 的巴士 · 第 3 日晚 21:45 由佐敦出發，約 22:25 才到東涌，趕不上 22:15 一班，照原計劃搭巴士 S1/S56 · 穿梭巴士只限酒店住客，須出示房卡",
+   "sources": [
+    "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf"
+   ]
+  },
+  {
+   "id": "shuttle-airport-late",
+   "days": [
+    1
+   ],
+   "places": [
+    "regala-skycity",
+    "hkg-airport"
+   ],
+   "level": "ok",
+   "title": "機場穿梭巴士行駛至比計劃更晚",
+   "text": "由機場旅遊巴士站往酒店每 30 分鐘一班，行駛至 01:30（原計劃寫約 23:45），上車點為酒店穿梭巴士站 9–11 號車位 — 如找不到，可向 T1 入境大堂的富豪酒店 B15 櫃位查詢",
+   "sources": [
+    "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf"
+   ]
+  },
+  {
+   "id": "disney-shuttle",
+   "days": [
+    2
+   ],
+   "places": [
+    "regala-skycity",
+    "hong-kong-disneyland",
+    "castle-of-magical-dreams"
+   ],
+   "level": "tip",
+   "title": "迪士尼穿梭巴士：去程太遲不合計劃，回程可照計劃使用",
+   "text": "去程只有 09:15（09:45 到達）及 10:15 兩班 — 都遲過計劃到達園門的時間（09:15），應照原計劃搭巴士 + 港鐵 · 回程由旅遊巴士停車場 – Good Neighbour 酒店穿梭巴士站第 2 行開出，約於《Momentous》表演開始後 50 分鐘（有效至 2026年12月31日），先停富豪機場酒店再到麗豪，錯過便沒有後備班次",
+   "sources": [
+    "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf"
+   ]
+  },
+  {
+   "id": "disney-hours",
+   "days": [
+    2
+   ],
+   "places": [
+    "hong-kong-disneyland"
+   ],
+   "level": "tip",
+   "title": "26日開園時間尚未公布 · 適逢聖誕活動",
+   "text": "一般平日 10:30–20:00 開放，與計劃一致（10:30 開園），但須再查看樂園日曆 · 成人一日票 Tier 1–4 = HK$669 / 759 / 849 / 939 · 「A Disney Christmas」活動 2026年11月20日 – 2027年1月3日：魔雪奇緣世界換上聖誕裝飾、人造雪、城堡前全新表演及聖誕樹亮燈儀式 · 香港迪士尼樂園酒店自 2026年10月12日起閉館翻新（不影響本行程）",
+   "sources": [
+    "https://www.hongkongdisneyland.com/entertainment/",
+    "https://www.thestandard.com.hk/news/article/220836/Disney-raising-ticket-prices-up-to-7-pc",
+    "https://tdrexplorer.com/hong-kong-disneyland-christmas-guide-2026/"
+   ]
+  },
+  {
+   "id": "np360-saturday",
+   "days": [
+    4
+   ],
+   "places": [
+    "ngong-ping-360"
+   ],
+   "level": "ok",
+   "title": "纜車星期六 09:00 開放 · 未見 11月保養停駛公告",
+   "text": "星期六、日 09:00–18:30 開放，計劃 09:30 排隊剛好 · 標準車廂來回 HK$295，與計劃一致 · 最近一次保養停駛為 2026年9月8–18日，暫未有 11月停駛公告（截至 10月18日），但遇上颱風可能暫停服務",
+   "sources": [
+    "https://www.np360.com.hk/en/tickets-promotions/tickets-tours/cable-car-tickets",
+    "https://www.np360.com.hk/media/jzngchi0/immediate-release-ngong-ping-cable-car-to-carry-out-scheduled-maintenance-from-8-to-18-september.pdf"
+   ]
+  },
+  {
+   "id": "bus-23-fare",
+   "days": [
+    4
+   ],
+   "places": [
+    "bus-23"
+   ],
+   "level": "ok",
+   "title": "23 號巴士星期六仍按平日收費 HK$20.4",
+   "text": "假日收費 HK$37 只適用於星期日 / 公眾假期，而 2026年11月25–28日期間香港沒有公眾假期",
+   "sources": [
+    "https://www.nlb.com.hk/"
+   ]
+  },
+  {
+   "id": "fares",
+   "days": [
+    2,
+    3
+   ],
+   "places": [
+    "tung-chung-station",
+    "hong-kong-station",
+    "jordan-station",
+    "star-ferry",
+    "bus-15-peak"
+   ],
+   "level": "ok",
+   "title": "2026 年實際車費",
+   "text": "港鐵 2026 年不加價：東涌→迪士尼 HK$15.9、東涌→香港 HK$24.3、佐敦→東涌 HK$18.7 · 巴士 S1/S56 HK$3.7 · 城巴 15 HK$13.0 · 天星小輪上層星期五 HK$5.0 · 巴士及渡輪有待批的加價申請，出發前或會調整",
+   "sources": [
+    "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+    "https://www.starferry.com.hk/en/service",
+    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent"
+   ]
+  },
+  {
+   "id": "escalator-direction",
+   "days": [
+    3
+   ],
+   "places": [
+    "mid-levels-escalator"
+   ],
+   "level": "ok",
+   "title": "半山自動扶梯 10:00 後向上行駛",
+   "text": "06:00–10:00 向下，10:00–24:00 向上 — 計劃 13:45 使用，可輕鬆上山",
+   "sources": [
+    "https://www.td.gov.hk/en/transport_in_hong_kong/pedestrians/hillside_escalator"
+   ]
+  }
+ ],
+ "practical": [
+  {
+   "title": "11月下旬天氣",
+   "text": "11月氣候平均值（香港天文台 1991–2020）：平均最高 24.5°C、最低 20.3°C，雨量 39.3 毫米，約 5.7 天有雨，濕度 72% · 月底通常比平均涼，預計約 18–24°C，晚上或低至 15–17°C · 山頂及昂坪比市區涼 2–4°C，風亦較大",
+   "source": "https://www.hko.gov.hk/en/cis/normal/1991_2020/normals.htm"
+  },
+  {
+   "title": "匯率",
+   "text": "1 HKD ≈ 4.26泰銖（2026年10月18日中間價），原計劃用 4.3，相差不大 · 找換店實際匯率與中間價約差 1–3%",
+   "source": "https://open.er-api.com/v6/latest/HKD"
+  },
+  {
+   "title": "八達通",
+   "text": "租用八達通按金 HK$50 + 儲值額 HK$150，可在港鐵客務中心購買（機場站設有）· 遊客八達通 HK$39，不設按金 · iPhone 用戶可將八達通加入 Apple Wallet，並用信用卡增值",
+   "source": "https://octopus.com.hk/en/consumer/tourist/choices/index.html"
+  }
+ ],
+ "places": {
+  "hkg-airport": {
+   "nameLocal": "香港國際機場 一號客運大樓",
+   "intro": "整個行程的出入口，去程在一號客運大樓（T1）落機，回程亦在此辦理登機。客運大樓連接機場快綫機場站及酒店穿梭巴士上落客點。",
+   "address": "大嶼山赤鱲角翔天路1號 (1 Sky Plaza Road, Chek Lap Kok, Lantau Island)",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "24小時開放；入境大堂（Arrivals Hall A/B）位於T1五樓",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "往麗豪航天城酒店：酒店免費穿梭巴士（見 regala-skycity）或巴士 S1/S56（HK$3.7），於暢達路 (Cheong Tat Road) 一號客運大樓（北/南）站上車；往市區：機場快綫或 A 線巴士",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "落機後30–60分鐘（入境 + 取行李 + 買八達通）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "港鐵客務中心（Customer Service Centre）位於機場快綫機場站，與T1入境大堂相連——可購買/退還租用八達通",
+    "富豪酒店國際機場櫃位 (Regal Hotels International Airport Counter) B15 位於T1入境大堂（根據麗豪穿梭巴士 PDF 內的地圖）",
+    "T2：自2026年5月27日起只開放登記/離境部分（非禁區）——旅客於T2辦理登機後乘旅客捷運系統 (APM) 往T1登機；香港航空首先遷入，其後約14間航空公司陸續遷入（例如香港快運、AirAsia 由5月28日起、Batik Air、海南航空、IndiGo、VietJet、Cebu Pacific），2026年6月10日完成",
+    "入境（Arrivals）仍全部在T1——T2入境部分預計2027年內啟用"
+   ],
+   "tips": [
+    "回程（11月28日）請在機票/航空公司App查清楚在T1還是T2辦理登機——如乘搭已遷往T2的航空公司（例如香港快運/AirAsia）須前往T2",
+    "遊客八達通（HK$39）——八達通網站列明主要銷售點為鴻福堂；有資料指機場入境櫃位出售連HK$100儲值的版本（合共HK$139）——未經官方網站證實",
+    "麗豪穿梭巴士於酒店巴士站 (Hotel Coach Station, Bay 9–11) 上車，酒店 PDF 註明位於「at Terminal 2」（T1與T2之間的非禁區），如找不到可詢問B15櫃位"
+   ],
+   "verifyNote": "T2狀況由多個新聞來源證實（未能開啟 hongkongairport.com 頁面——403）。座標 = OSM 上T1大樓中心點；機場站（機場快綫）位於 22.31592, 113.93648"
+  },
+  "regala-skycity": {
+   "nameLocal": "麗豪航天城酒店（三晚住宿酒店）",
+   "intro": "位於航天城 (SKYCITY) 的酒店，毗鄰亞洲國際博覽館及 11 SKIES，經有蓋天橋可步行至二號客運大樓。提供住客免費穿梭巴士往機場、東涌站及迪士尼樂園——是今次行程每日的據點。",
+   "address": "赤鱲角香港國際機場航展道8號（航天城內，毗鄰亞洲國際博覽館及 11 SKIES）電話 +852 3556 3288",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "酒店24小時",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "以預訂為準",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "免費穿梭巴士（Route 1）由機場巴士站 / 酒店巴士站 Bay 9–11 開出；或港鐵機場快綫博覽館站；或巴士 S1 於博覽館（航展道）站落車再步行",
+     "source": "research"
+    },
+    {
+     "label": "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2) · 開放時間",
+     "value": "麗豪特別路線：Momentous 開始後50分鐘開出",
+     "source": "research"
+    },
+    {
+     "label": "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2) · 價錢",
+     "value": "免費（麗豪住客）",
+     "source": "research"
+    },
+    {
+     "label": "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2) · 交通",
+     "value": "出樂園大閘後步行往旅遊巴停車場（麗豪 PDF 地圖註明 Coach Park Row 2, Bay 200–400）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "穿梭巴士 Route 1（酒店 ↔ 機場巴士站）：酒店開出 05:00, 05:15, 05:30, 05:45, 06:00, 06:15, 06:30, 06:45, 07:00, 07:15, 07:30, 07:45, 08:00, 08:30, 09:00, 09:35, 10:00, 10:30, 11:00, 11:35, 12:00, 12:30, 13:00, 13:35, 14:00, 14:30, 15:00, 15:35, 16:00, 16:30, 17:00, 17:35, 18:00, 18:30, 19:00, 19:35, 20:00, 20:30, 21:00, 21:35, 22:00, 22:30, 23:00, 23:30",
+    "穿梭巴士 Route 1（機場巴士站 → 酒店）：06:15, 06:45, 07:15, 07:45, 08:15, 08:45, 09:15, 09:45, 10:15, 10:45, 11:15, 11:45, 12:15, 12:45, 13:15, 13:45, 14:15, 14:45, 15:15, 15:45, 16:15, 16:45, 17:15, 17:45, 18:15, 18:45, 19:15, 19:45, 20:15, 20:45, 21:15, 21:45, 22:15, 22:45, 23:15, 23:45, 00:00, 00:15, 00:30, 01:00, 01:15, 01:30（時間表上寫作 24:00–25:30）",
+    "穿梭巴士 Route 2（酒店 → 港鐵東涌站 A 出口）：08:05, 09:05, 10:05, 11:05, 12:05, 13:05, 14:05, 15:05, 16:05, 17:05, 18:05, 19:05, 19:15, 20:05, 20:15, 21:05, 21:15, 22:05",
+    "穿梭巴士 Route 2（港鐵東涌站 A 出口 → 酒店）：08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15, 19:15, 19:30*, 20:15, 20:30*, 21:15, 21:30*, 22:15（*只往麗豪航天城酒店的班次）",
+    "穿梭巴士 Route 3（酒店 → 港珠澳大橋 → 香港迪士尼樂園，只送不接）：09:15 開出 09:45 抵達迪士尼 / 10:15 開出 10:45 抵達",
+    "迪士尼回程特別路線（有效至2026年12月31日）：由 Coach Park – Good Neighbour Hotel Shuttle Station Row 2 開出，時間為「Momentous: Party in the Night Sky」匯演開始後50分鐘（如無匯演，則樂園關門後20分鐘開出）→ 富豪機場酒店（約20分鐘）→ 麗豪航天城酒店（約5分鐘）",
+    "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2)：麗豪穿梭巴士途經富豪機場酒店（約20分鐘）再抵達麗豪航天城酒店（約5分鐘）"
+   ],
+   "tips": [
+    "穿梭巴士只限酒店住客（須出示房卡/預訂證明），座位有限，先到先得",
+    "由迪士尼回程如錯過特別路線，不設後備車——後備方案：港鐵迪士尼站 → 欣澳 → 東涌，再轉 S1/S56 或穿梭巴士 Route 2（東涌尾班 22:15）",
+    "每人限大型行李1件（不超過 76×51×32 厘米、20 公斤）",
+    "提早到達候車，座位有限，不設後備車"
+   ],
+   "verifyNote": "時間表讀自酒店官方 PDF（檔案名稱「Updated 27 Apr 2026」，2026年7月上載）。時間表或有更改——請再向前台確認"
+  },
+  "skycity-t2": {
+   "nameLocal": "航天城 / 11 SKIES / 二號客運大樓",
+   "intro": "機場旁的新區，有 11 SKIES 商場、餐廳及便利店，由酒店步行可達。適合第一晚吃晚餐，不用付酒店餐廳的價錢。",
+   "facts": [
+    {
+     "label": "T2 狀況",
+     "value": "T2 自2026年5月27日起只開放登記/離境（非禁區），於T1登機——入境仍在T1（T2入境2027年內啟用）",
+     "source": "research"
+    },
+    {
+     "label": "遷往T2的航空公司",
+     "value": "香港航空（首間）+ 另外約14間，例如香港快運、AirAsia、Batik Air、海南航空、IndiGo、VietJet Air、Cebu Pacific（2026年6月10日完成）",
+     "source": "research"
+    },
+    {
+     "label": "巴士",
+     "value": "「SKYCITY」站為 S56（HK$3.7）往東涌站的停站",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": [],
+   "verifyNote": "座標為 SKYCITY 巴士站（運輸署資料），並非商場本身"
+  },
+  "asiaworld-expo": {
+   "nameLocal": "機場博覽館 巴士站 (航展道)",
+   "intro": "亞洲國際博覽館門前的巴士站，距酒店只需數分鐘。巴士 S1 停此站，酒店穿梭巴士時間不合適時可乘此往東涌站。",
+   "address": "赤鱲角航展道（亞洲國際博覽館門前，近麗豪航天城酒店）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "S1：每日約 05:30–24:00",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "S1（東涌站 ↔ 機場 循環線）HK$3.7，八達通/現金；S56 HK$3.7",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "S1 循環行走：東涌站 → 一號客運大樓（南/北）→ 富豪機場酒店 → 博覽館 → 航天城萬豪酒店 → 東涌纜車站 → 東涌站。S56 不經博覽館站，但停「SKYCITY」站（22.31660, 113.94068）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "S1 由博覽館往東涌站約15–20分鐘（估計）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "S1 日間約7–10分鐘一班（根據運輸署時間表）",
+    "S1 抵達東涌站前途經東涌纜車站——如要搭昂坪360纜車可在該站落車"
+   ],
+   "tips": [
+    "用八達通拍卡即可，付現金不設找贖"
+   ],
+   "verifyNote": "車費/停站/班次來自運輸署開放數據（經 hkbus.app）。城巴2026年加價申請（最高17.7%）截至2026年10月18日仍未獲批"
+  },
+  "octopus-card": {
+   "nameLocal": "八達通",
+   "intro": "一張儲值卡即可乘搭巴士、港鐵、天星小輪及在便利店付款。第一天離開機場前必須準備好，因為第二天早上要用來搭巴士。",
+   "facts": [
+    {
+     "label": "Tourist Octopus",
+     "value": "遊客八達通 HK$39（成人），卡內無儲值、無按金、卡費不退（可退還餘額，但卡會被停用）；China T-Union 版 HK$42；官方網站列明銷售點：鴻福堂——有資料指機場出售 HK$39 + 儲值 HK$100 = HK$139 的版本",
+     "source": "research"
+    },
+    {
+     "label": "On-Loan Octopus",
+     "value": "租用八達通：按金 HK$50 + 首次儲值 HK$150（根據官方「Choice of Octopus」頁面），可於各港鐵站客務中心購買，包括機場站；可於客務中心退卡（90日內退卡手續費約HK$11——非官方資料）",
+     "source": "research"
+    },
+    {
+     "label": "手機版",
+     "value": "Octopus App for Tourists——於 Apple Wallet 加入八達通（iPhone X 或以上），可用信用卡增值，毋須購買實體卡（建議 iPhone 用戶使用）",
+     "source": "research"
+    },
+    {
+     "label": "增值",
+     "value": "可於港鐵站增值機、7-Eleven、OK便利店 (Circle K) 以現金增值",
+     "source": "research"
+    },
+    {
+     "label": "原定計劃建議",
+     "value": "預先增值 HK$150–200，巴士、港鐵及小輪都適用",
+     "source": "plan"
+    }
+   ],
+   "highlights": [],
+   "tips": [],
+   "verifyNote": "座標為設有港鐵客務中心的機場站（機場快綫）"
+  },
+  "tung-chung-station": {
+   "nameLocal": "東涌站",
+   "intro": "幾乎每天都會經過的主要車站，東涌綫總站，毗鄰東薈城及昂坪360纜車站。A 出口是酒店穿梭巴士上落點。",
+   "address": "大嶼山東涌達東路（毗鄰東薈城名店倉及昂坪360纜車站）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "港鐵約 06:00–01:00（未核對2026年首/尾班車時間）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "成人車費（八達通 / 單程票）：東涌→迪士尼 HK$15.9 / $17.0；東涌→香港 HK$24.3 / $28.0；東涌→佐敦 HK$18.7 / $21.0；東涌→欣澳 HK$11.0 / $13.0；東涌→中環 HK$24.3；東涌→尖沙咀 HK$18.7",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由麗豪：穿梭巴士 Route 2 或 S1/S56。往迪士尼：東涌綫往欣澳，再轉迪士尼綫",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "A 出口 = 麗豪穿梭巴士上落點",
+    "步行往昂坪360纜車站約5分鐘",
+    "23號巴士（往昂坪）於車站附近的達東路巴士總站開出"
+   ],
+   "tips": [
+    "港鐵2026年車費凍結（票價調整機制計出1.4%，未達1.5%門檻）"
+   ],
+   "verifyNote": "車費來自港鐵開放數據（檔案更新於2026年4月2日）"
+  },
+  "sunny-bay-station": {
+   "nameLocal": "欣澳站",
+   "intro": "往迪士尼的轉車站，由東涌綫落車後橫過月台轉乘迪士尼綫。",
+   "address": "大嶼山欣澳",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按港鐵服務時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "轉車毋須另付車費——按起點至終點計算（東涌→迪士尼 HK$15.9 八達通）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由東涌綫轉迪士尼綫的轉車站（同一月台對面轉車）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "轉車約3–5分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "迪士尼綫列車以迪士尼主題裝飾（米奇頭形車窗）"
+   ],
+   "tips": [],
+   "verifyNote": "迪士尼站位於 22.31534, 114.04514；東涌→欣澳約10分鐘，欣澳→迪士尼約5分鐘（估計）"
+  },
+  "disneyland-resort-line": {
+   "nameLocal": "港鐵迪士尼綫",
+   "intro": "由欣澳至迪士尼站的短程鐵路，整列車以迪士尼主題裝飾，車窗為米奇頭形，車程約5分鐘。",
+   "facts": [
+    {
+     "label": "車費",
+     "value": "東涌 → 迪士尼 HK$15.9（八達通）/ HK$17.0（單程票），全程合併計算，轉車毋須另付",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "東涌 → 欣澳約10分鐘，欣澳 → 迪士尼約5分鐘（估計）",
+     "source": "research"
+    },
+    {
+     "label": "車費備註",
+     "value": "港鐵2026年車費凍結（機制計出 +1.4% < 1.5% 門檻）；數字來自港鐵開放數據（2026年4月2日更新）——成人八達通 / 單程票",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": []
+  },
+  "hong-kong-disneyland": {
+   "nameLocal": "香港迪士尼樂園",
+   "intro": "行程的重頭戲，由開園玩到晚間匯演。11月下旬正值聖誕活動，樂園佈置得十分豐富。",
+   "address": "大嶼山香港迪士尼樂園度假區",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "2026年11月26日（星期四）：未核對當日開放時間——官方網站顯示2026年10月15日（星期四）為 10:30–20:00（平日一般時間），出發前請再確認 Park Calendar",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "一日門票分4級（成人 / 小童3–11歲 及 長者60歲以上）：Tier 1 HK$669 / $499；Tier 2 HK$759 / $569；Tier 3 HK$849 / $639；Tier 4 HK$939 / $705（2024年9月25日起的價錢於2026年仍適用——2026年 Non-stop 2-Day Fun Ticket 頁面引用 Tier 1 = HK$669）。11月下旬平日通常為 Tier 1–2，但須查閱價格日曆",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "港鐵：東涌 → 欣澳 → 迪士尼（HK$15.9 八達通）。或麗豪穿梭巴士 Route 3（酒店 09:15 / 10:15 開出）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "全日（開園至關門）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "聖誕活動「A Disney Christmas」2026年11月20日 – 2027年1月3日：魔雪奇緣世界聖誕佈置 + 人造雪 + 冬日市集；城堡前全新米奇與米妮表演（有 Stitch）；聖誕樹亮燈儀式「A Holiday Wish-Come-True」由聖誕高飛主持（雪景 + 無人機）",
+    "「Disney Christmas Live in Concert!」只限2026年11月21–22日及12月5–6日——與11月26日不符",
+    "晚間匯演：「Momentous」（麗豪文件中的全名：「Momentous: Party in the Night Sky」）於奇妙夢想城堡上演——通常約於樂園關門時間（約20:00）開始，實際時間請查看App",
+    "日間巡遊：「Disney Friendtastic! Parade」（2025年推出，慶祝20週年），路線為美國小鎮大街 (Main Street U.S.A.)——網誌資料指約15:30開始，歷時約35分鐘（2026年未經證實）",
+    "精選機動遊戲：魔雪奇緣世界、迷離大宅、灰熊山極速礦車、鐵甲奇俠飛行之旅、蟻俠與黃蜂女：擊戰特攻！、反斗奇兵大本營"
+   ],
+   "tips": [
+    "須預先購票及持有有效的入園預約（指定日期門票）——於 hongkongdisneyland.com 或App購買",
+    "Non-stop 2-Day Fun Ticket：加 HK$100 可於翌日連續入園（發售至2026年12月31日）",
+    "香港迪士尼樂園酒店自2026年10月12日起閉館翻新（迪士尼探索家度假酒店及迪士尼好萊塢酒店照常營業）",
+    "下載香港迪士尼樂園App查看每日表演時間及輪候時間"
+   ],
+   "verifyNote": "已證實：匯演名稱 Momentous（官方網站）、分級票價（The Standard + 官方優惠頁面）、2026年聖誕活動日期（兩個來源一致，但未於 news.hongkongdisneyland.com 找到新聞稿）。未經證實：2026年11月26日開放/關門時間、2026年表演/巡遊時間、11月26日的票價級別"
+  },
+  "world-of-frozen": {
+   "nameLocal": "魔雪奇緣世界",
+   "intro": "以《魔雪奇緣》艾倫戴爾 (Arendelle) 為主題的園區，有2個主要機動遊戲，是全園排隊最長的地方，所以計劃開園後立即直奔這裏。",
+   "address": "香港迪士尼樂園內（幻想世界後方，西面）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在樂園門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由幻想世界步行前往",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "1.5–2.5小時（包括排隊）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Frozen Ever After（魔雪奇幻之旅）——乘船穿越艾倫戴爾場景（座標 22.31204, 114.03847）",
+    "Wandering Oaken's Sliding Sleighs（雪嶺滑雪橇）——家庭過山車（座標 22.31301, 114.03871）",
+    "2026年聖誕期間：艾倫戴爾佈置、季節性落雪、Anna/Elsa 冬裝、Olaf、冬日市集"
+   ],
+   "tips": [
+    "開園時或接近關門時前往，因為這兩個機動遊戲排隊時間全園最長",
+    "預算許可可考慮 Premier Access（尊享卡）"
+   ],
+   "verifyNote": "座標來自 OSM（theme_area）；聖誕資料來自新聞來源"
+  },
+  "mystic-manor": {
+   "nameLocal": "迷離大宅",
+   "intro": "香港迪士尼獨有的黑暗乘騎 (dark ride)，乘坐無軌車參觀 Lord Henry Mystic 會動起來的收藏品。",
+   "address": "香港迪士尼樂園 迷離莊園 (Mystic Point)",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "迷離莊園 (Mystic Point) 園區（樂園最南端）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "30–45分鐘（包括排隊）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "無軌黑暗乘騎，配樂由 Danny Elfman 創作——香港獨有"
+   ],
+   "tips": [],
+   "verifyNote": "座標來自 OSM；未核對2026年11月是否暫停維修"
+  },
+  "big-grizzly-mountain": {
+   "nameLocal": "灰熊山極速礦車",
+   "intro": "灰熊山谷 (Grizzly Gulch) 園區的礦車過山車，有倒後行駛的一段，刺激但不會太激烈。",
+   "address": "香港迪士尼樂園 灰熊山谷 (Grizzly Gulch)",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "灰熊山谷 (Grizzly Gulch) 園區（毗鄰迷離莊園/反斗奇兵大本營）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "30–60分鐘（包括排隊）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "礦車過山車，有倒後行駛一段——適合一家大細"
+   ],
+   "tips": [],
+   "verifyNote": "座標 = OSM 上灰熊山谷內的 roller_coaster 位置"
+  },
+  "toy-story-land": {
+   "nameLocal": "反斗奇兵大本營",
+   "intro": "令人感覺縮小成 Andy 玩具般大小的園區，有3個家庭機動遊戲。",
+   "address": "香港迪士尼樂園",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "樂園西南面園區，近灰熊山谷",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–90分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "沖天遙控車 (RC Racer)",
+    "玩具兵團衝天降 (Toy Soldier Parachute Drop)",
+    "彈弓狗團團轉 (Slinky Dog Spin)"
+   ],
+   "tips": [
+    "Toy Soldier Boot Camp 是園區常設表演（列於官方娛樂節目表）"
+   ],
+   "verifyNote": "機動遊戲名稱來自一般認知，未核對2026年開放狀況"
+  },
+  "iron-man-experience": {
+   "nameLocal": "鐵甲奇俠飛行之旅（史塔克博覽 Stark Expo）",
+   "intro": "與鐵甲奇俠一同飛越香港上空的模擬器，位於史塔克博覽 (Stark Expo) 園區，與「蟻俠與黃蜂女：擊戰特攻！」相鄰。",
+   "address": "香港迪士尼樂園 明日世界 Stark Expo",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "明日世界 (Tomorrowland) 園區（東面，近入口）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–75分鐘（兩個機動遊戲合計）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "鐵甲奇俠飛行之旅 (Iron Man Experience)——飛越香港的模擬器",
+    "蟻俠與黃蜂女：擊戰特攻！(Ant-Man and The Wasp: Nano Battle!)——射擊黑暗乘騎（座標 22.31389, 114.04270）"
+   ],
+   "tips": [
+    "早上排隊時間通常比魔雪奇緣世界短"
+   ],
+   "verifyNote": "座標來自 OSM"
+  },
+  "fantasyland": {
+   "nameLocal": "幻想世界",
+   "intro": "城堡後方的經典童話園區，機動遊戲較輕鬆，適合下午行到累的時候，亦是前往魔雪奇緣世界的必經之路。",
+   "address": "香港迪士尼樂園（城堡後方）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由美國小鎮大街 (Main Street) 穿過城堡步行前往",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "1–2小時",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "米奇幻想曲 (Mickey's PhilharMagic)",
+    "小小世界 (It's a Small World)",
+    "小熊維尼歷險之旅 (The Many Adventures of Winnie the Pooh)",
+    "瘋帽子旋轉杯 (Mad Hatter Tea Cups)",
+    "灰姑娘旋轉木馬 (Cinderella Carousel)"
+   ],
+   "tips": [
+    "幻想世界是前往魔雪奇緣世界的必經之路"
+   ],
+   "verifyNote": "座標 = OSM 上的幻想世界火車站（約園區中央）；機動遊戲名單來自一般認知，未核對2026年狀況"
+  },
+  "castle-of-magical-dreams": {
+   "nameLocal": "奇妙夢想城堡",
+   "intro": "樂園中央的城堡，是晚間匯演 Momentous（投影、煙花及無人機）的背景，計劃在離開前觀賞。",
+   "address": "香港迪士尼樂園 The Hub",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按樂園開放時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "已包括在門票內",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "美國小鎮大街 (Main Street U.S.A.) 盡頭",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "拍照15–30分鐘 + 觀賞匯演",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "「Momentous」的背景（投影 + 煙花 + 無人機）",
+    "2026年聖誕期間：城堡前全新米奇與米妮表演（+Stitch）及聖誕樹亮燈儀式"
+   ],
+   "tips": [
+    "提早30–45分鐘在美國小鎮大街/城堡前霸位觀賞 Momentous（Premier Access 有出售特別觀賞區）"
+   ]
+  },
+  "exchange-square": {
+   "nameLocal": "交易廣場巴士總站（中環）",
+   "intro": "中環交易廣場地下的巴士總站，是城巴15號線往太平山頂的上車點，由香港站步行約5分鐘。",
+   "address": "中環康樂廣場交易廣場（交易廣場地下，連接國際金融中心/香港站）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "15號線由交易廣場約 06:00 起開出；上午後段至晚間起點站為中環5號碼頭（長洲/南丫島渡輪），再途經交易廣場",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "城巴 15 → 山頂：HK$13.0（成人，由中環/交易廣場起點）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由港鐵香港站/中環站跟交易廣場指示步行約5分鐘",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "車程約40–60分鐘（視乎交通）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "路線：中環 → 金鐘 → 皇后大道東 → 司徒拔道 → 山頂道 → 山頂（山頂廣場下的巴士總站）",
+    "班次（根據運輸署時間表）：星期一至五約每10–15分鐘，星期六、日較密約7–10分鐘"
+   ],
+   "tips": [
+    "坐上層——上山時不少人愛坐左邊欣賞跑馬地/海港景色（網誌建議，未經證實）",
+    "比山頂纜車便宜得多（HK$13 vs 單程 HK$82），亦毋須長時間排隊"
+   ],
+   "verifyNote": "車費 HK$13 及時間表來自運輸署開放數據（已證實）；未直接於 citybus.com.hk 頁面證實。城巴申請加價17.7%（2026年10月提交立法會）——可能於行程前/後加價"
+  },
+  "bus-15-peak": {
+   "nameLocal": "城巴15號線（往山頂）",
+   "intro": "按計劃以慳錢方式上山頂，雙層巴士經司徒拔道上山，坐上層沿途可欣賞市景，比山頂纜車便宜數倍，亦毋須長時間排隊。",
+   "facts": [
+    {
+     "label": "車費",
+     "value": "成人 HK$13.0（由中環/交易廣場）——對比山頂纜車單程 HK$82",
+     "source": "research"
+    },
+    {
+     "label": "起點",
+     "value": "早上由交易廣場開出；上午後段至晚間起點站為中環5號碼頭，再途經交易廣場",
+     "source": "research"
+    },
+    {
+     "label": "路線",
+     "value": "中環 → 金鐘 → 皇后大道東 → 司徒拔道 → 山頂道 → 山頂（山頂廣場下）",
+     "source": "research"
+    },
+    {
+     "label": "班次",
+     "value": "星期一至五約每10–15分鐘，星期六、日約7–10分鐘（運輸署時間表）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "按計劃約40分鐘（如塞車40–60分鐘）",
+     "source": "plan"
+    }
+   ],
+   "highlights": [],
+   "tips": [
+    "按原定計劃，上山坐上層左邊",
+    "巴士公司已申請2026年加價（城巴17.7%、嶼巴9.8%）——截至2026年10月18日仍未獲批"
+   ],
+   "verifyNote": "座標為終點站山頂巴士總站"
+  },
+  "victoria-peak": {
+   "nameLocal": "太平山頂（山頂）",
+   "intro": "香港島最高的觀景點，可飽覽中環摩天大廈及整個維多利亞港。計劃選擇免費觀景點，而不付費上摩天台。",
+   "address": "山頂道山頂巴士總站（山頂廣場下，山頂道118號）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "全日開放；凌霄閣 07:00–23:00，摩天台428 08:30–22:00，山頂纜車 07:30–23:00",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費（摩天台428 / 山頂纜車除外）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "城巴15號線由中環/交易廣場（HK$13）或由花園道乘山頂纜車（22.27772, 114.15955）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "2–3小時（包括山頂環迴步行徑）",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · 開放時間",
+     "value": "每日 08:30–22:00（凌霄閣 07:00–23:00）",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · 價錢",
+     "value": "摩天台428 成人 HK$80 / 小童-長者 HK$50；山頂纜車來回 + 摩天台套票 HK$182（單程 + 摩天台 HK$146）——只供參考",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · 交通",
+     "value": "位於凌霄閣頂層，巴士站旁",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · 所需時間",
+     "value": "30–45分鐘",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · 開放時間",
+     "value": "每日 07:30–23:00",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · 價錢",
+     "value": "成人 來回 HK$116 / 單程 HK$82；小童/長者 來回 HK$75 / 單程 HK$52（2025年12月29日起）——對比15號巴士 HK$13",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · 交通",
+     "value": "由港鐵中環站 J2 出口步行約10分鐘",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · 所需時間",
+     "value": "車程約5–7分鐘，但排隊可能需時30–90分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "獅子亭（免費觀景）",
+    "山頂環迴步行徑（盧吉道 + 夏力道）",
+    "凌霄閣 / 山頂廣場（餐廳/洗手間）",
+    "摩天台428（凌霄閣）：山頂最高觀景台（428米）",
+    "山頂纜車（花園道纜車總站）：具歷史的陡斜纜車（1888年）"
+   ],
+   "tips": [
+    "日落時段（11月下旬約17:40）人多，提早30–45分鐘前往",
+    "提供的座標 = 山頂巴士站",
+    "預算有限的話，獅子亭可免費欣賞相近景色",
+    "慳錢方案：搭15號巴士上山，乘山頂纜車落山（或相反）"
+   ],
+   "verifyNote": "開放時間來自 thepeak.com.hk 網頁（經搜尋結果；WebFetch 被封鎖 403）"
+  },
+  "lions-pavilion": {
+   "nameLocal": "獅子亭",
+   "intro": "芬梨道旁的中式涼亭，免費欣賞維多利亞港的觀景點，由凌霄閣步行數分鐘即達。",
+   "address": "山頂芬梨道（近凌霄閣/山頂廣場）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "24小時",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由凌霄閣/山頂巴士站沿芬梨道步行約3–5分鐘",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "15–30分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "中式涼亭，由國際獅子會於1972年興建",
+    "免費欣賞維多利亞港的觀景點，可代替摩天台428"
+   ],
+   "tips": [
+    "傍晚人多，影相需要等位"
+   ],
+   "verifyNote": "座標為 OSM 節點「The Peak Lions Viewpoint」"
+  },
+  "peak-circle-walk": {
+   "nameLocal": "山頂環迴步行徑 (盧吉道 – 夏力道)",
+   "intro": "環繞山頂的步行徑，大部分路段平坦。盧吉道一段為依山而建的棧道，是欣賞市景最美的路線之一。",
+   "address": "起點為凌霄閣/山頂纜車總站旁的盧吉道",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "全日（部分路段深夜沒有照明）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由凌霄閣往盧吉道方向步行（順時針/逆時針皆可）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "約1–1.5小時（全長約3–4公里）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "大部分路段平坦，容易行",
+    "盧吉道棧道一段可欣賞海港 + 摩天大廈景色"
+   ],
+   "tips": [
+    "如晚上前往，建議只來回行盧吉道一段而不行全圈，因為夏力道較暗（一般建議）"
+   ],
+   "verifyNote": "資料來源對全長3–4公里說法不一；座標 = 盧吉道上的山頂纜車公司辦事處（起點）"
+  },
+  "dim-sum-central": {
+   "nameLocal": "中環飲茶（點心）",
+   "intro": "第3天午餐。原定計劃沒有指定餐廳，以下是額外搜尋到、鄰近路線（香港站 / 交易廣場 / 半山扶手電梯起點）的選擇。",
+   "facts": [
+    {
+     "label": "Tim Ho Wan (Hong Kong Station / IFC)",
+     "value": "添好運點心專門店 (香港站)\n📍 中環金融街8號國際金融中心商場（香港站）一樓 12A號舖 (Shop 12A, Podium Level 1, IFC Mall) — 港鐵香港站 A1 出口；電話 2332 3078\n🕘 每日 09:00–21:00（根據食評，2026年未經證實）\n💰 價錢相宜，每人約 HK$60–120（估計，來自較舊食評）\n🚶 位於香港站/國際金融中心內——近交易廣場（15號巴士）\n✦ 招牌酥皮焗叉燒包 (baked BBQ pork bun) · 曾獲米芝蓮星級（首間分店）\n💡 11:00前到排隊較短",
+     "source": "research"
+    },
+    {
+     "label": "Maxim's Palace (City Hall)",
+     "value": "美心皇宮 (大會堂)\n📍 中環愛丁堡廣場5號大會堂低座2樓；電話 +852 2521 1303\n🕘 點心車約 11:00–15:00（星期日/假日約 09:00–15:00）——根據 Time Out，未註明年份\n💰 中價，每人約 HK$150–250（估計）\n🚶 由中環7號碼頭 / 交易廣場步行約5–8分鐘\n✦ 少數仍以點心車推點心的酒樓之一 · 窗外有海港景\n💡 午市不設訂座——用機取籌，開門前到",
+     "source": "research"
+    },
+    {
+     "label": "Luk Yu Tea House",
+     "value": "陸羽茶室\n📍 中環士丹利街24–26號（港鐵中環站 D2 出口約3分鐘）；電話 +852 2523 5464\n🕘 07:00–22:00；點心供應至約16:00（根據食評）\n💰 較一般貴，每人約 HK$150–250（點心每碟 HK$40–92，茶錢約 HK$30）\n🚶 由港鐵中環站或半山扶手電梯底步行前往\n✦ 1930年代風格裝潢的老字號茶室\n💡 部分職員英語溝通有限，可預備餐牌相片",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": [],
+   "verifyNote": "所有餐廳均為建議，不在原定計劃內，時間/價錢資料來自食評，2026年未經證實 · 蓮香樓已於2026年5月搬遷，故不列入 · 地圖標記為添好運國際金融中心分店"
+  },
+  "mid-levels-escalator": {
+   "nameLocal": "中環至半山自動扶梯",
+   "intro": "全球最長的戶外有蓋自動扶梯系統，由中環上山經蘇豪，在荷李活道落扶梯再步行往大館。",
+   "address": "由皇后大道中（近中環街市）上至干德道",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "落山 06:00–10:00；上山 10:00–24:00，每日",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "起點為中環街市 / 皇后大道中（扶梯底部約 22.28397, 114.15515）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "20–30分鐘到終點（沿途可在蘇豪/大館停留）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "全球最長的戶外自動扶梯系統（16條扶手電梯 + 3條自動行人道）",
+    "途經荷李活道 → 大館、蘇豪、元創方"
+   ],
+   "tips": [
+    "10:00前扶梯向下行，上山要行旁邊樓梯",
+    "於荷李活道落扶梯前往大館"
+   ],
+   "verifyNote": "主要座標 = 路線中段（OSM）；底部近中環街市"
+  },
+  "tai-kwun": {
+   "nameLocal": "大館",
+   "intro": "前中區警署及域多利監獄活化而成的古蹟及藝術館，免費入場，有廣場可坐低休息及洗手間——迪士尼翌日的歇腳點。",
+   "address": "中環荷李活道10號",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "公共空間約 10:00/11:00–23:00（藝術館/商店大多 11:00 開門；賽馬會藝方 11:00–19:00，逢星期一休息）——請查閱 taikwun.hk",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費入場（部分展覽收費）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "乘半山扶手電梯於荷李活道落，或由港鐵中環站 D2 出口步行約10分鐘",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "1–1.5小時",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "前中區警署 + 域多利監獄（監獄操場、檢閱廣場）",
+    "賽馬會藝方 JC Contemporary（當代藝術館）",
+    "歷史建築內的餐廳/咖啡店"
+   ],
+   "tips": [
+    "部分時段有免費導賞團，詳情見網頁時間表"
+   ],
+   "verifyNote": "未能開啟 taikwun.hk 上的開放時間頁面（404）"
+  },
+  "pmq": {
+   "nameLocal": "元創方（可選，行得郁先去）",
+   "intro": "前已婚警察宿舍，現為本地設計店舖集中地。計劃為免行太多路而刪去，如仍有體力可順道一遊。",
+   "address": "中環鴨巴甸街35號",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "大部分店舖約 12:00–20:00（未核對2026年）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由大館沿荷李活道向西步行約5分鐘",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–60分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "前警察宿舍，現為本地設計/手作店舖集中地"
+   ],
+   "tips": [],
+   "verifyNote": "可選"
+  },
+  "central-pier-7": {
+   "nameLocal": "中環七號碼頭 (天星碼頭)",
+   "intro": "天星小輪中環碼頭，由中環步行約15分鐘，鄰近香港摩天輪。",
+   "address": "中環民光街",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "天星小輪 06:30–23:30",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "見 star-ferry",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由香港站/國際金融中心經行人天橋步行約8–10分鐘（途經交易廣場）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "碼頭上層有海港觀景點 + 香港摩天輪就在附近"
+   ],
+   "tips": []
+  },
+  "star-ferry": {
+   "nameLocal": "天星小輪 (中環 ↔ 尖沙咀)",
+   "intro": "逾百年歷史的渡輪，由中環橫渡維多利亞港往尖沙咀約10分鐘，船費只需幾元，卻可飽覽海港景色。",
+   "address": "中環七號碼頭 ↔ 尖沙咀天星碼頭（22.29354, 114.16799）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "兩岸每日 06:30–23:30",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "成人：星期一至五 上層 HK$5.0 / 下層 HK$4.0；星期六、日及公眾假期 上層 HK$6.5 / 下層 HK$5.6",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "於閘口拍八達通（上層及下層入口分開）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "渡海約8–10分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "中環開出班次：星期一至五 07:25–09:55 每6分鐘，09:55–20:40 每6–8分鐘，20:40–23:30 每10–12分鐘；星期六、日 07:25–22:40 每6–8分鐘"
+   ],
+   "tips": [
+    "上層景觀較佳，由中環開出時坐右邊（面向九龍）可欣賞尖沙咀景色",
+    "11月27日（星期五）按平日收費"
+   ],
+   "verifyNote": "天星小輪申請加價約30%（上層平日 $5→$6.5，假日 $6.5→$8.5）——交通諮詢委員會於2026年8月27日討論，截至2026年10月18日仍未獲批；可能於行程前加價；地圖標記為尖沙咀天星碼頭"
+  },
+  "tst-promenade": {
+   "nameLocal": "尖沙咀海濱長廊",
+   "intro": "九龍一側的海濱長廊，可飽覽香港島天際線，日落時最美，亦是坐低休息等待燈光匯演的好地方。",
+   "address": "尖沙咀梳士巴利道（由天星碼頭/鐘樓向東至星光大道）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "24小時",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "於尖沙咀落天星小輪，再沿海旁向東行",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–90分鐘",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · 開放時間",
+     "value": "外部全日開放",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · 價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · 交通",
+     "value": "由尖沙咀天星碼頭步行約2分鐘",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · 所需時間",
+     "value": "10–15分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "香港島天際線景色",
+    "幻彩詠香江觀賞點",
+    "前九廣鐵路鐘樓：逾百年歷史（1915年）的鐘樓，舊火車站遺跡"
+   ],
+   "tips": []
+  },
+  "avenue-of-stars": {
+   "nameLocal": "星光大道",
+   "intro": "設有香港明星手印及李小龍銅像的海濱長廊，位於 K11 MUSEA 前，亦是觀賞幻彩詠香江的好位置之一。",
+   "address": "尖沙咀海濱長廊（K11 MUSEA / 瑰麗酒店前）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "24小時",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由鐘樓步行約10分鐘，或港鐵尖東站 J 出口",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "30–45分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "李小龍銅像",
+    "香港明星手印",
+    "觀賞幻彩詠香江的最佳位置之一"
+   ],
+   "tips": []
+  },
+  "k11-musea": {
+   "nameLocal": "K11 MUSEA",
+   "intro": "尖沙咀海旁的藝術及設計主題商場，計劃在等候20:00匯演期間在此逛逛及歇腳。",
+   "address": "尖沙咀梳士巴利道18號 維港文化匯",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "大部分店舖約 11:00–21:00（部分店舖星期五至日營業至22:00）——未找到商場官方營業時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "毗鄰星光大道 / 港鐵尖東站",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–90分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "海旁藝術及設計主題商場",
+    "等候幻彩詠香江期間的洗手間/休息處"
+   ],
+   "tips": [],
+   "verifyNote": "時間參考自商場內店舖"
+  },
+  "symphony-of-lights": {
+   "nameLocal": "幻彩詠香江",
+   "intro": "香港島大廈配合音樂上演的燈光及激光匯演，每晚20:00在尖沙咀海旁免費欣賞。",
+   "address": "於尖沙咀海濱長廊 / 星光大道觀賞（或灣仔金紫荊廣場 / 海港船上）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "每晚 20:00（約10–13分鐘）——11月27日（星期五）沒有可證實的特別安排",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "乘天星小輪往尖沙咀，再步行往星光大道",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "約10分鐘 + 提早15–30分鐘到達",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "香港島大廈激光 + 燈光配合音樂演出",
+    "觀賞位置：文化中心與鐘樓之間的海濱長廊中段，或星光大道"
+   ],
+   "tips": [
+    "⚠ 政府於《2026–27年度財政預算案》（2026年2月）宣布將於2026年下半年停辦此匯演，改為按地點/時段輪換的燈光節——截至2026年9月21日已恢復正常上演，但仍未公布最後一場日期：11月27日前請再確認",
+    "即使取消，海濱長廊的夜景依然美麗"
+   ],
+   "verifyNote": "有可能在出發前被取消；有非官方資料指由2026年9月9日起暫停，但政府2026年9月21日公布「resume normal operation tonight」"
+  },
+  "temple-street": {
+   "nameLocal": "廟街夜市",
+   "intro": "佐敦區歷史悠久的夜市，有紀念品攤檔及香港街頭小食，是第3天乘港鐵回酒店前的晚餐地點。",
+   "address": "佐敦 / 油麻地廟街（近佐敦一段，佐敦道 – 甘肅街之間）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "攤檔約 16:00/18:00–23:00；政府推動的小食攤檔區據報為 14:00–23:00（2026年未經證實）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費入場；小食每款約 HK$20–60，大排檔每人約 HK$60–150（估計）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "港鐵佐敦站 A 出口步行約5分鐘（或油麻地站 C 出口）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "1–1.5小時",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · 開放時間",
+     "value": "未核對",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · 價錢",
+     "value": "價錢相宜（未核對2026年價錢）",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · 交通",
+     "value": "近港鐵佐敦站 / 廟街",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · 所需時間",
+     "value": "45分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "魚蛋、炸大腸、牛雜、蛇羹、炒辣蜆/大排檔海鮮",
+    "街頭占卜/粵曲表演（北段近天后廟）",
+    "點點心 Dim Dim Sum（佐敦）：價錢相宜的點心店，有多間分店"
+   ],
+   "tips": [
+    "買紀念品可以講價",
+    "準備現金——部分攤檔不收八達通"
+   ],
+   "verifyNote": "未找到2026年官方開放時間；食物價錢為估計"
+  },
+  "jordan-station": {
+   "nameLocal": "佐敦站",
+   "intro": "鄰近廟街的車站，第3晚由此出發回酒店。",
+   "address": "九龍佐敦彌敦道",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按港鐵服務時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "佐敦→東涌 HK$18.7 八達通 / $21.0 單程票；佐敦→迪士尼 HK$22.2；佐敦↔中環 HK$10.6；尖沙咀↔佐敦 HK$4.9",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "荃灣綫",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "鄰近廟街夜市（步行約5分鐘）"
+   ],
+   "tips": [
+    "佐敦 → 東涌約需35–40分鐘（估計，於荔景轉車）"
+   ]
+  },
+  "lai-king-station": {
+   "nameLocal": "荔景站",
+   "intro": "荃灣綫與東涌綫同月台對面轉車的轉車站。",
+   "address": "葵涌",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按港鐵服務時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "佐敦→東涌 HK$18.7（成人八達通）合併計算，轉車毋須另付",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "荃灣綫（佐敦/尖沙咀/中環）與東涌綫的轉車站（同月台對面轉車 cross-platform）",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "轉車約2–5分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "由佐敦：乘荃灣綫往荃灣方向 → 於荔景落車 → 轉乘東涌綫往東涌方向"
+   ],
+   "tips": []
+  },
+  "hong-kong-station": {
+   "nameLocal": "香港站（中環）",
+   "intro": "東涌綫總站，位於國際金融中心商場地下，可步行往交易廣場巴士總站。",
+   "address": "中環金融街8號 國際金融中心商場",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "按港鐵服務時間",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "東涌→香港 HK$24.3 八達通 / $28.0 單程票（普通東涌綫，並非機場快綫）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "東涌綫總站；經地底通道連接中環站",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "東涌→香港約30分鐘（估計）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "出口通往國際金融中心商場（添好運國際金融中心分店位於一樓，近 A1 出口）",
+    "步行往交易廣場巴士總站（15號巴士站）約5分鐘"
+   ],
+   "tips": []
+  },
+  "ngong-ping-360": {
+   "nameLocal": "昂坪360纜車",
+   "intro": "全長5.7公里的纜車，由東涌上昂坪高原，車程25分鐘，可欣賞機場、海景及大嶼山山巒。",
+   "address": "東涌達東路11號東涌纜車站 → 昂坪纜車站（22.25636, 113.90143）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "星期一至五 10:00–18:00；星期六、日及公眾假期 09:00–18:30（11月28日 = 星期六）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "來回 成人/小童3–11歲：標準車廂 HK$295 / $150；水晶車廂 HK$365 / $220；Crystal+（玻璃地板 + 玻璃車身）HK$545 / $400；Crystal+ 單程 + 標準車廂單程 HK$420 / $275；水晶車廂單程 + 標準車廂單程套票 HK$330 / $185（長者票價只適用於香港身份證持有人）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "港鐵東涌站 B 出口步行約5分鐘；S1 於東涌纜車站落車",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "每程25分鐘（5.7公里）+ 排隊；昂坪全程4–5小時",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "亞洲最長的雙纜索纜車，可欣賞機場、港珠澳大橋、北大嶼郊野公園景色",
+    "Crystal+ 玻璃地板 + 玻璃車身"
+   ],
+   "tips": [
+    "最近一次停運維修為2026年9月8–18日——截至10月18日未有2026年11月停運公告，但遇颱風/雷暴可能暫停服務",
+    "可於 webstore.np360.com.hk 網上預先購票",
+    "HK$88/HK$94 優惠只限香港居民",
+    "慳錢方案：上山搭纜車，落山搭23號巴士"
+   ],
+   "verifyNote": "座標 = 東涌纜車站巴士站（運輸署資料），毗鄰纜車站；昂坪站 22.25636, 113.90143（OSM）"
+  },
+  "tian-tan-buddha": {
+   "nameLocal": "天壇大佛（大佛）",
+   "intro": "位於昂坪山頂、高34米的戶外青銅坐佛，須登上268級樓梯。",
+   "address": "大嶼山昂坪",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "10:00–17:30（根據 Wikipedia；寶蓮禪寺網站列明寺院範圍 09:00–18:00）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "登樓梯/外部免費；進入佛像內部須持票（部分資料指與齋菜餐券合併）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由昂坪市集步行約10分鐘",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–60分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "戶外青銅坐佛，高34米，於1993年12月29日落成",
+    "268級樓梯"
+   ],
+   "tips": [
+    "沒有輪椅斜道直達最高平台",
+    "風大而且比市區冷，請準備風褸"
+   ],
+   "verifyNote": "兩個來源的開放時間不一致（10:00–17:30 vs 09:00–18:00）"
+  },
+  "po-lin-monastery": {
+   "nameLocal": "寶蓮禪寺",
+   "intro": "香港重要的禪宗佛寺，鄰近大佛，設有齋堂，按計劃在此吃午餐。",
+   "address": "大嶼山昂坪",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "09:00–18:00（官方網站）；齋堂 11:30–16:30",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費入場；齋菜套餐每人約 HK$100–150（非官方資料，2026年未經證實）",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "由大佛/昂坪市集步行約5–10分鐘",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "45–60分鐘（+ 齋菜45分鐘）",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "萬佛寶殿 (Grand Hall of Ten Thousand Buddhas)",
+    "寺內齋菜"
+   ],
+   "tips": [
+    "於大佛樓梯底的櫃位購買齋菜餐券"
+   ],
+   "verifyNote": "官方網站未找到齋菜價錢"
+  },
+  "ngong-ping-village": {
+   "nameLocal": "昂坪市集",
+   "intro": "纜車站前的中式主題村落，有餐廳及手信店，是前往大佛的必經之路。",
+   "address": "大嶼山昂坪路111號（毗鄰昂坪纜車站）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "約 10:00–18:00（按纜車時間；各店舖不同）",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "免費入場",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "出昂坪纜車站即達",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "30–45分鐘",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · 開放時間",
+     "value": "全日（戶外）",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · 價錢",
+     "value": "免費",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · 交通",
+     "value": "由寶蓮禪寺/大佛跟指示牌步行約15–20分鐘",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · 所需時間",
+     "value": "來回40–60分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "前往大佛途中的餐廳/紀念品店",
+    "心經簡林 (Wisdom Path)：38條刻有《心經》的木柱，排列成無限符號（∞）形狀"
+   ],
+   "tips": [
+    "泥路/樓梯，請穿波鞋"
+   ]
+  },
+  "bus-23": {
+   "nameLocal": "嶼巴 23號線 (東涌市中心 ↔ 昂坪)（後備方案）",
+   "intro": "如纜車停駛或排隊太長的後備方案，經山路往返東涌與昂坪。",
+   "address": "起點為東涌達東路巴士總站（港鐵東涌站旁）→ 終點為昂坪巴士總站（22.25561, 113.90286）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "東涌 → 昂坪：星期一至六 首班 08:15（約每20–60分鐘一班，尾班約19:10）；星期日 08:10–19:10，約15分鐘一班。昂坪 → 東涌：星期一至六 07:15–18:10；星期日 08:10–18:10",
+     "source": "research"
+    },
+    {
+     "label": "價錢",
+     "value": "成人全程：平日（星期一至六）HK$20.4；星期日/公眾假期 HK$37.0",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "拍八達通",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "約45–50分鐘",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "比纜車便宜的回程選擇；途經山路及長沙泳灘"
+   ],
+   "tips": [
+    "11月28日（星期六）按平日收費 HK$20.4（假日收費適用於星期日/公眾假期）",
+    "16:00–18:00 回程排隊可能較長"
+   ],
+   "verifyNote": "車費/時間表來自運輸署開放數據；服務日代碼（星期一至六 vs 星期日）的對應為根據數據推斷——未與嶼巴網站核對"
+  },
+  "citygate-outlets": {
+   "nameLocal": "東薈城名店倉",
+   "intro": "毗鄰東涌站的名店倉，最後一天回酒店前在此買手信及在美食廣場吃飯。",
+   "address": "東涌達東路20號（毗鄰港鐵東涌站）",
+   "facts": [
+    {
+     "label": "開放時間",
+     "value": "商場約 10:00–22:00；Food Opera（美食廣場）11:30–21:00",
+     "source": "research"
+    },
+    {
+     "label": "交通",
+     "value": "港鐵東涌站直接連接",
+     "source": "research"
+    },
+    {
+     "label": "所需時間",
+     "value": "1–2小時",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "品牌特價名店倉（Nike、Adidas、Coach 等）",
+    "Food Opera 美食廣場共9間店（例如天后站牛腩 Tin Hau Station Beef Brisket）",
+    "超級市場"
+   ],
+   "tips": [
+    "適合返機場前順道一逛——由東涌乘 S1/麗豪穿梭巴士"
+   ],
+   "verifyNote": "未與官方網站核對"
+  },
+  "photobooth-tst": {
+   "nameLocal": "尖沙咀海旁自拍亭 / 韓式自拍館",
+   "intro": "最推介 K11 MUSEA 的 SNAPIO：就在星光大道旁（步行約2–4分鐘），影完即可到海旁觀看20:00的幻彩詠香江，價錢相宜（約 HK$60），並接受八達通。如想體驗設有多間影相房及道具的韓式自拍館，可於18:00–19:15前往 K11購物藝術館的 FLASH（步行8–10分鐘，已確認2026年仍營業），20:00前返回海旁。",
+   "facts": [
+    {
+     "label": "SNAPIO 自拍亭（K11 MUSEA）",
+     "value": "香港品牌 SNAPIO 的自助四格相自拍亭，位於星光大道旁的 K11 MUSEA（步行約2–4分鐘），每套約 HK$60，即影即印；跟商場營業時間，一般 10:00–22:00。\n📍 尖沙咀梳士巴利道18號 Victoria Dockside K11 MUSEA，B2樓（近 BRUNO）及 3樓（近 Five Guys）\n· 部分確認",
+     "source": "research"
+    },
+    {
+     "label": "FLASH 韓式自拍館（K11購物藝術館）",
+     "value": "FLASH 韓式自拍館位於 K11購物藝術館 2樓222B號舖，由星光大道步行約8–10分鐘，設4間影相房（包括廁所主題高炒房），2024年報道價錢 $60 起；營業時間 10:00–24:00。\n📍 尖沙咀河內道18號 K11購物藝術館 2樓 222B號舖\n· 已確認2026年仍營業",
+     "source": "research"
+    },
+    {
+     "label": "Photoism（尖沙咀 The ONE）",
+     "value": "韓國品牌 Photoism 位於彌敦道 The ONE UG2樓，由星光大道步行約12–15分鐘，有 K-pop 偶像相框；2024年價錢為 $100 兩張相，現時營業時間及價錢未能確認。\n📍 尖沙咀彌敦道100號 The ONE UG2樓（確實舖號未能確認）\n· 部分確認",
+     "source": "research"
+    },
+    {
+     "label": "SNAPIO 自拍亭（海港城海運大廈 LCX）",
+     "value": "SNAPIO 另一部自拍亭位於海港城海運大廈 3樓 LCX，由天星碼頭步行約3–5分鐘，每套約 HK$60，可用八達通。\n📍 尖沙咀廣東道5號 海港城海運大廈 3樓 LCX（確實位置未能確認）\n· 部分確認",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": [
+    "建議用八達通付款，官網未列明收現金或信用卡",
+    "兩部機：B2樓（近 BRUNO）及 3樓（近 Five Guys）",
+    "約19:30影完，即可出星光大道看20:00幻彩詠香江",
+    "有道具及過百款相框可揀",
+    "收現金、Alipay、Visa、Mastercard；八達通未確認",
+    "出發前查看 IG @flashhk_ 確認最新優惠和價錢"
+   ],
+   "verifyNote": "自拍亭不在原定行程內，按要求加入 · 部分價錢及營業時間來自2024年報道，出發前請先看店舖 IG · Wikimedia Commons 上沒有合適授權的店舖相片 · 圖釘位置為 K11 MUSEA（SNAPIO 自拍亭）"
+  }
+ }
+}

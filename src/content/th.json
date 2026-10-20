@@ -1,0 +1,2407 @@
+{
+ "meta": {
+  "title": "ฮ่องกง 25–28 พฤศจิกายน 2026",
+  "tagline": "แพลนแบบประหยัด ไม่นั่งแท็กซี่ · ฐานที่พัก Regala Skycity Hotel",
+  "owner": "เฮียดรีม",
+  "nights": "4 DAYS 3 NIGHTS",
+  "flights": [
+   {
+    "label": "ขาไป · พุธ 25 พ.ย.",
+    "route": "BKK 13:45 → HKG ~17:40",
+    "note": "ไม่รวมดีเลย์"
+   },
+   {
+    "label": "ขากลับ · เสาร์ 28 พ.ย.",
+    "route": "HKG 21:00 → BKK ~23:15",
+    "note": "ถึงสนามบินก่อน 3 ชั่วโมง"
+   }
+  ],
+  "highlight": {
+   "label": "ไฮไลต์",
+   "value": "Hong Kong Disneyland",
+   "note": "พฤหัส 26 พ.ย. · ถึงก่อนเปิด 1 ชม."
+  },
+  "budgetHeadline": {
+   "label": "งบต่อคน (ไม่รวมตั๋วดิสนีย์)",
+   "value": "10,000 บาท ≈ HK$2,300",
+   "note": "ใช้จริงราว 6,300 บาท · เหลือช้อปปิ้ง"
+  },
+  "transportLine": "ทุกการเดินทางใช้รถชัตเทิลโรงแรม / รถเมล์ / MTR / เรือ / กระเช้า",
+  "overview": "ทุกวันเริ่มและจบที่ Regala Skycity Hotel ในโซน SKYCITY ซึ่งเชื่อมกับ Terminal 2 และ AsiaWorld-Expo ด้วยสะพานในร่ม โรงแรมมีรถชัตเทิลฟรีไปสนามบิน (T1), สถานี Tung Chung และดิสนีย์แลนด์ ส่วนช่วงที่ชัตเทิลไม่วิ่งใช้รถเมล์ S1/S56 ไป Tung Chung"
+ },
+ "days": [
+  {
+   "n": 1,
+   "date": "2026-11-25",
+   "weekday": "พุธ",
+   "title": "ถึงฮ่องกง แล้วพักผ่อน",
+   "short": "ถึงฮ่องกง พักผ่อน",
+   "summary": "ลงเครื่อง เช็คอิน กินมื้อเย็นในสนามบิน เตรียม Octopus และตั๋วดิสนีย์ให้พร้อม นอนเร็ว",
+   "accent": "teal",
+   "transport": "ชัตเทิลฟรีของโรงแรม",
+   "intensity": "เบา",
+   "budget": "≈ HK$100",
+   "cover": "hkg-airport",
+   "items": [
+    {
+     "time": "17:40",
+     "title": "เครื่องลงที่ HKG",
+     "detail": "ผ่าน ตม. และรับกระเป๋า เผื่อเวลาไว้ 45–60 นาที",
+     "key": true,
+     "places": [
+      "hkg-airport"
+     ]
+    },
+    {
+     "time": "18:30",
+     "title": "ซื้อหรือเติมเงิน Octopus ที่เคาน์เตอร์ MTR โถงขาเข้า",
+     "detail": "ทำให้เสร็จก่อนออกจากสนามบิน เพราะพรุ่งนี้เช้าต้องใช้ขึ้นรถเมล์",
+     "places": [
+      "octopus-card"
+     ]
+    },
+    {
+     "time": "18:45",
+     "title": "ชัตเทิลฟรีของโรงแรม → เช็คอิน Regala Skycity Hotel",
+     "detail": "ตามป้ายรถโรงแรม (Hotel Coach) ที่ T1 · รถออกทุก 15–40 นาที ไปก่อนได้ก่อน",
+     "leg": {
+      "modes": [
+       "shuttle"
+      ],
+      "text": "ชัตเทิล · ~10 นาที · ฟรี"
+     },
+     "places": [
+      "regala-skycity"
+     ]
+    },
+    {
+     "time": "19:30",
+     "title": "มื้อเย็น",
+     "detail": "ร้านในโซน SKYCITY / Terminal 2 ที่เดินจากโรงแรมได้ หรือกินในอาคารผู้โดยสาร T1 ก่อนขึ้นชัตเทิล ราคาสมเหตุสมผลกว่าร้านในโรงแรม",
+     "places": [
+      "skycity-t2"
+     ]
+    },
+    {
+     "time": "20:30",
+     "title": "เตรียมของสำหรับพรุ่งนี้",
+     "detail": "ถามคอนเซียร์จเรื่องรถชัตเทิลไปดิสนีย์: รอบเช้ากี่โมง ฟรีไหม และรอบกลับคืนพรุ่งนี้ · เปิดแอป Hong Kong Disneyland เช็คว่าลงทะเบียนวันเข้าสวนแล้ว และเช็คเวลาเปิดสวน",
+     "places": []
+    },
+    {
+     "time": "21:30",
+     "title": "นอนเร็ว",
+     "detail": "ตั้งปลุก 07:00 พรุ่งนี้ต้องออก 08:15",
+     "places": []
+    }
+   ],
+   "notes": [
+    "ไม่มีอะไรต้องรีบ ถ้าเครื่องดีเลย์ 1–2 ชั่วโมงก็แค่ย้ายมื้อเย็นไปกินช้าลง ชัตเทิลจาก T1 วิ่งถึงราว 23:45",
+    "อาหารเช้าของโรงแรมมักแพง ถ้าไม่ได้รวมในห้อง ให้ซื้อขนมปัง/นมจากร้านสะดวกซื้อในสนามบินไว้ตั้งแต่คืนนี้"
+   ],
+   "route": [
+    "hkg-airport",
+    "regala-skycity",
+    "skycity-t2"
+   ]
+  },
+  {
+   "n": 2,
+   "date": "2026-11-26",
+   "weekday": "พฤหัส",
+   "title": "Hong Kong Disneyland",
+   "short": "Hong Kong Disneyland",
+   "summary": "ออกจากโรงแรม 08:15 ถึงหน้าประตูก่อน 09:30 เล่นยาวจนโชว์กลางคืน แล้วนั่งชัตเทิลโรงแรมกลับ",
+   "accent": "rose",
+   "transport": "รถเมล์ + MTR / ชัตเทิลกลับ",
+   "intensity": "เดินทั้งวัน",
+   "budget": "≈ HK$420 (ไม่รวมตั๋ว)",
+   "cover": "castle-of-magical-dreams",
+   "items": [
+    {
+     "time": "07:30",
+     "title": "อาหารเช้า",
+     "detail": "กินให้อิ่มก่อนเข้าสวน เพราะอาหารในสวนแพง",
+     "places": []
+    },
+    {
+     "time": "08:15",
+     "title": "ออกจากโรงแรม → รถเมล์ S56 หรือ S1 จากป้าย SKYCITY / AsiaWorld-Expo ไปสถานี Tung Chung",
+     "detail": "ชัตเทิลโรงแรมไป Tung Chung รอบแรก 09:05 ช้าเกินไปสำหรับวันนี้ · ถ้าคอนเซียร์จยืนยันว่ามีชัตเทิลตรงไปดิสนีย์รอบเช้าก่อน 09:00 ใช้รอบนั้นแทนได้เลย (~15–20 นาที)",
+     "leg": {
+      "modes": [
+       "bus"
+      ],
+      "text": "รถเมล์ · ~15 นาที · ~HK$4"
+     },
+     "places": [
+      "asiaworld-expo",
+      "tung-chung-station"
+     ]
+    },
+    {
+     "time": "08:40",
+     "title": "MTR Tung Chung Line → Sunny Bay → Disneyland Resort Line",
+     "detail": "ที่ Sunny Bay เดินข้ามชานชาลาไปขึ้นรถไฟสายดิสนีย์",
+     "leg": {
+      "modes": [
+       "mtr"
+      ],
+      "text": "MTR · ~20 นาที รวมรอเปลี่ยนขบวน · HK$15.9"
+     },
+     "places": [
+      "sunny-bay-station",
+      "disneyland-resort-line"
+     ]
+    },
+    {
+     "time": "09:15",
+     "title": "ถึงหน้าประตูสวน — ก่อนเปิดกว่า 1 ชั่วโมง",
+     "detail": "ถ้าวันนั้นสวนเปิด 10:00 ให้ขยับทุกอย่างเร็วขึ้น 30 นาที (ออกจากโรงแรม 07:45)",
+     "key": true,
+     "places": [
+      "hong-kong-disneyland"
+     ]
+    },
+    {
+     "time": "10:30",
+     "title": "เปิดสวน → ตรงไป World of Frozen ก่อน",
+     "detail": "เป็นโซนที่คิวยาวที่สุด ช่วงเปิดสวนคือโอกาสที่ดีที่สุด",
+     "places": [
+      "world-of-frozen"
+     ]
+    },
+    {
+     "time": "11:45",
+     "title": "Mystic Manor และ Big Grizzly Mountain",
+     "places": [
+      "mystic-manor",
+      "big-grizzly-mountain"
+     ]
+    },
+    {
+     "time": "13:00",
+     "title": "มื้อเที่ยง",
+     "detail": "กินหลังช่วงพีคเที่ยงตรง ร้านจะคนน้อยลง",
+     "places": []
+    },
+    {
+     "time": "14:00",
+     "title": "Toy Story Land, Iron Man Experience, Fantasyland",
+     "detail": "ดูเวลาขบวนพาเหรดช่วงบ่ายใน Times Guide ของแอป แล้วจองที่ยืนก่อน 15–20 นาที",
+     "places": [
+      "toy-story-land",
+      "iron-man-experience",
+      "fantasyland"
+     ]
+    },
+    {
+     "time": "17:30",
+     "title": "เดินถ่ายรูปธีมคริสต์มาส + มื้อเย็น",
+     "places": [
+      "hong-kong-disneyland"
+     ]
+    },
+    {
+     "time": "ค่ำ",
+     "title": "โชว์กลางคืนหน้าปราสาท",
+     "detail": "เช็คเวลาโชว์ในแอปตอนเช้า",
+     "places": [
+      "castle-of-magical-dreams"
+     ]
+    },
+    {
+     "time": "หลังโชว์",
+     "title": "ชัตเทิลโรงแรมกลับ (ไม่ต้องเบียด MTR)",
+     "detail": "ขึ้นที่ Coach Park — Good Neighbour Hotel Shuttle Station · รถออกราว 50 นาทีหลังโชว์เริ่ม จอด Regal Airport Hotel ก่อนแล้วต่อมา Regala Skycity · ที่นั่งจำกัด ไปก่อนได้ก่อน (ยืนยันเวลากับโรงแรมอีกครั้ง)",
+     "leg": {
+      "modes": [
+       "shuttle"
+      ],
+      "text": "ชัตเทิลโรงแรม"
+     },
+     "warn": "ถ้าพลาดรถ: MTR → Tung Chung → รถเมล์ S1/S56 · ~60 นาที · ~HK$20",
+     "places": [
+      "regala-skycity"
+     ]
+    }
+   ],
+   "notes": [],
+   "route": [
+    "regala-skycity",
+    "asiaworld-expo",
+    "tung-chung-station",
+    "sunny-bay-station",
+    "hong-kong-disneyland",
+    "world-of-frozen",
+    "mystic-manor",
+    "big-grizzly-mountain",
+    "toy-story-land",
+    "iron-man-experience",
+    "fantasyland",
+    "castle-of-magical-dreams"
+   ]
+  },
+  {
+   "n": 3,
+   "date": "2026-11-27",
+   "weekday": "ศุกร์",
+   "title": "เกาะฮ่องกง + เกาลูน",
+   "short": "เกาะฮ่องกง + เกาลูน",
+   "summary": "Victoria Peak, ติ่มซำ Central, Tai Kwun, Star Ferry, ริมน้ำ TST, Symphony of Lights, Temple Street, ถ่ายรูป photobooth",
+   "accent": "amber",
+   "transport": "รถเมล์ + MTR + รถเมล์ 15 + Star Ferry",
+   "intensity": "กลาง (ปรับแล้ว)",
+   "budget": "≈ HK$390",
+   "cover": "victoria-peak",
+   "items": [
+    {
+     "time": "08:00",
+     "title": "ออกจากโรงแรม → รถเมล์ S56/S1 → Tung Chung → MTR ไป Hong Kong Station",
+     "leg": {
+      "modes": [
+       "bus",
+       "mtr",
+       "walk"
+      ],
+      "text": "รถเมล์ ~15 นาที + MTR ~30 นาที + เดิน · รวม ~1 ชม. · ~HK$29"
+     },
+     "places": [
+      "tung-chung-station",
+      "hong-kong-station"
+     ]
+    },
+    {
+     "time": "09:15",
+     "title": "รถเมล์สาย 15 ขึ้น Victoria Peak",
+     "detail": "ขึ้นที่ท่ารถ Central (Exchange Square) นั่งชั้นบนฝั่งซ้าย วิวขาขึ้นสวยมาก ถูกกว่า Peak Tram หลายเท่า",
+     "leg": {
+      "modes": [
+       "bus"
+      ],
+      "text": "รถเมล์ · ~40 นาที"
+     },
+     "places": [
+      "exchange-square",
+      "bus-15-peak"
+     ]
+    },
+    {
+     "time": "10:00",
+     "title": "Victoria Peak",
+     "detail": "จุดชมวิวฟรี: Lion's Pavilion และทางเดิน Peak Circle Walk (เดินเรียบ ~1 ชม.) ไม่ต้องจ่ายค่า Sky Terrace",
+     "key": true,
+     "places": [
+      "victoria-peak",
+      "lions-pavilion",
+      "peak-circle-walk"
+     ]
+    },
+    {
+     "time": "11:45",
+     "title": "รถเมล์ 15 ลงกลับ Central",
+     "leg": {
+      "modes": [
+       "bus"
+      ],
+      "text": "รถเมล์ · ~40 นาที"
+     },
+     "places": [
+      "bus-15-peak"
+     ]
+    },
+    {
+     "time": "12:30",
+     "title": "ติ่มซำที่ Central",
+     "places": [
+      "dim-sum-central"
+     ]
+    },
+    {
+     "time": "13:45",
+     "title": "Mid-Levels Escalator → Tai Kwun",
+     "detail": "Tai Kwun เข้าฟรี มีที่นั่งพักและห้องน้ำ (ตัด PMQ ออกเพื่อไม่ให้เดินมากเกินไปหลังวันดิสนีย์ ถ้ายังไหวค่อยแวะ)",
+     "places": [
+      "mid-levels-escalator",
+      "tai-kwun",
+      "pmq"
+     ]
+    },
+    {
+     "time": "15:30",
+     "title": "เดินลงไปท่าเรือ Central Pier 7 → Star Ferry ข้ามไป TST",
+     "leg": {
+      "modes": [
+       "walk",
+       "ferry"
+      ],
+      "text": "เดิน ~15 นาที + เรือ ~10 นาที"
+     },
+     "places": [
+      "central-pier-7",
+      "star-ferry"
+     ]
+    },
+    {
+     "time": "16:15",
+     "title": "ริมน้ำ TST, Avenue of Stars, K11 Musea",
+     "detail": "ช่วงพระอาทิตย์ตกวิวฝั่งเกาะฮ่องกงสวยที่สุด หามุมนั่งพักขาก่อนโชว์",
+     "places": [
+      "tst-promenade",
+      "avenue-of-stars",
+      "k11-musea"
+     ]
+    },
+    {
+     "time": "19:15",
+     "title": "เดินเล่นริมอ่าว + ถ่ายรูปตู้ photobooth",
+     "detail": "ตู้ SNAPIO ใน K11 MUSEA (ชั้น B2 ใกล้ BRUNO / ชั้น 3 ใกล้ Five Guys) ติด Avenue of Stars ราว HK$60/ชุด จ่าย Octopus ได้ ถ่ายเสร็จเดินออกริมน้ำทันโชว์ 20:00 · ถ้าอยากได้สตูดิโอเกาหลีแบบมีห้องและพร็อพ ไป FLASH ที่ K11 Art Mall (เดิน 8–10 นาที) ช่วง 18:00–19:15 แทน",
+     "places": [
+      "photobooth-tst"
+     ]
+    },
+    {
+     "time": "20:00",
+     "title": "Symphony of Lights",
+     "detail": "ดูจากริมน้ำ TST (เช็คเวลาโชว์อีกครั้งก่อนไป)",
+     "key": true,
+     "places": [
+      "symphony-of-lights"
+     ]
+    },
+    {
+     "time": "20:30",
+     "title": "Temple Street Night Market + มื้อเย็นสตรีทฟู้ด",
+     "leg": {
+      "modes": [
+       "mtr",
+       "walk"
+      ],
+      "text": "MTR TST → Jordan 1 สถานี หรือเดิน ~15 นาที"
+     },
+     "places": [
+      "temple-street"
+     ]
+    },
+    {
+     "time": "21:45",
+     "title": "กลับโรงแรม: Jordan → Lai King (เปลี่ยนสาย) → Tung Chung → รถเมล์ S1/S56",
+     "detail": "ถึงโรงแรมราว 23:00 · ชัตเทิลโรงแรมรอบสุดท้ายจาก Tung Chung คือ 21:15 จึงต้องใช้รถเมล์",
+     "leg": {
+      "modes": [
+       "mtr",
+       "bus"
+      ],
+      "text": "MTR ~45 นาที + รถเมล์ ~15 นาที · ~HK$24"
+     },
+     "places": [
+      "jordan-station",
+      "lai-king-station",
+      "tung-chung-station"
+     ]
+    }
+   ],
+   "notes": [],
+   "route": [
+    "regala-skycity",
+    "tung-chung-station",
+    "hong-kong-station",
+    "exchange-square",
+    "victoria-peak",
+    "lions-pavilion",
+    "peak-circle-walk",
+    "dim-sum-central",
+    "mid-levels-escalator",
+    "tai-kwun",
+    "central-pier-7",
+    "star-ferry",
+    "tst-promenade",
+    "avenue-of-stars",
+    "k11-musea",
+    "photobooth-tst",
+    "symphony-of-lights",
+    "temple-street",
+    "jordan-station",
+    "lai-king-station"
+   ]
+  },
+  {
+   "n": 4,
+   "date": "2026-11-28",
+   "weekday": "เสาร์",
+   "title": "ลันเตา แล้วบินกลับ",
+   "short": "ลันเตา แล้วบินกลับ",
+   "summary": "ชัตเทิลฟรีไป Tung Chung ขึ้นกระเช้าไปพระใหญ่ ช้อป Citygate แล้วกลับมารับกระเป๋า เช็คอิน 18:00",
+   "accent": "navy",
+   "transport": "ชัตเทิลฟรี + กระเช้า",
+   "intensity": "กลาง",
+   "budget": "≈ HK$570 (รวมกระเช้า)",
+   "cover": "tian-tan-buddha",
+   "items": [
+    {
+     "time": "08:00",
+     "title": "อาหารเช้า เช็คเอาท์ ฝากกระเป๋าไว้ที่โรงแรม",
+     "places": [
+      "regala-skycity"
+     ]
+    },
+    {
+     "time": "09:05",
+     "title": "ชัตเทิลฟรีของโรงแรม → สถานี Tung Chung แล้วเดินไปสถานีกระเช้า",
+     "detail": "รถรอบแรกของวัน ไปก่อนได้ก่อน ถ้าเต็มใช้รถเมล์ S1/S56 แทน",
+     "leg": {
+      "modes": [
+       "shuttle",
+       "walk"
+      ],
+      "text": "ชัตเทิล ~15 นาที + เดิน ~5 นาที · ฟรี"
+     },
+     "places": [
+      "tung-chung-station"
+     ]
+    },
+    {
+     "time": "09:30",
+     "title": "ต่อคิวกระเช้า Ngong Ping 360 (Standard Cabin)",
+     "detail": "วันเสาร์คนเยอะ จองตั๋วออนไลน์ล่วงหน้า และเช็คว่าไม่ตรงวันปิดซ่อมบำรุง",
+     "leg": {
+      "modes": [
+       "cable"
+      ],
+      "text": "กระเช้า ~25 นาที + คิว · HK$295 ไป-กลับ"
+     },
+     "places": [
+      "ngong-ping-360"
+     ]
+    },
+    {
+     "time": "10:30",
+     "title": "พระใหญ่ Tian Tan และวัด Po Lin",
+     "detail": "บันไดขึ้นองค์พระประมาณ 268 ขั้น เดินช้าๆ ได้ ไม่ต้องรีบ",
+     "key": true,
+     "places": [
+      "tian-tan-buddha",
+      "po-lin-monastery"
+     ]
+    },
+    {
+     "time": "12:00",
+     "title": "มื้อเที่ยง อาหารเจในวัดหรือร้านใน Ngong Ping Village",
+     "places": [
+      "po-lin-monastery",
+      "ngong-ping-village"
+     ]
+    },
+    {
+     "time": "13:30",
+     "title": "ต่อคิวกระเช้าลง Tung Chung",
+     "detail": "ช่วงบ่ายวันเสาร์คิวขาลงยาว จึงไม่ควรลงช้ากว่านี้ · แผนสำรองถ้ากระเช้าปิด: รถเมล์สาย 23 (HK$20.4)",
+     "warn": "จุดที่ต้องดูเวลา · เผื่อคิว 30–60 นาที",
+     "places": [
+      "ngong-ping-360",
+      "bus-23"
+     ]
+    },
+    {
+     "time": "14:45",
+     "title": "Citygate Outlets",
+     "detail": "อยู่ติดสถานี Tung Chung ช้อปของฝาก มีศูนย์อาหารราคาไม่แพง",
+     "places": [
+      "citygate-outlets"
+     ]
+    },
+    {
+     "time": "17:00",
+     "title": "กลับโรงแรม รับกระเป๋า",
+     "detail": "ชัตเทิลโรงแรมจาก Tung Chung (รอบละชั่วโมง เช็คเวลาที่ป้าย) หรือรถเมล์ S1/S56 ถ้าเวลาไม่ตรง",
+     "leg": {
+      "modes": [
+       "shuttle",
+       "bus"
+      ],
+      "text": "~15 นาที · ฟรี หรือ ~HK$4"
+     },
+     "places": [
+      "regala-skycity"
+     ]
+    },
+    {
+     "time": "17:30",
+     "title": "ชัตเทิลฟรีของโรงแรม → สนามบิน",
+     "detail": "ถ้าสายการบินอยู่ T2 เดินผ่านสะพานในร่มได้เลย",
+     "leg": {
+      "modes": [
+       "shuttle"
+      ],
+      "text": "ชัตเทิล ~10 นาที · ฟรี"
+     },
+     "places": [
+      "hkg-airport"
+     ]
+    },
+    {
+     "time": "18:00",
+     "title": "เช็คอินที่สนามบิน",
+     "detail": "ถึงก่อนเครื่องออก 3 ชั่วโมง · เช็คล่วงหน้าว่าสายการบินใช้ Terminal ไหน",
+     "key": true,
+     "places": [
+      "hkg-airport"
+     ]
+    },
+    {
+     "time": "21:00",
+     "title": "บินกลับกรุงเทพฯ · ถึงประมาณ 23:15",
+     "leg": {
+      "modes": [
+       "flight"
+      ],
+      "text": "HKG 21:00 → BKK ~23:15"
+     },
+     "places": []
+    }
+   ],
+   "notes": [],
+   "route": [
+    "regala-skycity",
+    "tung-chung-station",
+    "ngong-ping-360",
+    "ngong-ping-village",
+    "tian-tan-buddha",
+    "po-lin-monastery",
+    "citygate-outlets",
+    "hkg-airport"
+   ]
+  }
+ ],
+ "paceCheck": [
+  {
+   "day": "วันที่ 1",
+   "text": "ต่อรถแค่ชัตเทิลโรงแรมจาก T1 ซึ่งวิ่งถึงดึก ถึงเครื่องจะดีเลย์ก็ไม่กระทบวันถัดไป",
+   "verdict": "สบาย"
+  },
+  {
+   "day": "วันที่ 2",
+   "text": "จาก SKYCITY รถเมล์ไป Tung Chung ไม่ต้องวนรอบสนามบิน ออก 08:15 ถึงประตูราว 09:15 เผื่อเวลา 15 นาที และขากลับนั่งชัตเทิลโรงแรม ไม่ต้องเบียด MTR หลังโชว์",
+   "verdict": "สบายขึ้นกว่าเดิม"
+  },
+  {
+   "day": "วันที่ 3 ทั้งวัน",
+   "text": "เป็นวันที่หนักสุด เพราะเป็นวันหลังดิสนีย์ และขากลับด้วย MTR ใช้เวลาราว 1 ชม. จึงขยับเวลาออกเป็น 08:00, ตัด PMQ ออก, ให้นั่งพักที่ Tai Kwun และริมน้ำ TST และจบ Temple Street ไม่เกิน 21:45",
+   "verdict": "กลางๆ ไม่เร่ง"
+  },
+  {
+   "day": "วันที่ 4",
+   "text": "ชัตเทิลฟรีรอบ 09:05 ไป Tung Chung พอดีกับเวลากระเช้า ส่วนความเสี่ยงเดียวของทริปคือคิวกระเช้าขาลงวันเสาร์ จึงกำหนดให้ต่อคิวลงตั้งแต่ 13:30 เผื่อเวลาก่อนถึงกำหนดเช็คอิน 18:00 ราว 3 ชั่วโมงครึ่ง ถ้าคิวยาวเกินก็ลดเวลาช้อป Citygate ลงได้",
+   "verdict": "ปลอดภัย"
+  }
+ ],
+ "budget": {
+  "rate": 4.3,
+  "rows": [
+   {
+    "item": "อาหารในดิสนีย์ (เที่ยง + เย็น + ขนม)",
+    "hkd": 350,
+    "thb": 1500
+   },
+   {
+    "item": "อาหารวันอื่นๆ",
+    "hkd": 720,
+    "thb": 3100
+   },
+   {
+    "item": "ค่าเดินทางทั้งทริป (รถเมล์, MTR, รถเมล์ 15, Star Ferry · ชัตเทิลโรงแรมฟรี)",
+    "hkd": 110,
+    "thb": 470
+   },
+   {
+    "item": "กระเช้า Ngong Ping 360 (Standard ไป-กลับ)",
+    "hkd": 295,
+    "thb": 1270
+   }
+  ],
+  "total": {
+   "hkd": 1475,
+   "thb": 6340
+  },
+  "leftover": {
+   "hkd": 825,
+   "thb": 3660,
+   "label": "เหลือสำหรับของฝาก / ช้อปปิ้ง / ซิม"
+  },
+  "perDay": [
+   {
+    "day": 1,
+    "hkd": 100
+   },
+   {
+    "day": 2,
+    "hkd": 420
+   },
+   {
+    "day": 3,
+    "hkd": 390
+   },
+   {
+    "day": 4,
+    "hkd": 570
+   }
+  ],
+  "excluded": "ไม่รวม: ตั๋วเครื่องบิน, โรงแรม, ตั๋วดิสนีย์ (ราคาตั๋ว 1 วันขึ้นกับวัน ราว HK$669–939 ซื้อแล้วต้องลงทะเบียนวันเข้าสวนในเว็บไซต์ทางการ) · เรทแลกเงินแกว่งได้ ควรเช็คอีกครั้งก่อนแลก"
+ },
+ "checklist": {
+  "book": [
+   "ซื้อตั๋วดิสนีย์วันพฤหัส 26 พ.ย. แล้วลงทะเบียนวันเข้าสวนในเว็บไซต์ทางการ",
+   "เช็คเวลาเปิดสวนวันที่ 26 ในปฏิทินของสวน (ถ้าเปิด 10:00 ให้ออกจากโรงแรม 07:45)",
+   "จองตั๋วกระเช้า Ngong Ping 360 วันเสาร์ 28 พ.ย. และเช็ควันปิดซ่อมบำรุง",
+   "เช็คว่าสายการบินขากลับใช้ Terminal ไหน",
+   "ถาม Regala Skycity เรื่องชัตเทิลไปดิสนีย์: รอบเช้า, รอบกลับ, ฟรีสำหรับแขกทั่วไปไหม, ต้องจองไหม",
+   "ขอตารางชัตเทิลไปสนามบินและ Tung Chung ฉบับล่าสุด และถามเรื่องฝากกระเป๋าหลังเช็คเอาท์",
+   "เช็คเวลาโชว์ Symphony of Lights"
+  ],
+  "pack": [
+   "บัตร Octopus (เติมเงินไว้ HK$150–200 ใช้ได้ทั้งรถเมล์ MTR และเรือ)",
+   "แจ็คเก็ตบางๆ ปลายพฤศจิกายนเช้าและค่ำอากาศเย็น บนพีคและบนเขาลมแรง",
+   "รองเท้าที่เดินสบายที่สุด วันที่ 2 และ 3 เดินเยอะมาก",
+   "พาวเวอร์แบงก์ (ใช้แอปดิสนีย์ทั้งวันแบตหมดเร็ว)",
+   "ปลั๊กแปลงแบบ 3 ขาสี่เหลี่ยม (UK)",
+   "ซิมหรือ eSIM สำหรับเน็ต",
+   "ยาแก้เมารถ (เผื่อต้องใช้รถเมล์ 23 ขึ้นเขา)"
+  ],
+  "routes": [
+   {
+    "label": "โรงแรม → ทุกที่",
+    "text": "ชัตเทิลฟรีไป Tung Chung (09:05–21:15 รอบละชั่วโมง) หรือรถเมล์ S56/S1 → สถานี Tung Chung → ต่อ MTR"
+   },
+   {
+    "label": "ไปดิสนีย์",
+    "text": "Tung Chung Line → Sunny Bay → Disneyland Resort Line (MTR HK$15.9) หรือชัตเทิลโรงแรมถ้ามีรอบที่ตรงเวลา"
+   },
+   {
+    "label": "เข้าเมือง",
+    "text": "Tung Chung Line ไปสุดสาย Hong Kong Station (Central) หรือลง Lai King เพื่อเปลี่ยนไปฝั่งเกาลูน"
+   }
+  ]
+ },
+ "updates": [
+  {
+   "id": "symphony-retire",
+   "days": [
+    3
+   ],
+   "places": [
+    "symphony-of-lights"
+   ],
+   "level": "warn",
+   "title": "Symphony of Lights อาจถูกยกเลิกก่อนวันที่ 27 พ.ย.",
+   "text": "งบประมาณรัฐบาลปี 2026–27 ประกาศเลิกโชว์นี้ในครึ่งหลังปี 2026 แล้วแทนด้วย light festival หมุนเวียน ยังไม่ประกาศวันสุดท้าย (ประกาศ 21 ก.ย. 2026 ยังแสดงตามปกติ) — เช็คอีกครั้งช่วงสัปดาห์ก่อนเดินทาง ถ้ายกเลิก วิวกลางคืนริมน้ำ TST ก็ยังสวย",
+   "sources": [
+    "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
+    "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm"
+   ]
+  },
+  {
+   "id": "t2-checkin",
+   "days": [
+    4
+   ],
+   "places": [
+    "hkg-airport",
+    "skycity-t2"
+   ],
+   "level": "warn",
+   "title": "ขากลับอาจต้องเช็คอินที่ Terminal 2",
+   "text": "ตั้งแต่ 27 พ.ค. 2026 T2 เปิดเฉพาะส่วนเช็คอินขาออก แล้วนั่งรถไฟไปขึ้นเครื่องที่ T1 สายที่ย้ายไปแล้วเช่น Hong Kong Airlines, HK Express, AirAsia, Batik Air, VietJet, Cebu Pacific — ถ้าใช่ เดินจากโรงแรมผ่านสะพานในร่มไป T2 ได้เลยตามที่แผนเขียนไว้",
+   "sources": [
+    "https://centreforaviation.com/news/hong-kong-airport-continues-phased-reopening-of-t2-1360832",
+    "https://traveltradejournal.com/hong-kong-international-airport-unveils-new-terminal-2-departure-operations-begin-from-may-27/"
+   ]
+  },
+  {
+   "id": "shuttle-tung-chung-times",
+   "days": [
+    2,
+    3,
+    4
+   ],
+   "places": [
+    "regala-skycity",
+    "tung-chung-station"
+   ],
+   "level": "tip",
+   "title": "ตารางชัตเทิลโรงแรม ↔ Tung Chung ล่าสุดต่างจากแผนเล็กน้อย",
+   "text": "ตารางทางการ (ฉบับ 27 เม.ย. 2026): จากโรงแรมรอบแรก 08:05 แล้ว 09:05, 10:05 … รอบสุดท้าย 22:05 · จาก Tung Chung Exit A รอบแรก 08:15 รอบสุดท้าย 22:15 (แผนเดิมเขียน 09:05–21:15) · วันที่ 2 จึงมีรอบ 08:05 ที่ใช้แทนรถเมล์ 08:15 ได้ · คืนวันที่ 3 ออก Jordan 21:45 ถึง Tung Chung ราว 22:25 ยังไม่ทันรอบ 22:15 ใช้รถเมล์ S1/S56 ตามแผนเหมือนเดิม · ชัตเทิลใช้ได้เฉพาะแขกโรงแรม ต้องแสดงคีย์การ์ด",
+   "sources": [
+    "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf"
+   ]
+  },
+  {
+   "id": "shuttle-airport-late",
+   "days": [
+    1
+   ],
+   "places": [
+    "regala-skycity",
+    "hkg-airport"
+   ],
+   "level": "ok",
+   "title": "ชัตเทิลจากสนามบินวิ่งดึกกว่าที่แผนเขียน",
+   "text": "รถจาก Airport Coach Station ไปโรงแรมวิ่งทุก 30 นาทีถึง 01:30 (แผนเดิมเขียนถึงราว 23:45) จุดขึ้นคือ Hotel Coach Station Bay 9–11 — ถ้าหาไม่เจอให้ถามเคาน์เตอร์ Regal Hotels B15 ในโถงขาเข้า T1",
+   "sources": [
+    "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf"
+   ]
+  },
+  {
+   "id": "disney-shuttle",
+   "days": [
+    2
+   ],
+   "places": [
+    "regala-skycity",
+    "hong-kong-disneyland",
+    "castle-of-magical-dreams"
+   ],
+   "level": "tip",
+   "title": "ชัตเทิลดิสนีย์: ขาไปช้าไปสำหรับแผน ขากลับใช้ได้ตามแผน",
+   "text": "ขาไปมีแค่รอบ 09:15 (ถึง 09:45) และ 10:15 — ถึงหลังเวลาที่แผนอยากถึงประตู (09:15) จึงควรใช้รถเมล์ + MTR ตามแผนเดิม · ขากลับออกจาก Coach Park – Good Neighbour Hotel Shuttle Station Row 2 ราว 50 นาทีหลังโชว์ Momentous เริ่ม (ใช้ได้ถึง 31 ธ.ค. 2026) แวะ Regal Airport Hotel ก่อนแล้วถึง Regala ไม่มีรถสำรองถ้าพลาด",
+   "sources": [
+    "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf"
+   ]
+  },
+  {
+   "id": "disney-hours",
+   "days": [
+    2
+   ],
+   "places": [
+    "hong-kong-disneyland"
+   ],
+   "level": "tip",
+   "title": "เวลาเปิดสวนวันที่ 26 ยังไม่ประกาศ · ตรงกับงานคริสต์มาส",
+   "text": "วันธรรมดาทั่วไปเปิด 10:30–20:00 ซึ่งตรงกับที่แผนวางไว้ (เปิดสวน 10:30) แต่ต้องเช็ค Park Calendar อีกครั้ง · ตั๋ว 1 วันผู้ใหญ่ Tier 1–4 = HK$669 / 759 / 849 / 939 · งาน 'A Disney Christmas' 20 พ.ย. 2026 – 3 ม.ค. 2027 ตกแต่ง World of Frozen มีหิมะเทียม โชว์ใหม่หน้าปราสาท และพิธีเปิดไฟต้นคริสต์มาส · Hong Kong Disneyland Hotel ปิดรีโนเวตตั้งแต่ 12 ต.ค. 2026 (ไม่กระทบแผนนี้)",
+   "sources": [
+    "https://www.hongkongdisneyland.com/entertainment/",
+    "https://www.thestandard.com.hk/news/article/220836/Disney-raising-ticket-prices-up-to-7-pc",
+    "https://tdrexplorer.com/hong-kong-disneyland-christmas-guide-2026/"
+   ]
+  },
+  {
+   "id": "np360-saturday",
+   "days": [
+    4
+   ],
+   "places": [
+    "ngong-ping-360"
+   ],
+   "level": "ok",
+   "title": "กระเช้าวันเสาร์เปิด 09:00 · ไม่พบประกาศปิดซ่อมช่วง พ.ย.",
+   "text": "เสาร์-อาทิตย์เปิด 09:00–18:30 แผนต่อคิว 09:30 จึงพอดี · Standard ไป-กลับ HK$295 ตรงกับแผน · ปิดซ่อมรอบล่าสุดคือ 8–18 ก.ย. 2026 ยังไม่มีประกาศปิดใน พ.ย. (ณ 18 ต.ค.) แต่หยุดชั่วคราวได้เมื่อมีพายุ",
+   "sources": [
+    "https://www.np360.com.hk/en/tickets-promotions/tickets-tours/cable-car-tickets",
+    "https://www.np360.com.hk/media/jzngchi0/immediate-release-ngong-ping-cable-car-to-carry-out-scheduled-maintenance-from-8-to-18-september.pdf"
+   ]
+  },
+  {
+   "id": "bus-23-fare",
+   "days": [
+    4
+   ],
+   "places": [
+    "bus-23"
+   ],
+   "level": "ok",
+   "title": "รถเมล์ 23 วันเสาร์ยังเป็นราคาวันธรรมดา HK$20.4",
+   "text": "ราคาวันหยุด HK$37 ใช้เฉพาะวันอาทิตย์/วันหยุดนักขัตฤกษ์ และช่วง 25–28 พ.ย. 2026 ไม่มีวันหยุดนักขัตฤกษ์ฮ่องกง",
+   "sources": [
+    "https://www.nlb.com.hk/"
+   ]
+  },
+  {
+   "id": "fares",
+   "days": [
+    2,
+    3
+   ],
+   "places": [
+    "tung-chung-station",
+    "hong-kong-station",
+    "jordan-station",
+    "star-ferry",
+    "bus-15-peak"
+   ],
+   "level": "ok",
+   "title": "ค่าโดยสารจริงปี 2026",
+   "text": "MTR ไม่ขึ้นราคาปี 2026: Tung Chung→Disneyland HK$15.9, Tung Chung→Hong Kong HK$24.3, Jordan→Tung Chung HK$18.7 · รถเมล์ S1/S56 HK$3.7 · Citybus 15 HK$13.0 · Star Ferry ชั้นบนวันศุกร์ HK$5.0 · มีคำขอขึ้นค่ารถเมล์และค่าเรือที่ยังไม่อนุมัติ อาจขยับก่อนทริป",
+   "sources": [
+    "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+    "https://www.starferry.com.hk/en/service",
+    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent"
+   ]
+  },
+  {
+   "id": "escalator-direction",
+   "days": [
+    3
+   ],
+   "places": [
+    "mid-levels-escalator"
+   ],
+   "level": "ok",
+   "title": "บันไดเลื่อน Mid-Levels วิ่งขึ้นหลัง 10:00",
+   "text": "06:00–10:00 วิ่งลง, 10:00–24:00 วิ่งขึ้น — แผนใช้ตอน 13:45 จึงขึ้นได้สบาย",
+   "sources": [
+    "https://www.td.gov.hk/en/transport_in_hong_kong/pedestrians/hillside_escalator"
+   ]
+  }
+ ],
+ "practical": [
+  {
+   "title": "อากาศปลายพฤศจิกายน",
+   "text": "ค่าปกติเดือน พ.ย. (หอดูดาวฮ่องกง 1991–2020): สูงสุดเฉลี่ย 24.5°C ต่ำสุด 20.3°C ฝน 39.3 มม. ราว 5.7 วัน ความชื้น 72% · ปลายเดือนมักเย็นกว่าค่าเฉลี่ย คาดราว 18–24°C กลางคืนอาจเหลือ 15–17°C · บน The Peak และ Ngong Ping เย็นและลมแรงกว่าในเมือง 2–4°C",
+   "source": "https://www.hko.gov.hk/en/cis/normal/1991_2020/normals.htm"
+  },
+  {
+   "title": "อัตราแลกเปลี่ยน",
+   "text": "1 HKD ≈ 4.26 บาท (mid-market 18 ต.ค. 2026) แผนเดิมใช้ 4.3 ซึ่งใกล้เคียง · ร้านแลกจริงต่างจาก mid-market ราว 1–3%",
+   "source": "https://open.er-api.com/v6/latest/HKD"
+  },
+  {
+   "title": "Octopus",
+   "text": "On-Loan Octopus มัดจำ HK$50 + มูลค่า HK$150 ซื้อที่ MTR Customer Service Centre (มีที่สถานี Airport) · Tourist Octopus HK$39 ไม่มีมัดจำ · ผู้ใช้ iPhone เพิ่มบัตรใน Apple Wallet แล้วเติมด้วยบัตรเครดิตได้",
+   "source": "https://octopus.com.hk/en/consumer/tourist/choices/index.html"
+  }
+ ],
+ "places": {
+  "hkg-airport": {
+   "nameLocal": "สนามบินนานาชาติฮ่องกง",
+   "intro": "ประตูเข้าออกของทริป ลงเครื่องที่ Terminal 1 ทั้งขาไปและเป็นจุดเช็คอินขากลับ อาคารผู้โดยสารเชื่อมกับสถานี Airport Express และจุดขึ้นรถชัตเทิลโรงแรม",
+   "address": "1 Sky Plaza Road, Chek Lap Kok, Lantau Island",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "เปิด 24 ชม.; ขาเข้า (Arrivals Hall A/B) อยู่ชั้น 5 ของ T1",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "ไป Regala Skycity: shuttle ฟรีของโรงแรม (ดู regala-skycity) หรือรถเมล์ S1/S56 (HK$3.7) จากป้าย Terminal 1 (North/South), Cheong Tat Road; ไปเมือง: Airport Express หรือรถเมล์ A-route",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "30–60 นาทีหลังลงเครื่อง (ตม. + รับกระเป๋า + ซื้อ Octopus)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ศูนย์บริการลูกค้า MTR (Customer Service Centre) อยู่ที่สถานี Airport ของ Airport Express ซึ่งเชื่อมกับโถงขาเข้า T1 — ซื้อ/คืน On-Loan Octopus ได้",
+    "เคาน์เตอร์ Regal Hotels International Airport Counter B15 ในโถงขาเข้า T1 (ตามแผนที่ใน PDF shuttle ของ Regala)",
+    "T2: เปิดเฉพาะส่วน check-in/ขาออก (landside) ตั้งแต่ 27 พ.ค. 2026 — ผู้โดยสารเช็กอินที่ T2 แล้วนั่งรถไฟ APM ไปขึ้นเครื่องที่ T1; Hong Kong Airlines ย้ายเป็นสายแรก ตามด้วยอีก ~14 สายการบิน (เช่น HK Express, AirAsia ตั้งแต่ 28 พ.ค., Batik Air, Hainan, IndiGo, VietJet, Cebu Pacific) เสร็จสิ้น 10 มิ.ย. 2026",
+    "ขาเข้า (Arrivals) ยังอยู่ที่ T1 ทั้งหมด — ส่วนขาเข้าของ T2 มีกำหนดเปิดภายในปี 2027"
+   ],
+   "tips": [
+    "ขากลับ (28 พ.ย.) ให้เช็กในตั๋ว/แอปสายการบินว่าเช็กอินที่ T1 หรือ T2 — ถ้าบินสายที่ย้ายแล้ว (เช่น HK Express/AirAsia) ต้องไป T2",
+    "Tourist Octopus (HK$39) — หน้าเว็บ Octopus ระบุจุดขายหลักคือร้าน Hung Fook Tong; บางแหล่งรายงานว่าเคาน์เตอร์ขาเข้าที่สนามบินขายแบบรวมมูลค่า HK$100 (รวม HK$139) — ยังไม่ยืนยันจากเว็บทางการ",
+    "Shuttle ของ Regala ขึ้นที่ Hotel Coach Station (Bay 9–11) ซึ่ง PDF ของโรงแรมระบุว่าอยู่ 'at Terminal 2' (ฝั่ง landside ระหว่าง T1–T2) ถ้าหาไม่เจอให้ถามเคาน์เตอร์ B15"
+   ],
+   "verifyNote": "สถานะ T2 ยืนยันจากข่าวหลายแหล่ง (ไม่ได้เปิดหน้า hongkongairport.com ได้ — 403). พิกัด = centroid อาคาร T1 จาก OSM; สถานี Airport (Airport Express) อยู่ที่ 22.31592, 113.93648"
+  },
+  "regala-skycity": {
+   "nameLocal": "โรงแรมรีกาล่า สกายซิตี้ (ที่พักทั้ง 3 คืน)",
+   "intro": "โรงแรมในโซน SKYCITY ติด AsiaWorld-Expo และ 11 SKIES เดินถึง Terminal 2 ได้ด้วยสะพานในร่ม มีรถชัตเทิลฟรีสำหรับแขกไปสนามบิน, สถานี Tung Chung และดิสนีย์แลนด์ — เป็นฐานของทุกวันในทริปนี้",
+   "address": "8 Airport Expo Boulevard, Hong Kong International Airport, Chek Lap Kok (ใน SKYCITY ติด AsiaWorld-Expo และ 11 SKIES) โทร +852 3556 3288",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "โรงแรม 24 ชม.",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ดูตามการจอง",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "Shuttle ฟรี (Route 1) จาก Airport Coach Station / Hotel Coach Station Bay 9–11; หรือ MTR Airport Express สถานี AsiaWorld-Expo; หรือรถเมล์ S1 ลงป้าย AsiaWorld-Expo (Airport Expo Boulevard) แล้วเดิน",
+     "source": "research"
+    },
+    {
+     "label": "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2) · เวลาเปิด",
+     "value": "Regala special route: ออก 50 นาทีหลังเริ่ม Momentous",
+     "source": "research"
+    },
+    {
+     "label": "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2) · ราคา",
+     "value": "ฟรี (แขก Regala)",
+     "source": "research"
+    },
+    {
+     "label": "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2) · วิธีไป",
+     "value": "ออกจากประตูสวน เดินไปทาง Coach Park (แผนที่ใน PDF Regala ระบุ Coach Park Row 2, Bay 200–400)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Shuttle Route 1 (โรงแรม ↔ Airport Coach Station): จากโรงแรม 05:00, 05:15, 05:30, 05:45, 06:00, 06:15, 06:30, 06:45, 07:00, 07:15, 07:30, 07:45, 08:00, 08:30, 09:00, 09:35, 10:00, 10:30, 11:00, 11:35, 12:00, 12:30, 13:00, 13:35, 14:00, 14:30, 15:00, 15:35, 16:00, 16:30, 17:00, 17:35, 18:00, 18:30, 19:00, 19:35, 20:00, 20:30, 21:00, 21:35, 22:00, 22:30, 23:00, 23:30",
+    "Shuttle Route 1 (Airport Coach Station → โรงแรม): 06:15, 06:45, 07:15, 07:45, 08:15, 08:45, 09:15, 09:45, 10:15, 10:45, 11:15, 11:45, 12:15, 12:45, 13:15, 13:45, 14:15, 14:45, 15:15, 15:45, 16:15, 16:45, 17:15, 17:45, 18:15, 18:45, 19:15, 19:45, 20:15, 20:45, 21:15, 21:45, 22:15, 22:45, 23:15, 23:45, 00:00, 00:15, 00:30, 01:00, 01:15, 01:30 (ในตารางเขียน 24:00–25:30)",
+    "Shuttle Route 2 (โรงแรม → Tung Chung MTR Exit A): 08:05, 09:05, 10:05, 11:05, 12:05, 13:05, 14:05, 15:05, 16:05, 17:05, 18:05, 19:05, 19:15, 20:05, 20:15, 21:05, 21:15, 22:05",
+    "Shuttle Route 2 (Tung Chung MTR Exit A → โรงแรม): 08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15, 19:15, 19:30*, 20:15, 20:30*, 21:15, 21:30*, 22:15 (*เที่ยวที่ไปเฉพาะ Regala Skycity)",
+    "Shuttle Route 3 (โรงแรม → HZMB → Hong Kong Disneyland, ส่งอย่างเดียว): ออก 09:15 ถึงดิสนีย์ 09:45 / ออก 10:15 ถึง 10:45",
+    "Special Route ขากลับจาก Disneyland (ใช้ได้ถึง 31 ธ.ค. 2026): ออกจาก Coach Park – Good Neighbour Hotel Shuttle Station Row 2 เวลา 50 นาทีหลังเริ่มโชว์ 'Momentous: Party in the Night Sky' (ถ้าไม่มีโชว์ ออก 20 นาทีหลังสวนปิด) → Regal Airport Hotel (~20 นาที) → Regala Skycity (~5 นาที)",
+    "Hong Kong Disneyland Coach Park – Good Neighbour Hotel Shuttle Station (Row 2): รถ Regala แวะ Regal Airport Hotel (~20 นาที) แล้วถึง Regala Skycity (~5 นาที)"
+   ],
+   "tips": [
+    "Shuttle ใช้ได้เฉพาะแขกโรงแรม (ต้องแสดง room key/หลักฐานการจอง) ที่นั่งจำกัด first-come-first-served",
+    "ขากลับจากดิสนีย์ถ้าพลาด special route จะไม่มีรถสำรอง — สำรองด้วย MTR Disneyland Resort → Sunny Bay → Tung Chung แล้วต่อ S1/S56 หรือ shuttle Route 2 (เที่ยวสุดท้ายจาก Tung Chung 22:15)",
+    "กระเป๋าใหญ่ได้ 1 ใบ/คน (ไม่เกิน 76×51×32 ซม., 20 กก.)",
+    "ไปรอก่อนเวลา ที่นั่งจำกัด ไม่มีรถสำรอง"
+   ],
+   "verifyNote": "ตารางอ่านจาก PDF ทางการของโรงแรม (ไฟล์ชื่อ 'Updated 27 Apr 2026', อัปโหลด 2026-07). ตารางอาจเปลี่ยน — เช็กที่ front desk อีกครั้ง"
+  },
+  "skycity-t2": {
+   "nameLocal": "โซน SKYCITY / 11 SKIES / Terminal 2",
+   "intro": "ย่านใหม่ติดสนามบิน มีห้าง 11 SKIES ร้านอาหารและร้านสะดวกซื้อที่เดินจากโรงแรมได้ เหมาะกินมื้อเย็นคืนแรกโดยไม่ต้องจ่ายราคาร้านในโรงแรม",
+   "facts": [
+    {
+     "label": "สถานะ T2",
+     "value": "T2 เปิดเฉพาะ check-in/ขาออก (landside) ตั้งแต่ 27 พ.ค. 2026 ขึ้นเครื่องที่ T1 — ขาเข้ายังเป็น T1 (ขาเข้า T2 ภายใน 2027)",
+     "source": "research"
+    },
+    {
+     "label": "สายการบินที่ย้ายไป T2",
+     "value": "Hong Kong Airlines (แรก) + อีก ~14 สาย เช่น HK Express, AirAsia, Batik Air, Hainan Airlines, IndiGo, VietJet Air, Cebu Pacific (เสร็จ 10 มิ.ย. 2026)",
+     "source": "research"
+    },
+    {
+     "label": "รถเมล์",
+     "value": "ป้าย 'SKYCITY' เป็นจุดจอดของ S56 (HK$3.7) ไปสถานี Tung Chung",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": [],
+   "verifyNote": "พิกัดเป็นป้ายรถเมล์ SKYCITY (ข้อมูลกรมขนส่ง) ไม่ใช่ตัวห้าง"
+  },
+  "asiaworld-expo": {
+   "nameLocal": "ป้ายรถเมล์ AsiaWorld-Expo",
+   "intro": "ป้ายรถเมล์หน้าศูนย์แสดงสินค้า AsiaWorld-Expo ห่างโรงแรมไม่กี่นาที รถเมล์ S1 จอดที่นี่ ใช้ไปสถานี Tung Chung ในวันที่ชัตเทิลโรงแรมไม่ตรงเวลา",
+   "address": "Airport Expo Boulevard, Chek Lap Kok (หน้า AsiaWorld-Expo ใกล้ Regala Skycity)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "S1: ทุกวัน ~05:30–24:00",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "S1 (Tung Chung Station ↔ Airport วงกลม) HK$3.7 ด้วย Octopus/เงินสด; S56 HK$3.7",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "S1 วิ่งวน: Tung Chung Station → Terminal 1 (South/North) → Regal Airport Hotel → AsiaWorld-Expo → SkyCity Marriott → Tung Chung Cable Car Terminal → Tung Chung Station. S56 ไม่ผ่านป้าย AsiaWorld-Expo แต่จอดป้าย 'SKYCITY' (22.31660, 113.94068)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "S1 จาก AsiaWorld-Expo ถึง Tung Chung Station ~15–20 นาที (ประมาณ)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "S1 ถี่ราว 7–10 นาที (ตามตาราง TD) ช่วงกลางวัน",
+    "S1 ผ่านป้าย Tung Chung Cable Car Terminal ก่อนถึงสถานี Tung Chung — ลงตรงนั้นได้ถ้าจะขึ้นกระเช้า NP360"
+   ],
+   "tips": [
+    "ใช้ Octopus แตะได้ทันที ไม่ทอนเงินถ้าจ่ายสด"
+   ],
+   "verifyNote": "ค่าโดยสาร/ป้ายจอด/ความถี่มาจาก open data ของ Transport Department (ผ่าน hkbus.app). มีคำขอขึ้นค่ารถเมล์ Citybus 2026 (สูงสุด 17.7%) ยังไม่อนุมัติ ณ 18 ต.ค. 2026"
+  },
+  "octopus-card": {
+   "nameLocal": "บัตรโดยสาร Octopus",
+   "intro": "บัตรเติมเงินใบเดียวที่ใช้ได้ทั้งรถเมล์ MTR เรือ Star Ferry และร้านสะดวกซื้อ ต้องมีก่อนออกจากสนามบินวันแรก เพราะเช้าวันที่ 2 ต้องใช้ขึ้นรถเมล์",
+   "facts": [
+    {
+     "label": "Tourist Octopus",
+     "value": "HK$39 (ผู้ใหญ่) ไม่มีมูลค่าในบัตร ไม่มีมัดจำ ไม่คืนค่าบัตร (คืนเงินคงเหลือได้แต่บัตรจะถูกปิด); รุ่น China T-Union HK$42; จุดขายตามเว็บทางการ: ร้าน Hung Fook Tong — บางแหล่งว่าที่สนามบินขาย HK$39 + มูลค่า HK$100 = HK$139",
+     "source": "research"
+    },
+    {
+     "label": "On-Loan Octopus",
+     "value": "มัดจำ HK$50 + มูลค่าเริ่มต้น HK$150 (ตามหน้า 'Choice of Octopus' ทางการ) ซื้อได้ที่ MTR Customer Service Centre ทุกสถานี รวมถึงสถานี Airport; คืนบัตรที่ CSC ได้ (ค่าธรรมเนียม ~HK$11 ถ้าคืนภายใน 90 วัน — แหล่งไม่ทางการ)",
+     "source": "research"
+    },
+    {
+     "label": "บนมือถือ",
+     "value": "Octopus App for Tourists — เพิ่มบัตรใน Apple Wallet (iPhone X ขึ้นไป) เติมเงินด้วยบัตรเครดิตได้ ไม่ต้องซื้อบัตรจริง (แนะนำสำหรับผู้ใช้ iPhone)",
+     "source": "research"
+    },
+    {
+     "label": "เติมเงิน",
+     "value": "เติมเงินสดที่เครื่อง Add Value ใน MTR, 7-Eleven, Circle K",
+     "source": "research"
+    },
+    {
+     "label": "แผนเดิมแนะนำ",
+     "value": "เติมเงินไว้ HK$150–200 ใช้ได้ทั้งรถเมล์ MTR และเรือ",
+     "source": "plan"
+    }
+   ],
+   "highlights": [],
+   "tips": [],
+   "verifyNote": "พิกัดเป็นสถานี Airport (Airport Express) ที่มี MTR Customer Service Centre"
+  },
+  "tung-chung-station": {
+   "nameLocal": "สถานี MTR Tung Chung",
+   "intro": "สถานีหลักที่ต้องผ่านเกือบทุกวัน ต้นสาย Tung Chung Line ติดห้าง Citygate และสถานีกระเช้า Ngong Ping 360 ทางออก A เป็นจุดรับส่งชัตเทิลของโรงแรม",
+   "address": "Tat Tung Road, Tung Chung, Lantau (ติด Citygate Outlets และสถานีกระเช้า NP360)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "MTR ประมาณ 06:00–01:00 (ไม่ได้ตรวจตารางเที่ยวแรก/สุดท้าย 2026)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ค่าโดยสารผู้ใหญ่ (Octopus / ตั๋วเดี่ยว): Tung Chung→Disneyland Resort HK$15.9 / $17.0; Tung Chung→Hong Kong HK$24.3 / $28.0; Tung Chung→Jordan HK$18.7 / $21.0; Tung Chung→Sunny Bay HK$11.0 / $13.0; Tung Chung→Central HK$24.3; Tung Chung→Tsim Sha Tsui HK$18.7",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "จาก Regala: shuttle Route 2 หรือ S1/S56. ไปดิสนีย์: Tung Chung Line ไป Sunny Bay แล้วต่อ Disneyland Resort Line",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Exit A = จุดรับส่ง shuttle Regala",
+    "เดินไปสถานีกระเช้า Ngong Ping 360 ~5 นาที",
+    "ป้ายรถเมล์ 23 (ไป Ngong Ping) อยู่ที่ Tat Tung Road Bus Terminus ใกล้สถานี"
+   ],
+   "tips": [
+    "ค่าโดยสาร MTR ปี 2026 ถูก freeze (สูตรปรับค่าโดยสารได้ 1.4% ไม่ถึงเกณฑ์ 1.5%)"
+   ],
+   "verifyNote": "ค่าโดยสารจาก MTR open data (ไฟล์อัปเดต 2 เม.ย. 2026)"
+  },
+  "sunny-bay-station": {
+   "nameLocal": "สถานี MTR Sunny Bay",
+   "intro": "สถานีเปลี่ยนสายไปดิสนีย์ ลงจาก Tung Chung Line แล้วเดินข้ามชานชาลาไปขึ้น Disneyland Resort Line",
+   "address": "Sunny Bay, Lantau",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลา MTR",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ไม่ต้องจ่ายเพิ่มตอนเปลี่ยนสาย — คิดค่าโดยสารต้นทาง-ปลายทาง (Tung Chung→Disneyland Resort HK$15.9 Octopus)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "สถานีเปลี่ยนจาก Tung Chung Line ไป Disneyland Resort Line (ข้ามชานชาลาเดียวกัน)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "เปลี่ยนสาย ~3–5 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "รถไฟ Disneyland Resort Line ตกแต่งธีมดิสนีย์ (หน้าต่างรูปหัวมิกกี้)"
+   ],
+   "tips": [],
+   "verifyNote": "Disneyland Resort Station อยู่ที่ 22.31534, 114.04514; Tung Chung→Sunny Bay ~10 นาที, Sunny Bay→Disneyland ~5 นาที (ประมาณ)"
+  },
+  "disneyland-resort-line": {
+   "nameLocal": "รถไฟสายดิสนีย์ (Disneyland Resort Line)",
+   "intro": "รถไฟสายสั้นจาก Sunny Bay ถึงสถานี Disneyland Resort ตกแต่งธีมดิสนีย์ทั้งขบวน หน้าต่างเป็นรูปหัวมิกกี้ นั่งประมาณ 5 นาที",
+   "facts": [
+    {
+     "label": "ค่าโดยสาร",
+     "value": "Tung Chung → Disneyland Resort HK$15.9 (Octopus) / HK$17.0 (ตั๋วเดี่ยว) คิดรวมทั้งเส้นทาง ไม่ต้องจ่ายตอนเปลี่ยนสาย",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "Tung Chung → Sunny Bay ~10 นาที, Sunny Bay → Disneyland ~5 นาที (ประมาณ)",
+     "source": "research"
+    },
+    {
+     "label": "หมายเหตุค่าโดยสาร",
+     "value": "MTR freeze ค่าโดยสารปี 2026 (สูตรได้ +1.4% < เกณฑ์ 1.5%); ตัวเลขจาก MTR open data (อัปเดต 2 เม.ย. 2026) — ผู้ใหญ่ Octopus / ตั๋วเดี่ยว",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": []
+  },
+  "hong-kong-disneyland": {
+   "nameLocal": "ฮ่องกงดิสนีย์แลนด์",
+   "intro": "ไฮไลต์ของทริป เล่นยาวตั้งแต่เปิดสวนจนโชว์กลางคืน ช่วงปลายพฤศจิกายนตรงกับงานคริสต์มาส สวนตกแต่งเต็มที่",
+   "address": "Hong Kong Disneyland Resort, Lantau Island",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "26 พ.ย. 2026 (พฤหัส): ยังไม่ได้ตรวจเวลาเฉพาะวัน — เว็บทางการแสดง 10:30–20:00 สำหรับวันพฤหัสที่ 15 ต.ค. 2026 (ค่าทั่วไปของวันธรรมดา) ให้เช็ก Park Calendar ก่อนไป",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ตั๋ว 1 วันแบบ 4 Tier (ผู้ใหญ่ / เด็ก 3–11 & ผู้สูงอายุ 60+): Tier 1 HK$669 / $499; Tier 2 HK$759 / $569; Tier 3 HK$849 / $639; Tier 4 HK$939 / $705 (ราคาตั้งแต่ 25 ก.ย. 2024 ยังใช้ในปี 2026 — หน้า Non-stop 2-Day Fun Ticket ปี 2026 อ้าง Tier 1 = HK$669). วันธรรมดาปลาย พ.ย. มักเป็น Tier 1–2 แต่ต้องดูปฏิทินราคา",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "MTR: Tung Chung → Sunny Bay → Disneyland Resort (HK$15.9 Octopus). หรือ shuttle Regala Route 3 (09:15 / 10:15 จากโรงแรม)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "ทั้งวัน (เปิดถึงปิด)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "งานคริสต์มาส 'A Disney Christmas' 20 พ.ย. 2026 – 3 ม.ค. 2027: World of Frozen แต่งคริสต์มาส + หิมะเทียม + ตลาดฤดูหนาว; โชว์ใหม่หน้าปราสาท Mickey & Minnie (มี Stitch); พิธีเปิดไฟต้นคริสต์มาส 'A Holiday Wish-Come-True' โดย Santa Goofy (หิมะ+โดรน)",
+    "'Disney Christmas Live in Concert!' เฉพาะ 21–22 พ.ย. และ 5–6 ธ.ค. 2026 — ไม่ตรงกับวันที่ 26 พ.ย.",
+    "Nighttime spectacular: 'Momentous' (ชื่อเต็มในเอกสาร Regala: 'Momentous: Party in the Night Sky') ฉายที่ Castle of Magical Dreams — ปกติเริ่มช่วงเวลาปิดสวน (~20:00) เวลาจริงดูในแอป",
+    "พาเหรดกลางวัน: 'Disney Friendtastic! Parade' (เปิดปี 2025 ฉลอง 20 ปี) เส้นทาง Main Street U.S.A. — แหล่งข้อมูลบล็อกระบุเริ่มราว 15:30 นาน ~35 นาที (ยังไม่ยืนยันสำหรับ 2026)",
+    "ไฮไลต์เครื่องเล่น: World of Frozen, Mystic Manor, Big Grizzly Mountain Runaway Mine Cars, Iron Man Experience, Ant-Man and The Wasp: Nano Battle!, Toy Story Land"
+   ],
+   "tips": [
+    "ต้องซื้อตั๋วล่วงหน้าและมี park reservation ที่ถูกต้อง (ตั๋วแบบ dated) — ซื้อทาง hongkongdisneyland.com หรือแอป",
+    "Non-stop 2-Day Fun Ticket: เพิ่ม HK$100 ได้วันที่สองติดกัน (ขายถึง 31 ธ.ค. 2026)",
+    "Hong Kong Disneyland Hotel ปิดรีโนเวตตั้งแต่ 12 ต.ค. 2026 (Explorers Lodge และ Hollywood Hotel ยังเปิด)",
+    "ดาวน์โหลดแอป Hong Kong Disneyland เพื่อดู show time และ wait time รายวัน"
+   ],
+   "verifyNote": "ยืนยันแล้ว: ชื่อโชว์ Momentous (เว็บทางการ), ราคา tier (The Standard + หน้า offer ทางการ), วันงานคริสต์มาส 2026 (2 แหล่งตรงกัน แต่ไม่พบ press release บน news.hongkongdisneyland.com). ยังไม่ยืนยัน: เวลาเปิด-ปิดวันที่ 26 พ.ย. 2026, เวลาโชว์/พาเหรด 2026, tier ของวันที่ 26 พ.ย."
+  },
+  "world-of-frozen": {
+   "nameLocal": "โซน World of Frozen",
+   "intro": "โซน Arendelle จากเรื่อง Frozen มีเครื่องเล่นหลัก 2 ตัว คิวยาวที่สุดในสวน แผนจึงให้มุ่งมาที่นี่ทันทีที่สวนเปิด",
+   "address": "ภายใน Hong Kong Disneyland (หลัง Fantasyland ฝั่งตะวันตก)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋วสวนสนุก",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Fantasyland",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "1.5–2.5 ชม. (รวมคิว)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Frozen Ever After (魔雪奇幻之旅) — เรือล่องผ่านฉาก Arendelle (พิกัด 22.31204, 114.03847)",
+    "Wandering Oaken's Sliding Sleighs (雪嶺滑雪橇) — รถไฟเหาะครอบครัว (พิกัด 22.31301, 114.03871)",
+    "ช่วงคริสต์มาส 2026: ตกแต่ง Arendelle, หิมะตามฤดูกาล, Anna/Elsa ชุดฤดูหนาว, Olaf, ตลาดฤดูหนาว"
+   ],
+   "tips": [
+    "ไปตั้งแต่เปิดสวนหรือช่วงท้ายวัน เพราะคิวสองเครื่องเล่นนี้ยาวที่สุดในสวน",
+    "พิจารณา Premier Access ถ้างบพอ"
+   ],
+   "verifyNote": "พิกัดจาก OSM (theme_area); ข้อมูลคริสต์มาสจากแหล่งข่าว"
+  },
+  "mystic-manor": {
+   "nameLocal": "Mystic Manor (คฤหาสน์ลึกลับ)",
+   "intro": "Dark ride ที่มีเฉพาะฮ่องกงดิสนีย์แลนด์ นั่งรถไร้รางชมของสะสมมีชีวิตของ Lord Henry Mystic",
+   "address": "Mystic Point, Hong Kong Disneyland",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋ว",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "โซน Mystic Point (ใต้สุดของสวน)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "30–45 นาที (รวมคิว)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "dark ride แบบ trackless เพลงประกอบโดย Danny Elfman — มีเฉพาะที่ฮ่องกง"
+   ],
+   "tips": [],
+   "verifyNote": "พิกัดจาก OSM; ไม่ได้ตรวจสถานะปิดปรับปรุงช่วง พ.ย. 2026"
+  },
+  "big-grizzly-mountain": {
+   "nameLocal": "รถไฟเหาะ Big Grizzly Mountain",
+   "intro": "รถไฟเหาะเหมืองแร่ในโซน Grizzly Gulch มีช่วงวิ่งถอยหลัง สนุกแต่ไม่โหดเกินไป",
+   "address": "Grizzly Gulch, Hong Kong Disneyland",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋ว",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "โซน Grizzly Gulch (ติด Mystic Point/Toy Story Land)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "30–60 นาที (รวมคิว)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "รถไฟเหาะเหมืองแร่ มีช่วงถอยหลัง — เหมาะทั้งครอบครัว"
+   ],
+   "tips": [],
+   "verifyNote": "พิกัด = จุด roller_coaster ใน Grizzly Gulch จาก OSM"
+  },
+  "toy-story-land": {
+   "nameLocal": "โซน Toy Story Land",
+   "intro": "โซนที่ทำให้รู้สึกตัวเล็กเท่าของเล่นของ Andy มีเครื่องเล่นครอบครัว 3 ตัว",
+   "address": "Hong Kong Disneyland",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋ว",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "โซนฝั่งตะวันตกเฉียงใต้ ใกล้ Grizzly Gulch",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–90 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "RC Racer",
+    "Toy Soldier Parachute Drop",
+    "Slinky Dog Spin"
+   ],
+   "tips": [
+    "Toy Soldier Boot Camp เป็นโชว์ประจำโซน (อยู่ในรายการ entertainment ทางการ)"
+   ],
+   "verifyNote": "ชื่อเครื่องเล่นจากความรู้ทั่วไป ไม่ได้ตรวจสถานะเปิด 2026"
+  },
+  "iron-man-experience": {
+   "nameLocal": "Iron Man Experience (โซน Stark Expo)",
+   "intro": "Simulator บินไปกับ Iron Man เหนือเกาะฮ่องกง อยู่ในโซน Stark Expo คู่กับ Ant-Man and The Wasp: Nano Battle!",
+   "address": "Stark Expo, Tomorrowland, Hong Kong Disneyland",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋ว",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "โซน Tomorrowland (ฝั่งตะวันออก ใกล้ทางเข้า)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–75 นาที (ทั้งสองเครื่อง)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Iron Man Experience — simulator บินเหนือฮ่องกง",
+    "Ant-Man and The Wasp: Nano Battle! — dark ride ยิงเป้า (พิกัด 22.31389, 114.04270)"
+   ],
+   "tips": [
+    "คิวมักสั้นกว่าโซน Frozen ช่วงเช้า"
+   ],
+   "verifyNote": "พิกัดจาก OSM"
+  },
+  "fantasyland": {
+   "nameLocal": "โซน Fantasyland",
+   "intro": "โซนเทพนิยายคลาสสิกหลังปราสาท เครื่องเล่นเบาๆ เหมาะช่วงบ่ายที่เดินมาเยอะแล้ว และเป็นทางผ่านไป World of Frozen",
+   "address": "Hong Kong Disneyland (หลังปราสาท)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋ว",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินผ่านปราสาทจาก Main Street",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "1–2 ชม.",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Mickey's PhilharMagic",
+    "It's a Small World",
+    "The Many Adventures of Winnie the Pooh",
+    "Mad Hatter Tea Cups",
+    "Cinderella Carousel"
+   ],
+   "tips": [
+    "Fantasyland เป็นทางผ่านไป World of Frozen"
+   ],
+   "verifyNote": "พิกัด = สถานีรถไฟ Fantasyland ใน OSM (ประมาณกลางโซน); รายชื่อเครื่องเล่นจากความรู้ทั่วไป ไม่ได้ตรวจสถานะ 2026"
+  },
+  "castle-of-magical-dreams": {
+   "nameLocal": "ปราสาท Castle of Magical Dreams",
+   "intro": "ปราสาทกลางสวน ฉากหลังของโชว์กลางคืน Momentous (โปรเจกชัน พลุ และโดรน) ที่แผนให้ดูก่อนกลับ",
+   "address": "The Hub, Hong Kong Disneyland",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลาสวน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "รวมในตั๋ว",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "สุดถนน Main Street U.S.A.",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "ถ่ายรูป 15–30 นาที + ดูโชว์",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ฉากหลังของ 'Momentous' (projection + พลุ + โดรน)",
+    "ช่วงคริสต์มาส 2026: โชว์ใหม่หน้าปราสาท Mickey & Minnie (+Stitch) และพิธีเปิดไฟต้นคริสต์มาส"
+   ],
+   "tips": [
+    "จับจองที่ดู Momentous ล่วงหน้า 30–45 นาที บริเวณ Main Street/หน้าปราสาท (มี Premier Access ขายพื้นที่ชมพิเศษ)"
+   ]
+  },
+  "exchange-square": {
+   "nameLocal": "ท่ารถเมล์ Exchange Square (Central)",
+   "intro": "ท่ารถเมล์ใต้อาคาร Exchange Square ใน Central จุดขึ้นรถเมล์ Citybus สาย 15 ไป Victoria Peak เดินจากสถานี Hong Kong ราว 5 นาที",
+   "address": "Exchange Square, Connaught Place, Central (ใต้ Exchange Square เชื่อมกับ IFC/Hong Kong Station)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "รถ 15 จาก Exchange Square ตั้งแต่ ~06:00; ช่วงสาย-ค่ำต้นทางคือ Central Pier 5 (Cheung Chau/Lamma ferry) แล้วแวะ Exchange Square",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "Citybus 15 → The Peak: HK$13.0 (ผู้ใหญ่, จากต้นทาง Central/Exchange Square)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "จาก Hong Kong Station/Central MTR เดินตามป้าย Exchange Square ~5 นาที",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "นั่งรถ ~40–60 นาที (ขึ้นกับรถติด)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "เส้นทาง: Central → Admiralty → Queen's Road East → Stubbs Road → Peak Road → The Peak (Bus Terminus ใต้ Peak Galleria)",
+    "ความถี่ (ตามตาราง TD): จันทร์–ศุกร์ ~ทุก 10–15 นาที, เสาร์/อาทิตย์ถี่ขึ้น ~7–10 นาที"
+   ],
+   "tips": [
+    "นั่งชั้นบน (upper deck) — คนนิยมนั่งฝั่งซ้ายขาขึ้นเพื่อมองวิว Happy Valley/อ่าว (คำแนะนำจากบล็อก ยังไม่ยืนยัน)",
+    "ถูกกว่า Peak Tram มาก (HK$13 vs HK$82 เที่ยวเดียว) และไม่ต้องต่อคิวยาว"
+   ],
+   "verifyNote": "ค่าโดยสาร HK$13 และตารางจาก TD open data (ยืนยัน); ยังไม่ได้ยืนยันจากหน้า citybus.com.hk โดยตรง. Citybus ยื่นขอขึ้นค่ารถ 17.7% (เข้า LegCo ต.ค. 2026) — อาจขึ้นก่อน/หลังทริป"
+  },
+  "bus-15-peak": {
+   "nameLocal": "รถเมล์ Citybus สาย 15 ขึ้น The Peak",
+   "intro": "ทางขึ้นพีคแบบประหยัดตามแผน รถสองชั้นไต่เขาผ่าน Stubbs Road นั่งชั้นบนจะเห็นวิวเมืองระหว่างทาง ถูกกว่า Peak Tram หลายเท่าและไม่ต้องต่อคิวยาว",
+   "facts": [
+    {
+     "label": "ค่าโดยสาร",
+     "value": "HK$13.0 ผู้ใหญ่ (จาก Central/Exchange Square) — เทียบ Peak Tram เที่ยวเดียว HK$82",
+     "source": "research"
+    },
+    {
+     "label": "ต้นทาง",
+     "value": "ช่วงเช้าออกจาก Exchange Square; ช่วงสาย-ค่ำต้นทางคือ Central Pier 5 แล้วแวะ Exchange Square",
+     "source": "research"
+    },
+    {
+     "label": "เส้นทาง",
+     "value": "Central → Admiralty → Queen's Road East → Stubbs Road → Peak Road → The Peak (ใต้ Peak Galleria)",
+     "source": "research"
+    },
+    {
+     "label": "ความถี่",
+     "value": "จ.–ศ. ราวทุก 10–15 นาที, ส.–อา. ราว 7–10 นาที (ตารางกรมขนส่ง)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "~40 นาที ตามแผน (40–60 นาทีถ้ารถติด)",
+     "source": "plan"
+    }
+   ],
+   "highlights": [],
+   "tips": [
+    "นั่งชั้นบนฝั่งซ้ายขาขึ้น ตามแผนเดิม",
+    "ผู้ประกอบการรถเมล์ยื่นขอขึ้นค่าโดยสารปี 2026 (Citybus 17.7%, NLB 9.8%) — ยังไม่อนุมัติ ณ 18 ต.ค. 2026"
+   ],
+   "verifyNote": "พิกัดคือปลายทาง The Peak Bus Terminus"
+  },
+  "victoria-peak": {
+   "nameLocal": "วิคตอเรียพีค (The Peak)",
+   "intro": "จุดชมวิวที่สูงที่สุดของเกาะฮ่องกง เห็นตึกระฟ้า Central และอ่าววิคตอเรียทั้งอ่าว แผนเลือกจุดชมวิวฟรีแทนการจ่ายค่า Sky Terrace",
+   "address": "The Peak Bus Terminus, Peak Road (ใต้ The Peak Galleria, 118 Peak Road)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "เปิดตลอด; Peak Tower 07:00–23:00, Sky Terrace 428 08:30–22:00, Peak Tram 07:30–23:00",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี (ยกเว้น Sky Terrace 428 / Peak Tram)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "Citybus 15 จาก Central/Exchange Square (HK$13) หรือ Peak Tram จาก Garden Road (22.27772, 114.15955)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "2–3 ชม. (รวม Peak Circle Walk)",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · เวลาเปิด",
+     "value": "08:30–22:00 ทุกวัน (Peak Tower 07:00–23:00)",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · ราคา",
+     "value": "Sky Terrace 428 ผู้ใหญ่ HK$80 / เด็ก-ผู้สูงอายุ HK$50; Combo Peak Tram ไป-กลับ + Sky Terrace HK$182 (เที่ยวเดียว + Sky Terrace HK$146) — สำหรับอ้างอิงเท่านั้น",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · วิธีไป",
+     "value": "อยู่บน Peak Tower ข้างป้ายรถเมล์",
+     "source": "research"
+    },
+    {
+     "label": "Sky Terrace 428 (Peak Tower) · ใช้เวลา",
+     "value": "30–45 นาที",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · เวลาเปิด",
+     "value": "07:30–23:00 ทุกวัน",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · ราคา",
+     "value": "ผู้ใหญ่ ไป-กลับ HK$116 / เที่ยวเดียว HK$82; เด็ก/ผู้สูงอายุ ไป-กลับ HK$75 / เที่ยวเดียว HK$52 (ตั้งแต่ 29 ธ.ค. 2025) — เทียบกับรถเมล์ 15 HK$13",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · วิธีไป",
+     "value": "เดินจาก Central MTR Exit J2 ~10 นาที",
+     "source": "research"
+    },
+    {
+     "label": "Peak Tram (Garden Road Lower Terminus) · ใช้เวลา",
+     "value": "นั่ง ~5–7 นาที แต่คิวอาจ 30–90 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Lion's Pavilion (ชมวิวฟรี)",
+    "Peak Circle Walk (Lugard Road + Harlech Road)",
+    "Peak Tower / Peak Galleria (ร้านอาหาร/ห้องน้ำ)",
+    "Sky Terrace 428 (Peak Tower): จุดชมวิวสูงสุดบน The Peak (428 ม.)",
+    "Peak Tram (Garden Road Lower Terminus): รถรางชันประวัติศาสตร์ (1888)"
+   ],
+   "tips": [
+    "ช่วงพระอาทิตย์ตก (ปลาย พ.ย. ~17:40) คนเยอะ ไปก่อน 30–45 นาที",
+    "พิกัดที่ให้ = ป้ายรถเมล์ The Peak",
+    "ถ้างบจำกัด Lion's Pavilion ให้วิวคล้ายกันฟรี",
+    "ทางเลือกประหยัด: ขึ้นรถเมล์ 15 แล้วลง Peak Tram (หรือกลับกัน)"
+   ],
+   "verifyNote": "เวลาเปิดจากหน้าเว็บ thepeak.com.hk (ผ่านผลค้นหา; WebFetch ถูกบล็อก 403)"
+  },
+  "lions-pavilion": {
+   "nameLocal": "ศาลา Lion's Pavilion",
+   "intro": "ศาลาทรงจีนริมถนน Findlay Road จุดชมวิวอ่าววิคตอเรียแบบฟรี เดินจาก Peak Tower ไม่กี่นาที",
+   "address": "Findlay Road, The Peak (ใกล้ Peak Tower/Peak Galleria)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตลอด 24 ชม.",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Peak Tower/ป้ายรถเมล์ The Peak ~3–5 นาที ลงทาง Findlay Road",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "15–30 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ศาลาทรงจีน สร้างโดย Lions Club International ปี 1972",
+    "จุดชมวิวอ่าววิคตอเรียฟรี ทางเลือกแทน Sky Terrace 428"
+   ],
+   "tips": [
+    "คนแน่นช่วงเย็น ต้องรอจังหวะถ่ายรูป"
+   ],
+   "verifyNote": "พิกัด OSM node 'The Peak Lions Viewpoint'"
+  },
+  "peak-circle-walk": {
+   "nameLocal": "ทางเดิน Peak Circle Walk (Lugard Road)",
+   "intro": "ทางเดินเลียบเขารอบยอดพีค ราบเกือบตลอดทาง ช่วง Lugard Road เป็นทางยกระดับเกาะไหล่เขาที่ได้วิวเมืองสวยที่สุดเส้นหนึ่ง",
+   "address": "เริ่มที่ Lugard Road ข้าง Peak Tower/Peak Tram upper terminus",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตลอด (ไม่มีไฟส่องบางช่วงตอนดึก)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Peak Tower ไปทาง Lugard Road (ตามเข็ม/ทวนเข็มก็ได้)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "ราว 1–1.5 ชม. (ระยะ ~3–4 กม.)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ทางราบเกือบตลอด เดินสบาย",
+    "วิวอ่าว + ตึกระฟ้าจาก Lugard Road ช่วง boardwalk"
+   ],
+   "tips": [
+    "ถ้าไปค่ำ ให้เดินช่วง Lugard Road ไป-กลับแทนการวนครบเพราะ Harlech Road มืดกว่า (คำแนะนำทั่วไป)"
+   ],
+   "verifyNote": "แหล่งข้อมูลระบุระยะ 3–4 กม. ไม่ตรงกัน; พิกัด = สำนักงาน Peak Tramways บน Lugard Road (จุดเริ่ม)"
+  },
+  "dim-sum-central": {
+   "nameLocal": "ติ่มซำที่ Central",
+   "intro": "มื้อเที่ยงวันที่ 3 แผนเดิมไม่ได้ระบุร้าน ด้านล่างเป็นตัวเลือกใกล้เส้นทาง (Hong Kong Station / Exchange Square / ตีนบันไดเลื่อน Mid-Levels) ที่ค้นเพิ่มมา",
+   "facts": [
+    {
+     "label": "Tim Ho Wan (Hong Kong Station / IFC)",
+     "value": "添好運點心專門店 (香港站)\n📍 Shop 12A, Podium Level 1, IFC Mall (Hong Kong Station), 8 Finance Street, Central — MTR Hong Kong Station Exit A1; โทร 2332 3078\n🕘 09:00–21:00 ทุกวัน (ตามรีวิว ยังไม่ยืนยัน 2026)\n💰 ราคาประหยัด ~HK$60–120/คน (ประมาณ จากรีวิวเก่า)\n🚶 ในสถานี Hong Kong/IFC — ใกล้ Exchange Square (รถเมล์ 15)\n✦ ขนมจีบหมูกรอบ (baked BBQ pork bun) ขึ้นชื่อ · เคยได้มิชลินสตาร์ (สาขาแรก)\n💡 ไปก่อน 11:00 คิวสั้นกว่า",
+     "source": "research"
+    },
+    {
+     "label": "Maxim's Palace (City Hall)",
+     "value": "美心皇宮 (大會堂)\n📍 2/F, Low Block, City Hall, 5 Edinburgh Place, Central; โทร +852 2521 1303\n🕘 ติ่มซำรถเข็น ~11:00–15:00 (อาทิตย์/วันหยุด ~09:00–15:00) — ตาม Time Out ไม่ระบุปี\n💰 ระดับกลาง ~HK$150–250/คน (ประมาณ)\n🚶 เดินจาก Central Pier 7 / Exchange Square ~5–8 นาที\n✦ หนึ่งในไม่กี่ร้านที่ยังเข็นรถติ่มซำ · วิวท่าเรือจากหน้าต่าง\n💡 ไม่รับจองช่วงกลางวัน — กดบัตรคิวจากเครื่อง ไปก่อนเปิด",
+     "source": "research"
+    },
+    {
+     "label": "Luk Yu Tea House",
+     "value": "陸羽茶室\n📍 24–26 Stanley Street, Central (Central MTR Exit D2 ~3 นาที); โทร +852 2523 5464\n🕘 07:00–22:00; ติ่มซำถึงราว 16:00 (ตามรีวิว)\n💰 แพงกว่าทั่วไป ~HK$150–250/คน (ติ่มซำ HK$40–92/จาน, ค่าชา ~HK$30)\n🚶 เดินจาก Central MTR หรือจากเชิงบันไดเลื่อน Mid-Levels\n✦ ร้านน้ำชาเก่าแก่ตกแต่งสไตล์ยุค 1930s\n💡 พนักงานบางคนสื่อสารภาษาอังกฤษจำกัด เตรียมรูปเมนู",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": [],
+   "verifyNote": "ร้านทั้งหมดเป็นคำแนะนำ ไม่อยู่ในแผนเดิม ข้อมูลเวลา/ราคามาจากรีวิว ไม่ได้ยืนยันปี 2026 · Lin Heung Tea House ย้ายร้านเมื่อ พ.ค. 2026 จึงไม่ใส่ไว้ · พิกัดหมุดคือ Tim Ho Wan สาขา IFC"
+  },
+  "mid-levels-escalator": {
+   "nameLocal": "บันไดเลื่อน Central–Mid-Levels",
+   "intro": "บันไดเลื่อนกลางแจ้งที่ยาวที่สุดในโลก ไต่จาก Central ขึ้นเนินผ่าน SoHo ลงที่ Hollywood Road เพื่อเดินต่อไป Tai Kwun",
+   "address": "จาก Queen's Road Central (ใกล้ Central Market) ขึ้นไปถึง Conduit Road",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ลง (downhill) 06:00–10:00; ขึ้น (uphill) 10:00–24:00 ทุกวัน",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เริ่มที่ Central Market / Queen's Road Central (ฐานบันได ~22.28397, 114.15515)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "20–30 นาทีถึงปลายทาง (แวะ SoHo/Tai Kwun ระหว่างทาง)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ระบบบันไดเลื่อนกลางแจ้งยาวที่สุดในโลก (16 escalators + 3 travelators)",
+    "ผ่าน Hollywood Road → Tai Kwun, SoHo, PMQ"
+   ],
+   "tips": [
+    "ก่อน 10:00 บันไดเลื่อนวิ่งลง ต้องเดินขั้นบันไดข้างๆ ถ้าจะขึ้น",
+    "ลงที่ Hollywood Road เพื่อไป Tai Kwun"
+   ],
+   "verifyNote": "พิกัดหลัก = ช่วงกลางเส้นทาง (OSM); ฐานล่างใกล้ Central Market"
+  },
+  "tai-kwun": {
+   "nameLocal": "ไท่ขวั่น (Tai Kwun)",
+   "intro": "อดีตสถานีตำรวจกลางและเรือนจำวิกตอเรียที่บูรณะเป็นศูนย์มรดกและศิลปะ เข้าฟรี มีลานให้นั่งพักและห้องน้ำ — จุดพักขาหลังวันดิสนีย์",
+   "address": "10 Hollywood Road, Central",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "พื้นที่ส่วนรวม ~10:00/11:00–23:00 (หอศิลป์/ร้านค้าส่วนใหญ่เปิด 11:00; JC Contemporary 11:00–19:00 ปิดวันจันทร์) — ตรวจ taikwun.hk",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "เข้าฟรี (นิทรรศการบางอันเก็บเงิน)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "บันไดเลื่อน Mid-Levels ลงที่ Hollywood Road หรือเดินจาก Central MTR Exit D2 ~10 นาที",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "1–1.5 ชม.",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "อดีตสถานีตำรวจกลาง + เรือนจำวิกตอเรีย (Prison Yard, Parade Ground)",
+    "JC Contemporary (หอศิลป์ร่วมสมัย)",
+    "ร้านอาหาร/คาเฟ่ในอาคารเก่า"
+   ],
+   "tips": [
+    "มีทัวร์นำชมฟรีบางช่วง ดูตารางที่หน้าเว็บ"
+   ],
+   "verifyNote": "ไม่สามารถเปิดหน้าเวลาเปิดบน taikwun.hk ได้ (404)"
+  },
+  "pmq": {
+   "nameLocal": "PMQ (ตัวเลือก ถ้ายังไหว)",
+   "intro": "อดีตหอพักตำรวจที่กลายเป็นศูนย์ร้านดีไซน์ท้องถิ่น แผนตัดออกเพื่อไม่ให้เดินมากเกินไป แวะได้ถ้ายังมีแรง",
+   "address": "35 Aberdeen Street, Central",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ร้านค้าส่วนใหญ่ ~12:00–20:00 (ไม่ได้ตรวจ 2026)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Tai Kwun ไปทาง Hollywood Road ตะวันตก ~5 นาที",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–60 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "อดีตหอพักตำรวจ ปัจจุบันเป็นศูนย์ร้านดีไซน์/คราฟต์ท้องถิ่น"
+   ],
+   "tips": [],
+   "verifyNote": "optional"
+  },
+  "central-pier-7": {
+   "nameLocal": "ท่าเรือ Central Pier 7",
+   "intro": "ท่าเรือ Star Ferry ฝั่ง Central เดินลงจาก Central ราว 15 นาที ใกล้ชิงช้าสวรรค์ Hong Kong Observation Wheel",
+   "address": "Man Kwong Street, Central",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "Star Ferry 06:30–23:30",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ดู star-ferry",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Hong Kong Station/IFC ทาง footbridge ~8–10 นาที (ผ่าน Exchange Square)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ชั้นบนท่ามีจุดชมวิวอ่าว + ชิงช้าสวรรค์ (Hong Kong Observation Wheel) อยู่ใกล้"
+   ],
+   "tips": []
+  },
+  "star-ferry": {
+   "nameLocal": "เรือสตาร์เฟอร์รี่",
+   "intro": "เรือข้ามฟากประวัติศาสตร์อายุกว่า 100 ปี ข้ามอ่าววิคตอเรียจาก Central ไป Tsim Sha Tsui ราว 10 นาที ราคาไม่กี่ดอลลาร์แต่ได้วิวอ่าวเต็มตา",
+   "address": "Central Pier 7 ↔ Tsim Sha Tsui Star Ferry Pier (22.29354, 114.16799)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "06:30–23:30 ทุกวัน ทั้งสองฝั่ง",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ผู้ใหญ่: จันทร์–ศุกร์ ชั้นบน HK$5.0 / ชั้นล่าง HK$4.0; เสาร์-อาทิตย์-วันหยุด ชั้นบน HK$6.5 / ชั้นล่าง HK$5.6",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "แตะ Octopus ที่ประตู (ชั้นบนและชั้นล่างมีทางเข้าแยก)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "ข้ามฟาก ~8–10 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ความถี่จาก Central: จ.–ศ. 07:25–09:55 ทุก 6 นาที, 09:55–20:40 ทุก 6–8 นาที, 20:40–23:30 ทุก 10–12 นาที; ส.–อา. 07:25–22:40 ทุก 6–8 นาที"
+   ],
+   "tips": [
+    "ชั้นบนวิวดีกว่าและนั่งฝั่งขวา (หันไป Kowloon) ตอนออกจาก Central เพื่อวิว TST",
+    "ศุกร์ 27 พ.ย. ใช้ราคาวันธรรมดา"
+   ],
+   "verifyNote": "Star Ferry ยื่นขอขึ้นราคา ~30% (ชั้นบนวันธรรมดา $5→$6.5, วันหยุด $6.5→$8.5) — TAC พิจารณา 27 ส.ค. 2026 ยังไม่มีการอนุมัติ ณ 18 ต.ค. 2026; อาจขึ้นราคาก่อนทริป; พิกัดหมุดคือท่าเรือ Star Ferry ฝั่ง TST"
+  },
+  "tst-promenade": {
+   "nameLocal": "ทางเดินริมน้ำจิมซาจุ่ย (TST Promenade)",
+   "intro": "ทางเดินเลียบอ่าวฝั่งเกาลูน เห็นเส้นขอบฟ้าเกาะฮ่องกงเต็มตา ช่วงพระอาทิตย์ตกสวยที่สุด เป็นจุดนั่งพักรอโชว์แสงสี",
+   "address": "Salisbury Road, Tsim Sha Tsui (จาก Star Ferry Pier/Clock Tower ไปทางตะวันออกถึง Avenue of Stars)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตลอด 24 ชม.",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "ลง Star Ferry ที่ TST แล้วเดินเลียบน้ำไปทางตะวันออก",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–90 นาที",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · เวลาเปิด",
+     "value": "ภายนอกตลอดเวลา",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · วิธีไป",
+     "value": "เดินจากท่า Star Ferry TST ~2 นาที",
+     "source": "research"
+    },
+    {
+     "label": "Former Kowloon-Canton Railway Clock Tower · ใช้เวลา",
+     "value": "10–15 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "วิว skyline เกาะฮ่องกง",
+    "จุดชม Symphony of Lights",
+    "Former Kowloon-Canton Railway Clock Tower: หอนาฬิกาอายุ 100+ ปี (1915) ซากสถานีรถไฟเก่า"
+   ],
+   "tips": []
+  },
+  "avenue-of-stars": {
+   "nameLocal": "ถนนแห่งดวงดาว (Avenue of Stars)",
+   "intro": "ทางเดินริมน้ำที่มีรอยมือดาราฮ่องกงและรูปปั้นบรูซ ลี หน้า K11 MUSEA และเป็นจุดชม Symphony of Lights ที่ดีจุดหนึ่ง",
+   "address": "Tsim Sha Tsui Promenade (หน้า K11 MUSEA / Rosewood)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตลอด 24 ชม.",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Clock Tower ~10 นาที หรือ MTR East Tsim Sha Tsui Exit J",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "30–45 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "รูปปั้น Bruce Lee",
+    "รอยมือดาราฮ่องกง",
+    "จุดชม Symphony of Lights ที่ดีที่สุดจุดหนึ่ง"
+   ],
+   "tips": []
+  },
+  "k11-musea": {
+   "nameLocal": "ห้าง K11 MUSEA",
+   "intro": "ห้างสายศิลปะและดีไซน์ริมน้ำ TST ที่แผนให้แวะเดินและนั่งพักขาระหว่างรอโชว์ตอน 20:00",
+   "address": "Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ร้านส่วนใหญ่ ~11:00–21:00 (บางร้าน ศ.–อา. ถึง 22:00) — ไม่พบเวลาทางการของห้าง",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "ติด Avenue of Stars / MTR East Tsim Sha Tsui",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–90 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ห้างสายศิลปะ-ดีไซน์ ริมน้ำ",
+    "ห้องน้ำ/ที่พักระหว่างรอ Symphony of Lights"
+   ],
+   "tips": [],
+   "verifyNote": "เวลาอ้างอิงจากร้านในห้าง"
+  },
+  "symphony-of-lights": {
+   "nameLocal": "โชว์แสงสี A Symphony of Lights",
+   "intro": "โชว์ไฟและเลเซอร์จากตึกฝั่งเกาะฮ่องกงประกอบเพลง ดูฟรีจากริมน้ำ TST ทุกคืนเวลา 20:00",
+   "address": "ชมจาก TST Promenade / Avenue of Stars (หรือ Golden Bauhinia Square, Wan Chai / บนเรือในอ่าว)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ทุกคืน 20:00 (~10–13 นาที) — ศุกร์ 27 พ.ย. ไม่มีรายละเอียดพิเศษที่ยืนยันได้",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "Star Ferry ไป TST แล้วเดินไป Avenue of Stars",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "~10 นาที + มาถึงก่อน 15–30 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ไฟเลเซอร์+ไฟอาคารฝั่งเกาะฮ่องกงประกอบเพลง",
+    "จุดดู: กลาง promenade ระหว่าง Cultural Centre กับ Clock Tower หรือ Avenue of Stars"
+   ],
+   "tips": [
+    "⚠ รัฐบาลประกาศใน Budget 2026–27 (ก.พ. 2026) ว่าจะเลิกโชว์นี้ในครึ่งหลังปี 2026 และแทนที่ด้วย light festival หมุนเวียนตามสถานที่/ช่วงเวลา — ณ 21 ก.ย. 2026 ยังกลับมาแสดงตามปกติ แต่ยังไม่มีวันสุดท้ายประกาศ: เช็กอีกครั้งก่อน 27 พ.ย.",
+    "ถ้ายกเลิก วิวกลางคืนจาก promenade ก็ยังสวย"
+   ],
+   "verifyNote": "เสี่ยงถูกยกเลิกก่อนวันเดินทาง; มีแหล่งไม่ทางการบอกว่า suspend ตั้งแต่ 9 ก.ย. 2026 แต่ประกาศรัฐบาล 21 ก.ย. 2026 ระบุว่า 'resume normal operation tonight'"
+  },
+  "temple-street": {
+   "nameLocal": "ตลาดกลางคืนเทมเปิลสตรีท",
+   "intro": "ตลาดกลางคืนเก่าแก่ย่าน Jordan มีแผงของที่ระลึกและสตรีทฟู้ดฮ่องกง เป็นมื้อเย็นของวันที่ 3 ก่อนนั่ง MTR กลับ",
+   "address": "Temple Street, Jordan / Yau Ma Tei (ช่วงใกล้ Jordan ระหว่าง Jordan Rd – Kansu St)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "แผงขายของ ~16:00/18:00–23:00; โซน food stall ที่รัฐส่งเสริมรายงานว่า 14:00–23:00 (ไม่ได้ยืนยันปี 2026)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "เข้าฟรี; ของทานเล่น ~HK$20–60/อย่าง, อาหารร้าน dai pai dong ~HK$60–150/คน (ประมาณ)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "MTR Jordan Exit A แล้วเดิน ~5 นาที (หรือ Yau Ma Tei Exit C)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "1–1.5 ชม.",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · เวลาเปิด",
+     "value": "ไม่ได้ตรวจ",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · ราคา",
+     "value": "ประหยัด (ไม่ได้ตรวจราคา 2026)",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · วิธีไป",
+     "value": "ใกล้ Jordan MTR / Temple Street",
+     "source": "research"
+    },
+    {
+     "label": "Dim Dim Sum (Jordan) · ใช้เวลา",
+     "value": "45 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ลูกชิ้นปลา, ไส้หมูทอด, เครื่องในวัว, ซุปงู, หอยผัดพริก/อาหารทะเลร้าน dai pai dong",
+    "หมอดู/นักร้องงิ้วข้างทาง (ช่วงทางเหนือใกล้วัด Tin Hau)",
+    "Dim Dim Sum (Jordan): ติ่มซำราคาย่อมเยา สาขาหลายแห่ง"
+   ],
+   "tips": [
+    "ต่อราคาได้สำหรับของที่ระลึก",
+    "เตรียมเงินสด — บางแผงไม่รับ Octopus"
+   ],
+   "verifyNote": "ไม่พบเวลาทางการปี 2026; ราคาอาหารเป็นการประมาณ"
+  },
+  "jordan-station": {
+   "nameLocal": "สถานี MTR Jordan",
+   "intro": "สถานีใกล้ Temple Street จุดเริ่มเดินทางกลับโรงแรมคืนวันที่ 3",
+   "address": "Nathan Road, Jordan, Kowloon",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลา MTR",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "Jordan→Tung Chung HK$18.7 Octopus / $21.0 ตั๋วเดี่ยว; Jordan→Disneyland Resort HK$22.2; Jordan↔Central HK$10.6; TST↔Jordan HK$4.9",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "Tsuen Wan Line",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ใกล้ Temple Street Night Market (เดิน ~5 นาที)"
+   ],
+   "tips": [
+    "Jordan → Tung Chung ใช้เวลาราว 35–40 นาที (ประมาณ, เปลี่ยนที่ Lai King)"
+   ]
+  },
+  "lai-king-station": {
+   "nameLocal": "สถานี MTR Lai King",
+   "intro": "สถานีเปลี่ยนสายแบบข้ามชานชาลาระหว่าง Tsuen Wan Line กับ Tung Chung Line",
+   "address": "Kwai Chung",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลา MTR",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "Jordan→Tung Chung HK$18.7 (Octopus ผู้ใหญ่) คิดรวม ไม่ต้องจ่ายตอนเปลี่ยน",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "สถานีเปลี่ยนระหว่าง Tsuen Wan Line (Jordan/TST/Central) กับ Tung Chung Line (ข้ามชานชาลา cross-platform)",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "เปลี่ยนสาย ~2–5 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "จาก Jordan: นั่ง Tsuen Wan Line ทิศ Tsuen Wan → ลง Lai King → ต่อ Tung Chung Line ทิศ Tung Chung"
+   ],
+   "tips": []
+  },
+  "hong-kong-station": {
+   "nameLocal": "สถานี MTR Hong Kong (Central)",
+   "intro": "ปลายทาง Tung Chung Line ใต้ห้าง IFC เดินต่อไปท่ารถเมล์ Exchange Square ได้",
+   "address": "IFC Mall, 8 Finance Street, Central",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ตามเวลา MTR",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "Tung Chung→Hong Kong HK$24.3 Octopus / $28.0 ตั๋วเดี่ยว (Tung Chung Line ธรรมดา ไม่ใช่ Airport Express)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "ปลายทาง Tung Chung Line; เชื่อมใต้ดินกับสถานี Central",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "Tung Chung→Hong Kong ~30 นาที (ประมาณ)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ทางออกไป IFC Mall (Tim Ho Wan สาขา IFC อยู่ Podium Level 1 ใกล้ Exit A1)",
+    "เดินไป Exchange Square Bus Terminus (ป้ายรถเมล์ 15) ~5 นาที"
+   ],
+   "tips": []
+  },
+  "ngong-ping-360": {
+   "nameLocal": "กระเช้านองปิง 360",
+   "intro": "กระเช้ายาว 5.7 กม. จาก Tung Chung ขึ้นที่ราบสูง Ngong Ping นั่ง 25 นาที เห็นสนามบิน ทะเล และภูเขาลันเตา",
+   "address": "Tung Chung Cable Car Terminal, 11 Tat Tung Road, Tung Chung → Ngong Ping Terminal (22.25636, 113.90143)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "จ.–ศ. 10:00–18:00; ส.–อา.–วันหยุด 09:00–18:30 (28 พ.ย. = เสาร์)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ไป-กลับ ผู้ใหญ่/เด็ก 3–11: Standard HK$295 / $150; Crystal HK$365 / $220; Crystal+ (พื้นกระจก+ผนังกระจก) HK$545 / $400; Crystal+ ขาหนึ่ง + Standard ขาหนึ่ง HK$420 / $275; Combo Crystal เที่ยวเดียว + Standard เที่ยวเดียว HK$330 / $185 (ราคาผู้สูงอายุใช้ได้เฉพาะผู้ถือบัตรฮ่องกง)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "MTR Tung Chung Exit B เดิน ~5 นาที; S1 ลงป้าย Tung Chung Cable Car Terminal",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "นั่ง 25 นาที/เที่ยว (5.7 กม.) + คิว; ทั้งทริป Ngong Ping 4–5 ชม.",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "กระเช้า bicable ยาวที่สุดในเอเชีย วิวสนามบิน, สะพาน HZMB, North Lantau Country Park",
+    "Crystal+ พื้น+ผนังกระจกใส"
+   ],
+   "tips": [
+    "ปิดซ่อมบำรุงล่าสุด 8–18 ก.ย. 2026 — ไม่พบประกาศปิดใน พ.ย. 2026 (ณ 18 ต.ค.) แต่หยุดชั่วคราวได้เมื่อมีพายุ/ฝนฟ้าคะนอง",
+    "ซื้อออนไลน์ล่วงหน้าที่ webstore.np360.com.hk",
+    "โปร HK$88/HK$94 เป็นของผู้มีถิ่นฐานฮ่องกงเท่านั้น",
+    "ทางเลือกประหยัด: ขาขึ้นกระเช้า ขาลงรถเมล์ 23"
+   ],
+   "verifyNote": "พิกัด = ป้าย Tung Chung Cable Car Terminal (TD data) ติดสถานีกระเช้า; สถานี Ngong Ping 22.25636, 113.90143 (OSM)"
+  },
+  "tian-tan-buddha": {
+   "nameLocal": "พระใหญ่เทียนถาน (Big Buddha)",
+   "intro": "พระพุทธรูปสำริดนั่งกลางแจ้งสูง 34 เมตรบนยอดเขา Ngong Ping ต้องเดินขึ้นบันได 268 ขั้น",
+   "address": "Ngong Ping, Lantau Island",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "10:00–17:30 (ตาม Wikipedia; บริเวณวัดเปิด 09:00–18:00 ตามเว็บ Po Lin)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ขึ้นบันได/ภายนอกฟรี; เข้าภายในองค์พระต้องมีบัตร (บางแหล่งว่ารวมกับบัตรอาหารเจ)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Ngong Ping Village ~10 นาที",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–60 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "พระพุทธรูปสำริดนั่งกลางแจ้ง สูง 34 ม. สร้างเสร็จ 29 ธ.ค. 1993",
+    "บันได 268 ขั้น"
+   ],
+   "tips": [
+    "ไม่มีทางลาดสำหรับรถเข็นขึ้นถึงลานบนสุด",
+    "ลมแรงและเย็นกว่าในเมือง เตรียมเสื้อกันลม"
+   ],
+   "verifyNote": "เวลาเปิดสองแหล่งไม่ตรงกัน (10:00–17:30 vs 09:00–18:00)"
+  },
+  "po-lin-monastery": {
+   "nameLocal": "วัดโป่วหลิน (Po Lin)",
+   "intro": "วัดพุทธนิกายเซนที่สำคัญของฮ่องกง อยู่ใกล้พระใหญ่ มีโรงอาหารเจให้ทานเป็นมื้อเที่ยงตามแผน",
+   "address": "Ngong Ping, Lantau Island",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "09:00–18:00 (เว็บทางการ); ครัวเจ 11:30–16:30",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "เข้าฟรี; อาหารเจชุด ~HK$100–150/คน (แหล่งไม่ทางการ ไม่ยืนยัน 2026)",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "เดินจาก Big Buddha/Ngong Ping Village ~5–10 นาที",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "45–60 นาที (+ อาหารเจ 45 นาที)",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "Grand Hall of Ten Thousand Buddhas",
+    "อาหารเจในวัด"
+   ],
+   "tips": [
+    "ซื้อคูปองอาหารเจที่เคาน์เตอร์เชิงบันได Big Buddha"
+   ],
+   "verifyNote": "ราคาอาหารเจไม่พบบนเว็บทางการ"
+  },
+  "ngong-ping-village": {
+   "nameLocal": "หมู่บ้านนองปิง (Ngong Ping Village)",
+   "intro": "หมู่บ้านธีมจีนหน้าสถานีกระเช้า มีร้านอาหารและของฝาก เป็นทางเดินผ่านไปพระใหญ่",
+   "address": "111 Ngong Ping Road, Lantau (ติดสถานีกระเช้า Ngong Ping)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "~10:00–18:00 (ตามเวลากระเช้า; ร้านแต่ละร้านต่างกัน)",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "เข้าฟรี",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "ออกจากสถานีกระเช้า Ngong Ping",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "30–45 นาที",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · เวลาเปิด",
+     "value": "ตลอด (กลางแจ้ง)",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · ราคา",
+     "value": "ฟรี",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · วิธีไป",
+     "value": "เดินจาก Po Lin/Big Buddha ~15–20 นาที ตามป้าย",
+     "source": "research"
+    },
+    {
+     "label": "Wisdom Path · ใช้เวลา",
+     "value": "40–60 นาที ไป-กลับ",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ร้านอาหาร/ของที่ระลึก ระหว่างทางไป Big Buddha",
+    "Wisdom Path: เสาไม้ 38 ต้นสลักพระสูตรหัวใจ (Heart Sutra) เรียงเป็นรูปเลขอนันต์"
+   ],
+   "tips": [
+    "ทางเดินดิน/บันได ใส่รองเท้าผ้าใบ"
+   ]
+  },
+  "bus-23": {
+   "nameLocal": "รถเมล์ NLB สาย 23 (แผนสำรอง)",
+   "intro": "แผนสำรองถ้ากระเช้าปิดหรือคิวยาวเกินไป วิ่งระหว่าง Tung Chung กับ Ngong Ping ผ่านถนนภูเขา",
+   "address": "ต้นทาง Tung Chung Tat Tung Road Bus Terminus (ข้าง MTR Tung Chung) → ปลายทาง Ngong Ping bus terminus (22.25561, 113.90286)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "Tung Chung → Ngong Ping: จ.–ส. เที่ยวแรก 08:15 (ประมาณทุก 20–60 นาที, เที่ยวสุดท้ายราว 19:10); อาทิตย์ 08:10–19:10 ถี่ ~15 นาที. Ngong Ping → Tung Chung: จ.–ส. 07:15–18:10; อาทิตย์ 08:10–18:10",
+     "source": "research"
+    },
+    {
+     "label": "ราคา",
+     "value": "ผู้ใหญ่ เต็มสาย: วันธรรมดา (จ.–ส.) HK$20.4; อาทิตย์/วันหยุดนักขัตฤกษ์ HK$37.0",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "แตะ Octopus",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "~45–50 นาที",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "ขากลับทางเลือกที่ถูกกว่ากระเช้า; ผ่านถนนภูเขาและหาด Cheung Sha"
+   ],
+   "tips": [
+    "เสาร์ 28 พ.ย. ใช้ราคาวันธรรมดา HK$20.4 (ราคาวันหยุดใช้วันอาทิตย์/วันหยุดนักขัตฤกษ์)",
+    "คิวขากลับช่วง 16:00–18:00 อาจยาว"
+   ],
+   "verifyNote": "ค่าโดยสาร/ตารางจาก TD open data; การจับคู่ service-day code (จ.–ส. vs อาทิตย์) ตีความจากข้อมูล — ยังไม่ได้ตรวจกับเว็บ NLB"
+  },
+  "citygate-outlets": {
+   "nameLocal": "ห้าง Citygate Outlets",
+   "intro": "เอาท์เล็ตติดสถานี Tung Chung จุดช้อปของฝากและกินศูนย์อาหารก่อนกลับโรงแรมวันสุดท้าย",
+   "address": "20 Tat Tung Road, Tung Chung (ติด MTR Tung Chung)",
+   "facts": [
+    {
+     "label": "เวลาเปิด",
+     "value": "ห้าง ~10:00–22:00; Food Opera (food court) 11:30–21:00",
+     "source": "research"
+    },
+    {
+     "label": "วิธีไป",
+     "value": "MTR Tung Chung เดินเชื่อมตรง",
+     "source": "research"
+    },
+    {
+     "label": "ใช้เวลา",
+     "value": "1–2 ชม.",
+     "source": "research"
+    }
+   ],
+   "highlights": [
+    "outlet แบรนด์ลดราคา (Nike, Adidas, Coach ฯลฯ)",
+    "Food Opera food court 9 ร้าน (เช่น Tin Hau Station Beef Brisket)",
+    "ซูเปอร์มาร์เก็ต"
+   ],
+   "tips": [
+    "เหมาะแวะก่อนกลับสนามบิน — S1/shuttle Regala จาก Tung Chung"
+   ],
+   "verifyNote": "ไม่ได้ตรวจกับเว็บทางการ"
+  },
+  "photobooth-tst": {
+   "nameLocal": "ตู้ / สตูดิโอถ่ายรูป photobooth ใกล้ริมน้ำ TST",
+   "intro": "แนะนำ SNAPIO ที่ K11 MUSEA เพราะอยู่ติด Avenue of Stars เดินแค่ 2–4 นาที ถ่ายแล้วออกมาดูการแสดงแสงสี Symphony of Lights ตอน 20:00 ได้ทันที ราคาถูก (ประมาณ HK$60) และจ่ายด้วย Octopus ได้ ถ้าอยากได้ประสบการณ์แบบสตูดิโอเกาหลีที่มีหลายห้องและพร็อพ ให้ไป FLASH ที่ K11 Art Mall ช่วง 18:00–19:15 (เดินแค่ 8–10 นาที และยืนยันแล้วว่ายังเปิดอยู่ปี 2026) แล้วกลับมาที่ promenade ก่อน 20:00",
+   "facts": [
+    {
+     "label": "SNAPIO photo booth (K11 MUSEA)",
+     "value": "ตู้ถ่ายรูป 4 ช่องแบบบริการตัวเองของแบรนด์ฮ่องกง SNAPIO อยู่ใน K11 MUSEA ติดกับ Avenue of Stars (เดิน 2–4 นาที) ราคาประมาณ HK$60/ชุด ได้รูปพิมพ์ทันที เปิดตามเวลาห้าง ปกติ 10:00–22:00\n📍 K11 MUSEA, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui. Two kiosks: B2/F (near BRUNO) and 3/F (near Five Guys)\n· ยืนยันบางส่วน",
+     "source": "research"
+    },
+    {
+     "label": "FLASH Korean Self-Photo Studio (K11 Art Mall)",
+     "value": "สตูดิโอถ่ายรูปสไตล์เกาหลี FLASH ร้าน 222B ชั้น 2 K11 Art Mall เดินจาก Avenue of Stars ประมาณ 8–10 นาที มี 4 ห้อง รวมห้องถ่ายมุมบน (ธีมห้องน้ำ) ราคาเริ่มประมาณ HK$60 (ข้อมูลปี 2024) เปิด 10:00–24:00\n📍 Shop 222B, 2/F, K11 Art Mall, 18 Hanoi Road, Tsim Sha Tsui\n· ยืนยันแล้วว่ายังเปิดปี 2026",
+     "source": "research"
+    },
+    {
+     "label": "Photoism (The ONE, Tsim Sha Tsui)",
+     "value": "ตู้ Photoism แบรนด์เกาหลี มีกรอบไอดอล K-pop อยู่ชั้น UG2 ห้าง The ONE ถนน Nathan เดินจาก Avenue of Stars ประมาณ 12–15 นาที ราคาเดิม HK$100 ได้รูป 2 ใบ (ข้อมูลปี 2024) ยังไม่ยืนยันเวลาเปิดและราคาปัจจุบัน\n📍 UG2/F, The ONE, 100 Nathan Road, Tsim Sha Tsui (exact unit not confirmed)\n· ยืนยันบางส่วน",
+     "source": "research"
+    },
+    {
+     "label": "SNAPIO photo booth (Ocean Terminal, Harbour City)",
+     "value": "ตู้ SNAPIO อีกจุดอยู่ชั้น 3 LCX ใน Ocean Terminal (Harbour City) เดินจากท่าเรือ Star Ferry 3–5 นาที ราคาประมาณ HK$60/ชุด จ่ายด้วย Octopus ได้\n📍 LCX, 3/F, Ocean Terminal, Harbour City, 5 Canton Road, Tsim Sha Tsui (exact kiosk position not confirmed)\n· ยืนยันบางส่วน",
+     "source": "research"
+    }
+   ],
+   "highlights": [],
+   "tips": [
+    "จ่ายด้วย Octopus สะดวกที่สุด เว็บทางการไม่ได้ระบุว่ารับเงินสดหรือบัตรเครดิต",
+    "มี 2 ตู้: ชั้น B2 (ใกล้ BRUNO) และชั้น 3 (ใกล้ Five Guys)",
+    "ถ่ายเสร็จช่วง 19:30 แล้วเดินออกไป Avenue of Stars ทันการแสดงแสงสี 20:00",
+    "มีอุปกรณ์ประกอบฉากและกรอบให้เลือกกว่า 100 แบบ",
+    "รับเงินสด, Alipay, Visa และ Mastercard ส่วน Octopus ยังไม่ยืนยัน",
+    "ดู IG @flashhk_ ก่อนไป เพื่อเช็กโปรโมชันและราคาล่าสุด"
+   ],
+   "verifyNote": "ตู้ photobooth ไม่อยู่ในแผนเดิม เพิ่มตามที่ขอ · ราคา/เวลาเปิดบางส่วนมาจากข่าวปี 2024 เช็ค IG ของร้านก่อนไป · ไม่มีรูปถ่ายของร้านที่ใช้ได้ตามสัญญาอนุญาตใน Wikimedia Commons · พิกัดหมุดคือ K11 MUSEA (ตู้ SNAPIO)"
+  }
+ }
+}

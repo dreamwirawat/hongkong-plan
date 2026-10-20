@@ -1,0 +1,665 @@
+[
+ {
+  "slug": "hkg-airport",
+  "area": "airport",
+  "kind": "transit",
+  "lat": 22.31387,
+  "lng": 113.92998,
+  "nameEn": "Hong Kong International Airport – Terminal 1",
+  "nameZh": "香港國際機場 一號客運大樓",
+  "officialUrl": "https://www.hongkongairport.com/",
+  "sources": [
+   "https://centreforaviation.com/news/hong-kong-airport-continues-phased-reopening-of-t2-1360832",
+   "https://agbrief.com/news/hong-kong/27/05/2026/hong-kong-airport-opens-t2-departure-facilities-after-1-7b-upgrade/",
+   "https://www.aci-asiapac.aero/media-centre/news/airport-authority-hong-kong-passenger-departure-facilities-at-new-terminal-2-open-on-27-may",
+   "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf",
+   "https://octopus.com.hk/en/consumer/tourist/choices/index.html",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "regala-skycity",
+  "area": "airport",
+  "kind": "hotel",
+  "lat": 22.31915,
+  "lng": 113.94209,
+  "nameEn": "Regala Skycity Hotel",
+  "nameZh": "麗豪航天城酒店",
+  "officialUrl": "https://www.regala-hotels.com/en/promotions/hotel-shuttle-bus-service-RGSH",
+  "sources": [
+   "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf",
+   "https://www.regala-hotels.com/",
+   "https://www.discoverhongkong.com/in/plan/accommodation/results/details.id85737.regala-skycity-hotel.html",
+   "https://www.mehongkong.com/eng/home/mice-ideas/detail/Regala-Skycity-Hotel.html",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "skycity-t2",
+  "area": "airport",
+  "kind": "food",
+  "lat": 22.3166,
+  "lng": 113.94068,
+  "nameEn": "SKYCITY / 11 SKIES / Terminal 2",
+  "sources": [
+   "https://centreforaviation.com/news/hong-kong-airport-continues-phased-reopening-of-t2-1360832",
+   "https://traveltradejournal.com/hong-kong-international-airport-unveils-new-terminal-2-departure-operations-begin-from-may-27/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "asiaworld-expo",
+  "area": "airport",
+  "kind": "transit",
+  "lat": 22.31938,
+  "lng": 113.94047,
+  "nameEn": "AsiaWorld-Expo bus stop (Airport Expo Boulevard)",
+  "nameZh": "機場博覽館 巴士站 (航展道)",
+  "officialUrl": "https://www.citybus.com.hk/",
+  "sources": [
+   "https://data.hkbus.app/routeFareList.min.json"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "octopus-card",
+  "area": "airport",
+  "kind": "transit",
+  "lat": 22.31592,
+  "lng": 113.93648,
+  "nameEn": "Octopus Card",
+  "sources": [
+   "https://octopus.com.hk/en/consumer/tourist/choices/index.html",
+   "https://octopus.com.hk/en/consumer/octopus-cards/products/sold-tourist/index.html",
+   "https://www.trvlogue.com/en/hong-kong-octopus-card-guide"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "tung-chung-station",
+  "area": "lantau",
+  "kind": "transit",
+  "lat": 22.28931,
+  "lng": 113.94145,
+  "nameEn": "Tung Chung Station (MTR)",
+  "nameZh": "東涌站",
+  "officialUrl": "https://www.mtr.com.hk/",
+  "sources": [
+   "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+   "https://news.tvb.com/tc/pearlnews/69c67681f0b820f08db5d17b/TVB-News-MTR-fares-to-be-frozen-as-adjustment-formula-falls-short-of-trigger",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "sunny-bay-station",
+  "area": "lantau",
+  "kind": "transit",
+  "lat": 22.33198,
+  "lng": 114.02891,
+  "nameEn": "Sunny Bay Station (MTR)",
+  "nameZh": "欣澳站",
+  "officialUrl": "https://www.mtr.com.hk/",
+  "sources": [
+   "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "disneyland-resort-line",
+  "area": "disney",
+  "kind": "transit",
+  "lat": 22.31534,
+  "lng": 114.04514,
+  "nameEn": "Disneyland Resort Line",
+  "sources": [
+   "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+   "https://news.tvb.com/tc/pearlnews/69c67681f0b820f08db5d17b/TVB-News-MTR-fares-to-be-frozen-as-adjustment-formula-falls-short-of-trigger"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "hong-kong-disneyland",
+  "area": "disney",
+  "kind": "sight",
+  "lat": 22.31307,
+  "lng": 114.04098,
+  "nameEn": "Hong Kong Disneyland",
+  "nameZh": "香港迪士尼樂園",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.hongkongdisneyland.com/entertainment/",
+   "https://www.thestandard.com.hk/news/article/220836/Disney-raising-ticket-prices-up-to-7-pc",
+   "https://www.hongkongdisneyland.com/offers-discounts/non-stop-2-day-fun-ticket/",
+   "https://tdrexplorer.com/hong-kong-disneyland-christmas-guide-2026/",
+   "https://gadgetsmagazine.com.ph/mobility/travel/hong-kong-disneyland-christmas-2026",
+   "https://www.vivamanilena.com/2026/09/hk-disneyland-presents-disney-christmas.html",
+   "https://disneyblog.com/destinations/hong-kong-disneyland/hong-kong-disneyland-park/main-street-u-s-a/disney-friendtastic-parade/",
+   "https://www.rustourismnews.com/2026/10/11/hong-kong-disneyland-hotel-closes-tomorrow-for-major-renovation/",
+   "https://www.regalhotel.com/sites/regal/files/2026-07/RGSH_Shuttle_Bus_Schedule_Updated%2027%20Apr%202026.pdf",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "world-of-frozen",
+  "area": "disney",
+  "kind": "ride",
+  "lat": 22.31244,
+  "lng": 114.03879,
+  "nameEn": "World of Frozen",
+  "nameZh": "魔雪奇緣世界",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org",
+   "https://gadgetsmagazine.com.ph/mobility/travel/hong-kong-disneyland-christmas-2026",
+   "https://en.wikipedia.org/wiki/World_of_Frozen"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "mystic-manor",
+  "area": "disney",
+  "kind": "ride",
+  "lat": 22.30973,
+  "lng": 114.04098,
+  "nameEn": "Mystic Manor",
+  "nameZh": "迷離大宅",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "big-grizzly-mountain",
+  "area": "disney",
+  "kind": "ride",
+  "lat": 22.31021,
+  "lng": 114.04246,
+  "nameEn": "Big Grizzly Mountain Runaway Mine Cars",
+  "nameZh": "灰熊山極速礦車",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "toy-story-land",
+  "area": "disney",
+  "kind": "ride",
+  "lat": 22.31035,
+  "lng": 114.03956,
+  "nameEn": "Toy Story Land",
+  "nameZh": "反斗奇兵大本營",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org",
+   "https://www.hongkongdisneyland.com/entertainment/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "iron-man-experience",
+  "area": "disney",
+  "kind": "ride",
+  "lat": 22.31439,
+  "lng": 114.04271,
+  "nameEn": "Iron Man Experience / Ant-Man and The Wasp: Nano Battle!",
+  "nameZh": "鐵甲奇俠飛行之旅 / 蟻俠與黃蜂女：擊戰特攻！",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "fantasyland",
+  "area": "disney",
+  "kind": "ride",
+  "lat": 22.31238,
+  "lng": 114.03967,
+  "nameEn": "Fantasyland",
+  "nameZh": "幻想世界",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "unverified"
+ },
+ {
+  "slug": "castle-of-magical-dreams",
+  "area": "disney",
+  "kind": "show",
+  "lat": 22.31263,
+  "lng": 114.04109,
+  "nameEn": "Castle of Magical Dreams",
+  "nameZh": "奇妙夢想城堡",
+  "officialUrl": "https://www.hongkongdisneyland.com/",
+  "sources": [
+   "https://www.openstreetmap.org",
+   "https://tdrexplorer.com/hong-kong-disneyland-christmas-guide-2026/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "exchange-square",
+  "area": "island",
+  "kind": "transit",
+  "lat": 22.2837,
+  "lng": 114.15803,
+  "nameEn": "Exchange Square Bus Terminus (Citybus route 15 stop 'Central (Exchange Square)')",
+  "nameZh": "交易廣場巴士總站",
+  "officialUrl": "https://www.citybus.com.hk/",
+  "sources": [
+   "https://data.hkbus.app/routeFareList.min.json",
+   "https://hk-victoria-peak.com/bus-15-peak"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "bus-15-peak",
+  "area": "island",
+  "kind": "transit",
+  "lat": 22.27037,
+  "lng": 114.1496,
+  "nameEn": "Citybus Route 15 (The Peak)",
+  "sources": [
+   "https://www.citybus.com.hk/",
+   "https://data.hkbus.app/routeFareList.min.json",
+   "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "victoria-peak",
+  "area": "island",
+  "kind": "sight",
+  "lat": 22.27037,
+  "lng": 114.1496,
+  "nameEn": "Victoria Peak (The Peak)",
+  "nameZh": "太平山頂",
+  "officialUrl": "https://www.thepeak.com.hk/",
+  "sources": [
+   "https://data.hkbus.app/routeFareList.min.json",
+   "https://www.thepeak.com.hk/en/the-peak-experience/the-peak-tower-overview",
+   "https://www.openstreetmap.org",
+   "https://thepeak.com.hk/sites/peak/files/2025-12/%5BPress%20Release%5D%20The%20Peak%20Tram%20Announces%20Fare%20Adjustment.pdf"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "lions-pavilion",
+  "area": "island",
+  "kind": "sight",
+  "lat": 22.27094,
+  "lng": 114.15082,
+  "nameEn": "Lion's View Point Pavilion (Lions Pavilion)",
+  "nameZh": "獅子亭",
+  "officialUrl": "https://www.discoverhongkong.com/",
+  "sources": [
+   "https://www.openstreetmap.org",
+   "https://www.aaa.com/tripcanvas/attraction/lions-pavilion-at-peak-tower-VA27185",
+   "https://www.hk-victoria-peak.com/best-viewpoints-hong-kong-victoria-peak-complete-guide"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "peak-circle-walk",
+  "area": "island",
+  "kind": "sight",
+  "lat": 22.27105,
+  "lng": 114.14934,
+  "nameEn": "Peak Circle Walk (Lugard Road – Harlech Road loop)",
+  "nameZh": "山頂環迴步行徑 (盧吉道 – 夏力道)",
+  "sources": [
+   "https://www.hk-victoria-peak.com/walks-and-views",
+   "https://hk-victoria-peak.com/circular-walk",
+   "https://www.journeyera.com/tag/walk/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "dim-sum-central",
+  "area": "island",
+  "kind": "food",
+  "lat": 22.28449,
+  "lng": 114.15815,
+  "nameEn": "Dim Sum in Central",
+  "sources": [
+   "https://learning.hku.hk/ccch9051/group-8/items/show/4",
+   "https://foodle.pro/restaurants/hong-kong/tim-ho-wan-3",
+   "https://www.openstreetmap.org",
+   "https://www.timeout.com/hong-kong/restaurants/city-hall-maxims-palace",
+   "https://www.tatlerasia.com/dining/maxim-s-palace",
+   "https://openrice.com/en/hongkong/restaurant/central-luk-yu-tea-house/1966",
+   "https://www.frommers.com/destinations/hong-kong/restaurants/luk-yu-tea-house"
+  ],
+  "confidence": "unverified"
+ },
+ {
+  "slug": "mid-levels-escalator",
+  "area": "island",
+  "kind": "sight",
+  "lat": 22.28068,
+  "lng": 114.15198,
+  "nameEn": "Central–Mid-Levels Escalator",
+  "nameZh": "中環至半山自動扶梯",
+  "officialUrl": "https://www.td.gov.hk/en/transport_in_hong_kong/pedestrians/hillside_escalator",
+  "sources": [
+   "https://www.td.gov.hk/en/transport_in_hong_kong/pedestrians/hillside_escalator",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "tai-kwun",
+  "area": "island",
+  "kind": "sight",
+  "lat": 22.28116,
+  "lng": 114.15401,
+  "nameEn": "Tai Kwun",
+  "nameZh": "大館",
+  "officialUrl": "https://www.taikwun.hk/",
+  "sources": [
+   "https://www.afar.com/magazine/this-former-prison-is-hong-kongs-best-new-arts-hub",
+   "https://www.etnet.com.hk/www/eng/attraction/3653/Tai+Kwun+%7C+Stay+Connected%3A+Supplying+the+Globe",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "pmq",
+  "area": "island",
+  "kind": "shop",
+  "lat": 22.28327,
+  "lng": 114.15185,
+  "nameEn": "PMQ",
+  "nameZh": "元創方",
+  "officialUrl": "https://www.pmq.org.hk/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "unverified"
+ },
+ {
+  "slug": "central-pier-7",
+  "area": "island",
+  "kind": "transit",
+  "lat": 22.28704,
+  "lng": 114.16119,
+  "nameEn": "Central Pier 7 (Star Ferry Central Pier)",
+  "nameZh": "中環七號碼頭 (天星碼頭)",
+  "officialUrl": "https://www.starferry.com.hk/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "star-ferry",
+  "area": "kowloon",
+  "kind": "transit",
+  "lat": 22.29354,
+  "lng": 114.16799,
+  "nameEn": "Star Ferry (Central ↔ Tsim Sha Tsui)",
+  "nameZh": "天星小輪 (中環 ↔ 尖沙咀)",
+  "officialUrl": "https://www.starferry.com.hk/en/service",
+  "sources": [
+   "https://www.starferry.com.hk/en/service",
+   "https://www.info.gov.hk/gia/general/202608/27/P2026082700362.htm",
+   "https://www.thestandard.com.hk/news/article/337099/Star-Ferry-seeks-30pc-fare-rise-plans-pet-friendly-service"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "tst-promenade",
+  "area": "kowloon",
+  "kind": "sight",
+  "lat": 22.29347,
+  "lng": 114.17102,
+  "nameEn": "Tsim Sha Tsui Promenade",
+  "nameZh": "尖沙咀海濱長廊",
+  "officialUrl": "https://www.discoverhongkong.com/",
+  "sources": [
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "avenue-of-stars",
+  "area": "kowloon",
+  "kind": "sight",
+  "lat": 22.29343,
+  "lng": 114.17513,
+  "nameEn": "Avenue of Stars",
+  "nameZh": "星光大道",
+  "officialUrl": "https://www.avenueofstars.com.hk/",
+  "sources": [
+   "https://www.avenueofstars.com.hk/en/a-symphony-of-lights/",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "k11-musea",
+  "area": "kowloon",
+  "kind": "shop",
+  "lat": 22.29459,
+  "lng": 114.17495,
+  "nameEn": "K11 MUSEA",
+  "nameZh": "K11 MUSEA",
+  "officialUrl": "https://www.k11musea.com/",
+  "sources": [
+   "https://www.k11musea.com/happenings/miu-mius-latest-store-is-now-open-at-k11-musea-featuring-k11-musea-exclusive-styles/",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "symphony-of-lights",
+  "area": "kowloon",
+  "kind": "show",
+  "lat": 22.29343,
+  "lng": 114.17513,
+  "nameEn": "A Symphony of Lights",
+  "nameZh": "幻彩詠香江",
+  "officialUrl": "https://www.tourism.gov.hk/",
+  "sources": [
+   "https://www.avenueofstars.com.hk/en/a-symphony-of-lights/",
+   "https://discoverhongkong.com/anz/explore/attractions/a-symphony-of-lights.html",
+   "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
+   "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm",
+   "https://hongkongfp.com/2026/03/15/hong-kong-to-retire-22-year-old-symphony-of-lights-show-but-few-tourists-will-miss-it/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "temple-street",
+  "area": "kowloon",
+  "kind": "food",
+  "lat": 22.30423,
+  "lng": 114.16969,
+  "nameEn": "Temple Street Night Market",
+  "nameZh": "廟街夜市",
+  "officialUrl": "https://www.discoverhongkong.com/",
+  "sources": [
+   "https://www.thestandard.com.hk/news/article/211426/Over-20-street-food-stalls-join-temple-street-to-bring-back-nightlife",
+   "https://www.thestandard.com.hk/section-news/section/11/258820/Food-stalls-to-light-up-night-market",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "jordan-station",
+  "area": "kowloon",
+  "kind": "transit",
+  "lat": 22.30481,
+  "lng": 114.17171,
+  "nameEn": "Jordan Station (MTR)",
+  "nameZh": "佐敦站",
+  "officialUrl": "https://www.mtr.com.hk/",
+  "sources": [
+   "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "lai-king-station",
+  "area": "transit",
+  "kind": "transit",
+  "lat": 22.34818,
+  "lng": 114.12625,
+  "nameEn": "Lai King Station (MTR)",
+  "nameZh": "荔景站",
+  "officialUrl": "https://www.mtr.com.hk/",
+  "sources": [
+   "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "hong-kong-station",
+  "area": "island",
+  "kind": "transit",
+  "lat": 22.2841,
+  "lng": 114.15892,
+  "nameEn": "Hong Kong Station (MTR, Tung Chung Line / Airport Express)",
+  "nameZh": "香港站",
+  "officialUrl": "https://www.mtr.com.hk/",
+  "sources": [
+   "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "ngong-ping-360",
+  "area": "lantau",
+  "kind": "ride",
+  "lat": 22.2893,
+  "lng": 113.93873,
+  "nameEn": "Ngong Ping 360 Cable Car",
+  "nameZh": "昂坪360纜車",
+  "officialUrl": "https://www.np360.com.hk/en/tickets-promotions/tickets-tours/cable-car-tickets",
+  "sources": [
+   "https://www.np360.com.hk/en/tickets-promotions/tickets-tours/cable-car-tickets",
+   "https://www.np360.com.hk/en/",
+   "https://www.np360.com.hk/media/jzngchi0/immediate-release-ngong-ping-cable-car-to-carry-out-scheduled-maintenance-from-8-to-18-september.pdf",
+   "https://data.hkbus.app/routeFareList.min.json"
+  ],
+  "confidence": "verified"
+ },
+ {
+  "slug": "tian-tan-buddha",
+  "area": "lantau",
+  "kind": "sight",
+  "lat": 22.25396,
+  "lng": 113.90501,
+  "nameEn": "Tian Tan Buddha (Big Buddha)",
+  "nameZh": "天壇大佛",
+  "officialUrl": "https://www.plm.org.hk/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tian_Tan_Buddha",
+   "https://www.plm.org.hk/eng/buddha.php",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "po-lin-monastery",
+  "area": "lantau",
+  "kind": "sight",
+  "lat": 22.25526,
+  "lng": 113.90756,
+  "nameEn": "Po Lin Monastery",
+  "nameZh": "寶蓮禪寺",
+  "officialUrl": "https://www.plm.org.hk/",
+  "sources": [
+   "https://www.plm.org.hk/eng/home.php",
+   "https://www.nextstophongkong.com/po-lin-monastery/",
+   "https://dmcquote.com/destinations/hongkong/sample-itineraries",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "ngong-ping-village",
+  "area": "lantau",
+  "kind": "food",
+  "lat": 22.25632,
+  "lng": 113.90306,
+  "nameEn": "Ngong Ping Village",
+  "nameZh": "昂坪市集",
+  "officialUrl": "https://www.np360.com.hk/",
+  "sources": [
+   "https://www.np360.com.hk/en/",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "bus-23",
+  "area": "lantau",
+  "kind": "transit",
+  "lat": 22.29058,
+  "lng": 113.93935,
+  "nameEn": "NLB Bus 23 (Tung Chung Town Centre ↔ Ngong Ping)",
+  "nameZh": "嶼巴 23號線 (東涌市中心 ↔ 昂坪)",
+  "officialUrl": "https://www.nlb.com.hk/",
+  "sources": [
+   "https://data.hkbus.app/routeFareList.min.json"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "citygate-outlets",
+  "area": "lantau",
+  "kind": "shop",
+  "lat": 22.29027,
+  "lng": 113.94026,
+  "nameEn": "Citygate Outlets",
+  "nameZh": "東薈城名店倉",
+  "officialUrl": "https://www.citygateoutlets.com.hk/",
+  "sources": [
+   "https://www.timeout.com/hong-kong/restaurants/food-opera-citygate",
+   "https://travel.sygic.com/zh/poi/dong-hui-cheng-poi:21190",
+   "https://www.openstreetmap.org"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "slug": "photobooth-tst",
+  "area": "kowloon",
+  "kind": "shop",
+  "lat": 22.29459,
+  "lng": 114.17524999999999,
+  "nameEn": "Photo booths near TST waterfront",
+  "nameZh": "尖沙咀海旁自拍亭",
+  "officialUrl": "https://snapio.io/location",
+  "sources": [
+   "https://snapio.io/location",
+   "https://snapio.io/",
+   "https://shop.theclub.com.hk/snapio-photo-booth-hk-60-digital-experience-voucher-cr-snapio-3",
+   "https://hk.k11.com/zh-hk/shop/snapio-5/",
+   "https://popbee.com/lifestyle/snapio-4th-anniversary",
+   "https://hk.k11.com/shop/flash/",
+   "https://www.instagram.com/flashhk_/",
+   "https://hk.ulifestyle.com.hk/activity/detail/20036442/",
+   "https://www.weekendhk.com/%E9%A6%99%E6%B8%AF%E5%A5%BD%E5%8E%BB%E8%99%95/%E8%87%AA%E6%8B%8D%E9%A4%A8-%E5%B0%96%E6%B2%99%E5%92%80-js08-1868950/",
+   "https://www.littlestepsasia.com/hong-kong/play/top-things-to-do-with-kids/selfie-photo-booths/",
+   "https://www.instagram.com/photoism_hongkong/",
+   "https://ubeauty.com.hk/trend/popular/20089273/",
+   "https://www.weekendhk.com/%E9%A6%99%E6%B8%AF%E5%A5%BD%E5%8E%BB%E8%99%95/%E6%97%BA%E8%A7%92-%E8%87%AA%E6%8B%8D%E9%A4%A8-photoism-js07-1849191/",
+   "https://www.the-one.hk/en/shopdirectory/shoplist.asp",
+   "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346143/"
+  ],
+  "confidence": "partial"
+ }
+]
