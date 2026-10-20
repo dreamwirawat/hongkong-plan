@@ -26,3 +26,4 @@ npm run build      # static export → out/ (เอาไปวางบน host
 
 แก้เนื้อหาเมื่อไหร่ ให้แก้ทั้ง 3 ไฟล์ภาษาพร้อมกัน — ตัวตรวจ parity ใน `src/content/index.ts` จะบอกว่าภาษาไหนไม่ตรง
 # hongkong-plan
+# hongkong-plan
