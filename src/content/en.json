@@ -248,7 +248,7 @@
    "weekday": "Fri",
    "title": "Hong Kong Island + Kowloon",
    "short": "HK Island + Kowloon",
-   "summary": "Victoria Peak, dim sum in Central, Tai Kwun, Star Ferry, TST waterfront, Symphony of Lights, Temple Street, photo booth",
+   "summary": "Victoria Peak, dim sum in Central, Tai Kwun, Star Ferry, TST waterfront, Winter Wonderland on the TST waterfront, Temple Street, photo booth",
    "accent": "amber",
    "transport": "Bus + MTR + bus 15 + Star Ferry",
    "intensity": "Moderate (adjusted)",
@@ -355,15 +355,15 @@
     {
      "time": "19:15",
      "title": "Harbour stroll + photo booth",
-     "detail": "SNAPIO kiosks inside K11 MUSEA (B2/F near BRUNO, 3/F near Five Guys), right by Avenue of Stars — about HK$60 per set, Octopus accepted; back on the promenade in time for the 20:00 show · for a Korean studio with rooms and props, go to FLASH at K11 Art Mall (8–10 min walk) around 18:00–19:15 instead",
+     "detail": "SNAPIO kiosks inside K11 MUSEA (B2/F near BRUNO, 3/F near Five Guys), right by Avenue of Stars — about HK$60 per set, Octopus accepted; back on the promenade in time for the evening Winter Wonderland show · for a Korean studio with rooms and props, go to FLASH at K11 Art Mall (8–10 min walk) around 18:00–19:15 instead",
      "places": [
       "photobooth-tst"
      ]
     },
     {
      "time": "20:00",
-     "title": "Symphony of Lights",
-     "detail": "Watch from the TST waterfront (reconfirm the show time before going)",
+     "title": "Winter Wonderland at TST Promenade (replaces Symphony of Lights)",
+     "detail": "Symphony of Lights played its final show on 18 Nov · The free WinterFest light show now runs at TST Promenade every evening until 5 Jan 2027 (projections on the Cultural Centre, Clock Tower and the Museum of Art / Space Museum) · Show times not confirmed, check the HKTB site or ask on site before going",
      "key": true,
      "places": [
       "symphony-of-lights"
@@ -656,7 +656,7 @@
    "Check which terminal your return airline uses",
    "Ask Regala Skycity about the Disney shuttle: morning runs, return runs, free for all guests?, booking required?",
    "Get the latest airport and Tung Chung shuttle timetable and ask about luggage storage after check-out",
-   "Check Symphony of Lights show times"
+   "Check Winter Wonderland show times at TST Promenade (Symphony of Lights ended on 18 Nov)"
   ],
   "pack": [
    "Octopus card (load HK$150–200; works on buses, MTR and ferries)",
@@ -692,11 +692,12 @@
     "symphony-of-lights"
    ],
    "level": "warn",
-   "title": "Symphony of Lights may end before 27 Nov",
-   "text": "The 2026–27 government budget announced the show will be retired in the second half of 2026 and replaced by rotating light festivals. No final date has been announced (a 21 Sep 2026 notice says it still runs as usual) — check again the week before you travel. If it's cancelled, the TST waterfront night view is still beautiful",
+   "title": "Symphony of Lights has ended (18 Nov) · Winter Wonderland at TST replaces it",
+   "text": "The final Symphony of Lights show was on 18 Nov 2026, so there is none on the night of the 27th (one source reports it was suspended from 9 Sep until further notice, which changes nothing for the plan) · It is replaced by the Prudential Hong Kong Winter Wonderland, a free light show at TST Promenade every evening from 18 Nov 2026 to 5 Jan 2027 · No confirmed show times found, check before you go. If you miss a show, the TST waterfront night view is still beautiful",
    "sources": [
-    "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
-    "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm"
+    "https://scmp.com/news/hong-kong/hong-kong-economy/article/3374218/what-look-forward-hong-kongs-symphony-lights-takes-its-final-bow",
+    "https://www.thestandard.com.hk/news/article/348049/Final-lights-for-Victoria-Harbour-show-after-two-decades",
+    "https://www.thestandard.com.hk/news/article/348078/Hong-Kong-to-stage-largest-ever-WinterFest-as-A-Symphony-of-Lights-prepares-for-final-bow"
    ]
   },
   {
@@ -830,11 +831,12 @@
    ],
    "level": "ok",
    "title": "Actual 2026 fares",
-   "text": "No MTR fare increase in 2026: Tung Chung→Disneyland HK$15.9, Tung Chung→Hong Kong HK$24.3, Jordan→Tung Chung HK$18.7 · Bus S1/S56 HK$3.7 · Citybus 15 HK$13.0 · Star Ferry upper deck on Friday HK$5.0 · Pending bus and ferry fare increase applications may take effect before the trip",
+   "text": "No MTR fare increase in 2026: Tung Chung→Disneyland HK$15.9, Tung Chung→Hong Kong HK$24.3, Jordan→Tung Chung HK$18.7 · Bus S1/S56 HK$3.7 · Citybus 15 HK$13.0 · Star Ferry upper deck on Friday HK$5.0 · The Star Ferry increase is approved but takes effect on 25 Jan 2027 (after the trip), so fares stay the same for 25–28 Nov · The bus fare increases operators asked for are still under review (discussed 18 Nov) and no effective date was found, so check again before you travel",
    "sources": [
     "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
     "https://www.starferry.com.hk/en/service",
-    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent"
+    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent",
+    "https://www.chinadailyhk.com/article/641486"
    ]
   },
   {
@@ -1837,7 +1839,7 @@
   },
   "tst-promenade": {
    "nameLocal": "Kowloon waterfront walk",
-   "intro": "A harbourside walkway on the Kowloon side with a full view of the Hong Kong Island skyline. It is at its best at sunset and is the place to sit and wait for the light show.",
+   "intro": "A harbourside walkway on the Kowloon side with a full view of the Hong Kong Island skyline. It is at its best at sunset and is the place to sit and wait for the evening Winter Wonderland show.",
    "address": "Salisbury Road, Tsim Sha Tsui (from the Star Ferry Pier/Clock Tower east to the Avenue of Stars)",
    "facts": [
     {
@@ -1883,14 +1885,14 @@
    ],
    "highlights": [
     "Hong Kong Island skyline views",
-    "Viewing spot for A Symphony of Lights",
+    "Next to the TST Promenade Winter Wonderland show",
     "Former Kowloon-Canton Railway Clock Tower: a 100+-year-old clock tower (1915), the remnant of the old railway station"
    ],
    "tips": []
   },
   "avenue-of-stars": {
    "nameLocal": "Waterfront walk of fame",
-   "intro": "A waterfront walk with Hong Kong film stars' handprints and the Bruce Lee statue, in front of K11 MUSEA — one of the good spots to watch A Symphony of Lights.",
+   "intro": "A waterfront walk with Hong Kong film stars' handprints and the Bruce Lee statue, in front of K11 MUSEA — a short walk from the Winter Wonderland show on the TST Promenade.",
    "address": "Tsim Sha Tsui Promenade (in front of K11 MUSEA / Rosewood)",
    "facts": [
     {
@@ -1917,13 +1919,13 @@
    "highlights": [
     "Bruce Lee statue",
     "Hong Kong film stars' handprints",
-    "One of the best spots to watch A Symphony of Lights"
+    "Close to the Winter Wonderland show on the TST Promenade"
    ],
    "tips": []
   },
   "k11-musea": {
    "nameLocal": "Art-and-design mall",
-   "intro": "An art-and-design mall on the TST waterfront where the plan stops to browse and rest your legs while waiting for the 20:00 show.",
+   "intro": "An art-and-design mall on the TST waterfront where the plan stops to browse and rest your legs while waiting for the evening Winter Wonderland show.",
    "address": "Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",
    "facts": [
     {
@@ -1949,19 +1951,19 @@
    ],
    "highlights": [
     "Waterfront art-and-design mall",
-    "Restrooms/a place to rest while waiting for A Symphony of Lights"
+    "Restrooms/a place to rest while waiting for the Winter Wonderland show"
    ],
    "tips": [],
    "verifyNote": "Hours are based on individual shops in the mall"
   },
   "symphony-of-lights": {
-   "nameLocal": "Nightly harbour light show",
-   "intro": "A light and laser show from the Hong Kong Island skyscrapers set to music, free to watch from the TST waterfront every night at 20:00.",
-   "address": "Watch from the TST Promenade / Avenue of Stars (or Golden Bauhinia Square, Wan Chai / from a boat in the harbour)",
+   "nameLocal": "Free nightly waterfront light show",
+   "intro": "A Symphony of Lights played its final show on 18 Nov 2026. The free Prudential Hong Kong Winter Wonderland light show now runs at TST Promenade every evening, with projections on the Cultural Centre, the Clock Tower and the Museum of Art / Space Museum.",
+   "address": "TST Promenade (around the Cultural Centre – Clock Tower and the Museum of Art / Space Museum)",
    "facts": [
     {
-     "label": "Hours",
-     "value": "Nightly at 20:00 (~10–13 minutes) — no confirmed special details for Friday 27 Nov",
+     "label": "Dates",
+     "value": "Every evening 18 Nov 2026 – 5 Jan 2027 · no confirmed show times found",
      "source": "research"
     },
     {
@@ -1971,24 +1973,24 @@
     },
     {
      "label": "Getting there",
-     "value": "Star Ferry to TST, then walk to the Avenue of Stars",
+     "value": "Star Ferry to TST, then walk towards the Clock Tower / Cultural Centre",
      "source": "research"
     },
     {
      "label": "Time needed",
-     "value": "~10 minutes + arrive 15–30 minutes early",
+     "value": "Show length unknown, allow about 30–45 minutes (estimate, not official)",
      "source": "research"
     }
    ],
    "highlights": [
-    "Lasers + building lights on the Hong Kong Island side, set to music",
-    "Viewing spots: mid-promenade between the Cultural Centre and the Clock Tower, or the Avenue of Stars"
+    "Projections on the Cultural Centre and Clock Tower",
+    "'Northern Lights' display on the Museum of Art and Space Museum"
    ],
    "tips": [
-    "⚠ In the 2026–27 Budget (Feb 2026) the government announced it would end this show in the second half of 2026 and replace it with a light festival rotating by venue/season — as of 21 Sep 2026 it had resumed normal operation, but no final date has been announced: check again before 27 Nov",
-    "If it's cancelled, the night view from the promenade is still beautiful"
+    "⚠ A Symphony of Lights played its final show on 18 Nov 2026 (one source reports it was suspended from 9 Sep until further notice), so it is not on the night of the 27th",
+    "Check the Winter Wonderland show times on the HKTB site before going. If you miss a show, the night view from the promenade is still beautiful"
    ],
-   "verifyNote": "At risk of being cancelled before the travel date; an unofficial source said it was suspended from 9 Sep 2026, but a government announcement on 21 Sep 2026 said it would 'resume normal operation tonight'"
+   "verifyNote": "Based on news reports (SCMP, The Standard) as of 23 Nov 2026; the official HKTB page has not been opened to confirm show times"
   },
   "temple-street": {
    "nameLocal": "Night market and street food",
@@ -2369,7 +2371,7 @@
   },
   "photobooth-tst": {
    "nameLocal": "Photo booths & self-photo studios by the TST waterfront",
-   "intro": "SNAPIO at K11 MUSEA fits best. It sits right on Avenue of Stars (2-4 min), so you can shoot and be on the promenade for the 20:00 Symphony of Lights. It is cheap (about HK$60) and takes Octopus. For a fuller Korean studio with rooms and props, go to FLASH at K11 Art Mall around 18:00-19:15. It is only 8-10 min away and confirmed open in 2026. Head back to the waterfront before 20:00.",
+   "intro": "SNAPIO at K11 MUSEA fits best. It sits right on Avenue of Stars (2-4 min), so you can shoot and be on the promenade for the evening Winter Wonderland show. It is cheap (about HK$60) and takes Octopus. For a fuller Korean studio with rooms and props, go to FLASH at K11 Art Mall around 18:00-19:15. It is only 8-10 min away and confirmed open in 2026. Head back to the waterfront before 20:00.",
    "facts": [
     {
      "label": "SNAPIO photo booth (K11 MUSEA)",
@@ -2396,7 +2398,7 @@
    "tips": [
     "Pay with Octopus. The official site doesn't list cash or credit card.",
     "There are two kiosks: B2/F near BRUNO and 3/F near Five Guys.",
-    "Shoot around 19:30 and step out to the promenade in time for the 20:00 light show.",
+    "Shoot around 19:30 and step out to the promenade in time for the evening Winter Wonderland show (show time unconfirmed).",
     "Props and 100+ frame designs are provided.",
     "Takes cash, Alipay, Visa and Mastercard. Octopus is unconfirmed.",
     "Check IG @flashhk_ for current promos and prices before going."

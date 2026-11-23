@@ -248,7 +248,7 @@
    "weekday": "星期五",
    "title": "香港島 + 九龍",
    "short": "香港島 + 九龍",
-   "summary": "太平山頂、中環點心、大館、天星小輪、尖沙咀海濱、幻彩詠香江、廟街、自拍亭",
+   "summary": "太平山頂、中環點心、大館、天星小輪、尖沙咀海濱、尖沙咀海濱 Winter Wonderland、廟街、自拍亭",
    "accent": "amber",
    "transport": "巴士 + 港鐵 + 15號巴士 + 天星小輪",
    "intensity": "適中（已調整）",
@@ -355,15 +355,15 @@
     {
      "time": "19:15",
      "title": "海旁散步 + 自拍亭影相",
-     "detail": "K11 MUSEA 內的 SNAPIO 自拍亭（B2樓近 BRUNO / 3樓近 Five Guys），就在星光大道旁，每套約 HK$60，可用八達通；影完即可返海旁睇20:00表演 · 如想要有房間及道具的韓式自拍館，可改於18:00–19:15去 K11購物藝術館的 FLASH（步行8–10分鐘）",
+     "detail": "K11 MUSEA 內的 SNAPIO 自拍亭（B2樓近 BRUNO / 3樓近 Five Guys），就在星光大道旁，每套約 HK$60，可用八達通；影完即可返海旁睇晚間 Winter Wonderland 表演 · 如想要有房間及道具的韓式自拍館，可改於18:00–19:15去 K11購物藝術館的 FLASH（步行8–10分鐘）",
      "places": [
       "photobooth-tst"
      ]
     },
     {
      "time": "20:00",
-     "title": "幻彩詠香江",
-     "detail": "在尖沙咀海濱觀賞（出發前再確認表演時間）",
+     "title": "尖沙咀海濱長廊 Winter Wonderland（取代幻彩詠香江）",
+     "detail": "幻彩詠香江已於 11月18日 演出最後一場 · 現時 WinterFest 免費燈光匯演於尖沙咀海濱長廊每晚上演至 2027年1月5日（投影於文化中心、鐘樓及香港藝術館／太空館外牆）· 未能確認場次時間，出發前請查閱香港旅遊發展局網站或到場查詢",
      "key": true,
      "places": [
       "symphony-of-lights"
@@ -656,7 +656,7 @@
    "確認回程航空公司使用哪個客運大樓",
    "向麗豪航天城查詢往迪士尼的穿梭巴士：早班、回程班次、一般住客是否免費、是否需要預約",
    "索取最新往機場及東涌的穿梭巴士時間表，並查詢退房後寄存行李",
-   "查看幻彩詠香江表演時間"
+   "查看尖沙咀海濱 Winter Wonderland 表演時間（幻彩詠香江已於11月18日結束）"
   ],
   "pack": [
    "八達通（預先增值 HK$150–200，巴士、港鐵、渡輪都適用）",
@@ -692,11 +692,12 @@
     "symphony-of-lights"
    ],
    "level": "warn",
-   "title": "幻彩詠香江或於 11月27日前停辦",
-   "text": "2026–27 年度政府財政預算案宣布於 2026 年下半年停辦此表演，改為輪流舉行的燈光節，尚未公布最後演出日期（2026年9月21日公告仍如常上演）— 出發前一星期請再確認；即使停辦，尖沙咀海濱夜景依然很美",
+   "title": "幻彩詠香江已結束（11月18日）· 尖沙咀改由 Winter Wonderland 取代",
+   "text": "幻彩詠香江最後一場演出為 2026年11月18日，11月27日晚上不會有此表演（有消息指自 9月9日 起暫停至另行通知，對計劃影響相同）· 改為「Prudential Hong Kong Winter Wonderland」，於尖沙咀海濱長廊每晚免費上演，2026年11月18日至2027年1月5日 · 未找到已確認的場次時間，出發前請再查詢；即使趕不及，尖沙咀海濱夜景依然很美",
    "sources": [
-    "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
-    "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm"
+    "https://scmp.com/news/hong-kong/hong-kong-economy/article/3374218/what-look-forward-hong-kongs-symphony-lights-takes-its-final-bow",
+    "https://www.thestandard.com.hk/news/article/348049/Final-lights-for-Victoria-Harbour-show-after-two-decades",
+    "https://www.thestandard.com.hk/news/article/348078/Hong-Kong-to-stage-largest-ever-WinterFest-as-A-Symphony-of-Lights-prepares-for-final-bow"
    ]
   },
   {
@@ -830,11 +831,12 @@
    ],
    "level": "ok",
    "title": "2026 年實際車費",
-   "text": "港鐵 2026 年不加價：東涌→迪士尼 HK$15.9、東涌→香港 HK$24.3、佐敦→東涌 HK$18.7 · 巴士 S1/S56 HK$3.7 · 城巴 15 HK$13.0 · 天星小輪上層星期五 HK$5.0 · 巴士及渡輪有待批的加價申請，出發前或會調整",
+   "text": "港鐵 2026 年不加價：東涌→迪士尼 HK$15.9、東涌→香港 HK$24.3、佐敦→東涌 HK$18.7 · 巴士 S1/S56 HK$3.7 · 城巴 15 HK$13.0 · 天星小輪上層星期五 HK$5.0 · 天星小輪加價已獲批，但於 2027年1月25日 生效（行程之後），因此11月25–28日車費不變 · 巴士公司申請的加價仍在審議中（11月18日已討論），暫未找到生效日期，出發前請再確認",
    "sources": [
     "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
     "https://www.starferry.com.hk/en/service",
-    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent"
+    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent",
+    "https://www.chinadailyhk.com/article/641486"
    ]
   },
   {
@@ -1837,7 +1839,7 @@
   },
   "tst-promenade": {
    "nameLocal": "尖沙咀海濱長廊",
-   "intro": "九龍一側的海濱長廊，可飽覽香港島天際線，日落時最美，亦是坐低休息等待燈光匯演的好地方。",
+   "intro": "九龍一側的海濱長廊，可飽覽香港島天際線，日落時最美，亦是坐低休息等待晚間 Winter Wonderland 燈光匯演的好地方。",
    "address": "尖沙咀梳士巴利道（由天星碼頭/鐘樓向東至星光大道）",
    "facts": [
     {
@@ -1883,14 +1885,14 @@
    ],
    "highlights": [
     "香港島天際線景色",
-    "幻彩詠香江觀賞點",
+    "鄰近尖沙咀海濱長廊 Winter Wonderland 表演",
     "前九廣鐵路鐘樓：逾百年歷史（1915年）的鐘樓，舊火車站遺跡"
    ],
    "tips": []
   },
   "avenue-of-stars": {
    "nameLocal": "星光大道",
-   "intro": "設有香港明星手印及李小龍銅像的海濱長廊，位於 K11 MUSEA 前，亦是觀賞幻彩詠香江的好位置之一。",
+   "intro": "設有香港明星手印及李小龍銅像的海濱長廊，位於 K11 MUSEA 前，步行可到尖沙咀海濱長廊的 Winter Wonderland 表演。",
    "address": "尖沙咀海濱長廊（K11 MUSEA / 瑰麗酒店前）",
    "facts": [
     {
@@ -1917,13 +1919,13 @@
    "highlights": [
     "李小龍銅像",
     "香港明星手印",
-    "觀賞幻彩詠香江的最佳位置之一"
+    "鄰近尖沙咀海濱長廊 Winter Wonderland 表演"
    ],
    "tips": []
   },
   "k11-musea": {
    "nameLocal": "K11 MUSEA",
-   "intro": "尖沙咀海旁的藝術及設計主題商場，計劃在等候20:00匯演期間在此逛逛及歇腳。",
+   "intro": "尖沙咀海旁的藝術及設計主題商場，計劃在等候晚間 Winter Wonderland 匯演期間在此逛逛及歇腳。",
    "address": "尖沙咀梳士巴利道18號 維港文化匯",
    "facts": [
     {
@@ -1949,19 +1951,19 @@
    ],
    "highlights": [
     "海旁藝術及設計主題商場",
-    "等候幻彩詠香江期間的洗手間/休息處"
+    "等候 Winter Wonderland 表演期間的洗手間/休息處"
    ],
    "tips": [],
    "verifyNote": "時間參考自商場內店舖"
   },
   "symphony-of-lights": {
-   "nameLocal": "幻彩詠香江",
-   "intro": "香港島大廈配合音樂上演的燈光及激光匯演，每晚20:00在尖沙咀海旁免費欣賞。",
-   "address": "於尖沙咀海濱長廊 / 星光大道觀賞（或灣仔金紫荊廣場 / 海港船上）",
+   "nameLocal": "尖沙咀海濱 Winter Wonderland（取代幻彩詠香江）",
+   "intro": "幻彩詠香江已於 2026年11月18日 演出最後一場。現時「Prudential Hong Kong Winter Wonderland」免費燈光匯演於尖沙咀海濱長廊每晚上演，投影於文化中心、鐘樓及香港藝術館／太空館外牆。",
+   "address": "尖沙咀海濱長廊（文化中心 – 鐘樓一帶及香港藝術館／太空館）",
    "facts": [
     {
-     "label": "開放時間",
-     "value": "每晚 20:00（約10–13分鐘）——11月27日（星期五）沒有可證實的特別安排",
+     "label": "舉行日期",
+     "value": "2026年11月18日至2027年1月5日每晚 · 未找到已確認的場次時間",
      "source": "research"
     },
     {
@@ -1971,24 +1973,24 @@
     },
     {
      "label": "交通",
-     "value": "乘天星小輪往尖沙咀，再步行往星光大道",
+     "value": "乘天星小輪往尖沙咀，再步行往鐘樓／文化中心",
      "source": "research"
     },
     {
      "label": "所需時間",
-     "value": "約10分鐘 + 提早15–30分鐘到達",
+     "value": "未知每場長度，建議預留約30–45分鐘（估計，非官方資料）",
      "source": "research"
     }
    ],
    "highlights": [
-    "香港島大廈激光 + 燈光配合音樂演出",
-    "觀賞位置：文化中心與鐘樓之間的海濱長廊中段，或星光大道"
+    "文化中心及鐘樓外牆投影",
+    "香港藝術館及太空館外牆「Northern Lights」投影"
    ],
    "tips": [
-    "⚠ 政府於《2026–27年度財政預算案》（2026年2月）宣布將於2026年下半年停辦此匯演，改為按地點/時段輪換的燈光節——截至2026年9月21日已恢復正常上演，但仍未公布最後一場日期：11月27日前請再確認",
-    "即使取消，海濱長廊的夜景依然美麗"
+    "⚠ 幻彩詠香江已於2026年11月18日演出最後一場（有消息指自9月9日起暫停至另行通知），11月27日晚上不會有此表演",
+    "出發前請於香港旅遊發展局網站查詢 Winter Wonderland 場次時間；即使趕不及，海濱長廊的夜景依然美麗"
    ],
-   "verifyNote": "有可能在出發前被取消；有非官方資料指由2026年9月9日起暫停，但政府2026年9月21日公布「resume normal operation tonight」"
+   "verifyNote": "資料來自新聞報道（SCMP、The Standard），截至2026年11月23日；未有開啟 HKTB 官方頁面確認場次時間"
   },
   "temple-street": {
    "nameLocal": "廟街夜市",
@@ -2369,7 +2371,7 @@
   },
   "photobooth-tst": {
    "nameLocal": "尖沙咀海旁自拍亭 / 韓式自拍館",
-   "intro": "最推介 K11 MUSEA 的 SNAPIO：就在星光大道旁（步行約2–4分鐘），影完即可到海旁觀看20:00的幻彩詠香江，價錢相宜（約 HK$60），並接受八達通。如想體驗設有多間影相房及道具的韓式自拍館，可於18:00–19:15前往 K11購物藝術館的 FLASH（步行8–10分鐘，已確認2026年仍營業），20:00前返回海旁。",
+   "intro": "最推介 K11 MUSEA 的 SNAPIO：就在星光大道旁（步行約2–4分鐘），影完即可到海旁觀看晚間的 Winter Wonderland 表演，價錢相宜（約 HK$60），並接受八達通。如想體驗設有多間影相房及道具的韓式自拍館，可於18:00–19:15前往 K11購物藝術館的 FLASH（步行8–10分鐘，已確認2026年仍營業），20:00前返回海旁。",
    "facts": [
     {
      "label": "SNAPIO 自拍亭（K11 MUSEA）",
@@ -2396,7 +2398,7 @@
    "tips": [
     "建議用八達通付款，官網未列明收現金或信用卡",
     "兩部機：B2樓（近 BRUNO）及 3樓（近 Five Guys）",
-    "約19:30影完，即可出星光大道看20:00幻彩詠香江",
+    "約19:30影完，即可出星光大道，趕及晚間 Winter Wonderland 表演（場次時間未確認）",
     "有道具及過百款相框可揀",
     "收現金、Alipay、Visa、Mastercard；八達通未確認",
     "出發前查看 IG @flashhk_ 確認最新優惠和價錢"

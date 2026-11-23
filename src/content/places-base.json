@@ -466,15 +466,18 @@
   "kind": "show",
   "lat": 22.29343,
   "lng": 114.17513,
-  "nameEn": "A Symphony of Lights",
-  "nameZh": "幻彩詠香江",
+  "nameEn": "Winter Wonderland at TST Promenade (replaces A Symphony of Lights)",
+  "nameZh": "尖沙咀海濱 Winter Wonderland（取代幻彩詠香江）",
   "officialUrl": "https://www.tourism.gov.hk/",
   "sources": [
    "https://www.avenueofstars.com.hk/en/a-symphony-of-lights/",
    "https://discoverhongkong.com/anz/explore/attractions/a-symphony-of-lights.html",
    "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
    "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm",
-   "https://hongkongfp.com/2026/03/15/hong-kong-to-retire-22-year-old-symphony-of-lights-show-but-few-tourists-will-miss-it/"
+   "https://hongkongfp.com/2026/03/15/hong-kong-to-retire-22-year-old-symphony-of-lights-show-but-few-tourists-will-miss-it/",
+   "https://scmp.com/news/hong-kong/hong-kong-economy/article/3374218/what-look-forward-hong-kongs-symphony-lights-takes-its-final-bow",
+   "https://www.thestandard.com.hk/news/article/348049/Final-lights-for-Victoria-Harbour-show-after-two-decades",
+   "https://www.thestandard.com.hk/news/article/348078/Hong-Kong-to-stage-largest-ever-WinterFest-as-A-Symphony-of-Lights-prepares-for-final-bow"
   ],
   "confidence": "partial"
  },

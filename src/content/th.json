@@ -248,7 +248,7 @@
    "weekday": "ศุกร์",
    "title": "เกาะฮ่องกง + เกาลูน",
    "short": "เกาะฮ่องกง + เกาลูน",
-   "summary": "Victoria Peak, ติ่มซำ Central, Tai Kwun, Star Ferry, ริมน้ำ TST, Symphony of Lights, Temple Street, ถ่ายรูป photobooth",
+   "summary": "Victoria Peak, ติ่มซำ Central, Tai Kwun, Star Ferry, ริมน้ำ TST, Winter Wonderland ริมน้ำ TST, Temple Street, ถ่ายรูป photobooth",
    "accent": "amber",
    "transport": "รถเมล์ + MTR + รถเมล์ 15 + Star Ferry",
    "intensity": "กลาง (ปรับแล้ว)",
@@ -355,15 +355,15 @@
     {
      "time": "19:15",
      "title": "เดินเล่นริมอ่าว + ถ่ายรูปตู้ photobooth",
-     "detail": "ตู้ SNAPIO ใน K11 MUSEA (ชั้น B2 ใกล้ BRUNO / ชั้น 3 ใกล้ Five Guys) ติด Avenue of Stars ราว HK$60/ชุด จ่าย Octopus ได้ ถ่ายเสร็จเดินออกริมน้ำทันโชว์ 20:00 · ถ้าอยากได้สตูดิโอเกาหลีแบบมีห้องและพร็อพ ไป FLASH ที่ K11 Art Mall (เดิน 8–10 นาที) ช่วง 18:00–19:15 แทน",
+     "detail": "ตู้ SNAPIO ใน K11 MUSEA (ชั้น B2 ใกล้ BRUNO / ชั้น 3 ใกล้ Five Guys) ติด Avenue of Stars ราว HK$60/ชุด จ่าย Octopus ได้ ถ่ายเสร็จเดินออกริมน้ำทันโชว์ Winter Wonderland ช่วงค่ำ · ถ้าอยากได้สตูดิโอเกาหลีแบบมีห้องและพร็อพ ไป FLASH ที่ K11 Art Mall (เดิน 8–10 นาที) ช่วง 18:00–19:15 แทน",
      "places": [
       "photobooth-tst"
      ]
     },
     {
      "time": "20:00",
-     "title": "Symphony of Lights",
-     "detail": "ดูจากริมน้ำ TST (เช็คเวลาโชว์อีกครั้งก่อนไป)",
+     "title": "Winter Wonderland ที่ TST Promenade (แทน Symphony of Lights)",
+     "detail": "Symphony of Lights จบโชว์สุดท้ายไปแล้วเมื่อ 18 พ.ย. · ตอนนี้มีโชว์แสงสีฟรีของ WinterFest ที่ TST Promenade ทุกเย็นถึง 5 ม.ค. 2027 (ฉายภาพบน Cultural Centre, Clock Tower และพิพิธภัณฑ์ศิลปะ/Space Museum) · ยังไม่ยืนยันเวลารอบ เช็คที่เว็บ HKTB หรือถามหน้างานก่อนไป",
      "key": true,
      "places": [
       "symphony-of-lights"
@@ -656,7 +656,7 @@
    "เช็คว่าสายการบินขากลับใช้ Terminal ไหน",
    "ถาม Regala Skycity เรื่องชัตเทิลไปดิสนีย์: รอบเช้า, รอบกลับ, ฟรีสำหรับแขกทั่วไปไหม, ต้องจองไหม",
    "ขอตารางชัตเทิลไปสนามบินและ Tung Chung ฉบับล่าสุด และถามเรื่องฝากกระเป๋าหลังเช็คเอาท์",
-   "เช็คเวลาโชว์ Symphony of Lights"
+   "เช็คเวลาโชว์ Winter Wonderland ที่ TST Promenade (Symphony of Lights จบไปแล้วเมื่อ 18 พ.ย.)"
   ],
   "pack": [
    "บัตร Octopus (เติมเงินไว้ HK$150–200 ใช้ได้ทั้งรถเมล์ MTR และเรือ)",
@@ -692,11 +692,12 @@
     "symphony-of-lights"
    ],
    "level": "warn",
-   "title": "Symphony of Lights อาจถูกยกเลิกก่อนวันที่ 27 พ.ย.",
-   "text": "งบประมาณรัฐบาลปี 2026–27 ประกาศเลิกโชว์นี้ในครึ่งหลังปี 2026 แล้วแทนด้วย light festival หมุนเวียน ยังไม่ประกาศวันสุดท้าย (ประกาศ 21 ก.ย. 2026 ยังแสดงตามปกติ) — เช็คอีกครั้งช่วงสัปดาห์ก่อนเดินทาง ถ้ายกเลิก วิวกลางคืนริมน้ำ TST ก็ยังสวย",
+   "title": "Symphony of Lights จบแล้ว (18 พ.ย.) · มี Winter Wonderland ที่ TST แทน",
+   "text": "โชว์สุดท้ายของ Symphony of Lights คือ 18 พ.ย. 2026 จึงไม่มีให้ดูในคืนวันที่ 27 (มีแหล่งหนึ่งรายงานว่าถูกระงับตั้งแต่ 9 ก.ย. จนกว่าจะมีประกาศ ผลต่อแผนเหมือนกัน) · แทนที่ด้วย Prudential Hong Kong Winter Wonderland โชว์แสงสีฟรีที่ TST Promenade ทุกเย็น 18 พ.ย. 2026 – 5 ม.ค. 2027 · ยังไม่พบเวลารอบที่ยืนยัน ให้เช็คก่อนไป ถ้าไม่ทันรอบ วิวกลางคืนริมน้ำ TST ก็ยังสวย",
    "sources": [
-    "https://hongkongfp.com/2026/02/27/budget-2026-symphony-of-lights-to-be-retired-in-2nd-half-of-year-replaced-by-light-shows-at-tourist-spots/",
-    "https://www.info.gov.hk/gia/general/202609/21/P2026092100185.htm"
+    "https://scmp.com/news/hong-kong/hong-kong-economy/article/3374218/what-look-forward-hong-kongs-symphony-lights-takes-its-final-bow",
+    "https://www.thestandard.com.hk/news/article/348049/Final-lights-for-Victoria-Harbour-show-after-two-decades",
+    "https://www.thestandard.com.hk/news/article/348078/Hong-Kong-to-stage-largest-ever-WinterFest-as-A-Symphony-of-Lights-prepares-for-final-bow"
    ]
   },
   {
@@ -830,11 +831,12 @@
    ],
    "level": "ok",
    "title": "ค่าโดยสารจริงปี 2026",
-   "text": "MTR ไม่ขึ้นราคาปี 2026: Tung Chung→Disneyland HK$15.9, Tung Chung→Hong Kong HK$24.3, Jordan→Tung Chung HK$18.7 · รถเมล์ S1/S56 HK$3.7 · Citybus 15 HK$13.0 · Star Ferry ชั้นบนวันศุกร์ HK$5.0 · มีคำขอขึ้นค่ารถเมล์และค่าเรือที่ยังไม่อนุมัติ อาจขยับก่อนทริป",
+   "text": "MTR ไม่ขึ้นราคาปี 2026: Tung Chung→Disneyland HK$15.9, Tung Chung→Hong Kong HK$24.3, Jordan→Tung Chung HK$18.7 · รถเมล์ S1/S56 HK$3.7 · Citybus 15 HK$13.0 · Star Ferry ชั้นบนวันศุกร์ HK$5.0 · Star Ferry อนุมัติขึ้นราคาแล้ว แต่มีผล 25 ม.ค. 2027 (หลังทริป) จึงยังเป็นราคาเดิมช่วง 25–28 พ.ย. · ค่ารถเมล์ที่บริษัทขอขึ้นยังรอการตัดสิน (คณะกรรมการหารือ 18 พ.ย.) ยังไม่พบวันมีผล เช็คอีกครั้งก่อนเดินทาง",
    "sources": [
     "https://opendata.mtr.com.hk/data/mtr_lines_fares.csv",
     "https://www.starferry.com.hk/en/service",
-    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent"
+    "https://www.thestandard.com.hk/news/article/345421/Franchised-bus-operators-apply-for-fare-hikes-ranging-from-81-to-177-percent",
+    "https://www.chinadailyhk.com/article/641486"
    ]
   },
   {
@@ -1837,7 +1839,7 @@
   },
   "tst-promenade": {
    "nameLocal": "ทางเดินริมน้ำจิมซาจุ่ย (TST Promenade)",
-   "intro": "ทางเดินเลียบอ่าวฝั่งเกาลูน เห็นเส้นขอบฟ้าเกาะฮ่องกงเต็มตา ช่วงพระอาทิตย์ตกสวยที่สุด เป็นจุดนั่งพักรอโชว์แสงสี",
+   "intro": "ทางเดินเลียบอ่าวฝั่งเกาลูน เห็นเส้นขอบฟ้าเกาะฮ่องกงเต็มตา ช่วงพระอาทิตย์ตกสวยที่สุด เป็นจุดนั่งพักรอโชว์ Winter Wonderland ช่วงค่ำ",
    "address": "Salisbury Road, Tsim Sha Tsui (จาก Star Ferry Pier/Clock Tower ไปทางตะวันออกถึง Avenue of Stars)",
    "facts": [
     {
@@ -1883,14 +1885,14 @@
    ],
    "highlights": [
     "วิว skyline เกาะฮ่องกง",
-    "จุดชม Symphony of Lights",
+    "ใกล้ TST Promenade ที่มีโชว์ Winter Wonderland",
     "Former Kowloon-Canton Railway Clock Tower: หอนาฬิกาอายุ 100+ ปี (1915) ซากสถานีรถไฟเก่า"
    ],
    "tips": []
   },
   "avenue-of-stars": {
    "nameLocal": "ถนนแห่งดวงดาว (Avenue of Stars)",
-   "intro": "ทางเดินริมน้ำที่มีรอยมือดาราฮ่องกงและรูปปั้นบรูซ ลี หน้า K11 MUSEA และเป็นจุดชม Symphony of Lights ที่ดีจุดหนึ่ง",
+   "intro": "ทางเดินริมน้ำที่มีรอยมือดาราฮ่องกงและรูปปั้นบรูซ ลี หน้า K11 MUSEA และเดินต่อไปดูโชว์ Winter Wonderland ที่ TST Promenade ได้",
    "address": "Tsim Sha Tsui Promenade (หน้า K11 MUSEA / Rosewood)",
    "facts": [
     {
@@ -1917,13 +1919,13 @@
    "highlights": [
     "รูปปั้น Bruce Lee",
     "รอยมือดาราฮ่องกง",
-    "จุดชม Symphony of Lights ที่ดีที่สุดจุดหนึ่ง"
+    "ใกล้จุดชม Winter Wonderland ที่ TST Promenade"
    ],
    "tips": []
   },
   "k11-musea": {
    "nameLocal": "ห้าง K11 MUSEA",
-   "intro": "ห้างสายศิลปะและดีไซน์ริมน้ำ TST ที่แผนให้แวะเดินและนั่งพักขาระหว่างรอโชว์ตอน 20:00",
+   "intro": "ห้างสายศิลปะและดีไซน์ริมน้ำ TST ที่แผนให้แวะเดินและนั่งพักขาระหว่างรอโชว์ Winter Wonderland ช่วงค่ำ",
    "address": "Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",
    "facts": [
     {
@@ -1949,19 +1951,19 @@
    ],
    "highlights": [
     "ห้างสายศิลปะ-ดีไซน์ ริมน้ำ",
-    "ห้องน้ำ/ที่พักระหว่างรอ Symphony of Lights"
+    "ห้องน้ำ/ที่พักระหว่างรอโชว์ Winter Wonderland"
    ],
    "tips": [],
    "verifyNote": "เวลาอ้างอิงจากร้านในห้าง"
   },
   "symphony-of-lights": {
-   "nameLocal": "โชว์แสงสี A Symphony of Lights",
-   "intro": "โชว์ไฟและเลเซอร์จากตึกฝั่งเกาะฮ่องกงประกอบเพลง ดูฟรีจากริมน้ำ TST ทุกคืนเวลา 20:00",
-   "address": "ชมจาก TST Promenade / Avenue of Stars (หรือ Golden Bauhinia Square, Wan Chai / บนเรือในอ่าว)",
+   "nameLocal": "โชว์แสงสีฟรีริมน้ำ TST (แทน Symphony of Lights)",
+   "intro": "Symphony of Lights จบโชว์สุดท้ายไปแล้วเมื่อ 18 พ.ย. 2026 ตอนนี้มีโชว์แสงสีฟรี Prudential Hong Kong Winter Wonderland ที่ TST Promenade ทุกเย็น ฉายภาพบน Cultural Centre, Clock Tower และพิพิธภัณฑ์ศิลปะ/Space Museum",
+   "address": "TST Promenade (ช่วง Cultural Centre – Clock Tower และพิพิธภัณฑ์ศิลปะ/Space Museum)",
    "facts": [
     {
-     "label": "เวลาเปิด",
-     "value": "ทุกคืน 20:00 (~10–13 นาที) — ศุกร์ 27 พ.ย. ไม่มีรายละเอียดพิเศษที่ยืนยันได้",
+     "label": "ช่วงที่จัด",
+     "value": "ทุกเย็น 18 พ.ย. 2026 – 5 ม.ค. 2027 · ยังไม่พบเวลารอบที่ยืนยัน",
      "source": "research"
     },
     {
@@ -1971,24 +1973,24 @@
     },
     {
      "label": "วิธีไป",
-     "value": "Star Ferry ไป TST แล้วเดินไป Avenue of Stars",
+     "value": "Star Ferry ไป TST แล้วเดินไปทาง Clock Tower / Cultural Centre",
      "source": "research"
     },
     {
      "label": "ใช้เวลา",
-     "value": "~10 นาที + มาถึงก่อน 15–30 นาที",
+     "value": "ไม่ทราบความยาวรอบ แนะนำเผื่อ 30–45 นาที (ประมาณการ ไม่ใช่ข้อมูลทางการ)",
      "source": "research"
     }
    ],
    "highlights": [
-    "ไฟเลเซอร์+ไฟอาคารฝั่งเกาะฮ่องกงประกอบเพลง",
-    "จุดดู: กลาง promenade ระหว่าง Cultural Centre กับ Clock Tower หรือ Avenue of Stars"
+    "ฉายภาพบนอาคาร Cultural Centre และ Clock Tower",
+    "พิพิธภัณฑ์ศิลปะและ Space Museum ฉายชุด 'Northern Lights'"
    ],
    "tips": [
-    "⚠ รัฐบาลประกาศใน Budget 2026–27 (ก.พ. 2026) ว่าจะเลิกโชว์นี้ในครึ่งหลังปี 2026 และแทนที่ด้วย light festival หมุนเวียนตามสถานที่/ช่วงเวลา — ณ 21 ก.ย. 2026 ยังกลับมาแสดงตามปกติ แต่ยังไม่มีวันสุดท้ายประกาศ: เช็กอีกครั้งก่อน 27 พ.ย.",
-    "ถ้ายกเลิก วิวกลางคืนจาก promenade ก็ยังสวย"
+    "⚠ Symphony of Lights จบโชว์สุดท้ายไปแล้วเมื่อ 18 พ.ย. 2026 (มีแหล่งหนึ่งรายงานว่าถูกระงับตั้งแต่ 9 ก.ย. จนกว่าจะมีประกาศ) จึงไม่มีให้ดูคืนวันที่ 27",
+    "เช็คเวลารอบ Winter Wonderland ที่เว็บ HKTB ก่อนไป ถ้าไม่ทันรอบ วิวกลางคืนจาก promenade ก็ยังสวย"
    ],
-   "verifyNote": "เสี่ยงถูกยกเลิกก่อนวันเดินทาง; มีแหล่งไม่ทางการบอกว่า suspend ตั้งแต่ 9 ก.ย. 2026 แต่ประกาศรัฐบาล 21 ก.ย. 2026 ระบุว่า 'resume normal operation tonight'"
+   "verifyNote": "ข้อมูลจากข่าว (SCMP, The Standard) ณ 23 พ.ย. 2026 ยังไม่ได้เปิดหน้าทางการ HKTB เพื่อยืนยันเวลารอบ"
   },
   "temple-street": {
    "nameLocal": "ตลาดกลางคืนเทมเปิลสตรีท",
@@ -2369,7 +2371,7 @@
   },
   "photobooth-tst": {
    "nameLocal": "ตู้ / สตูดิโอถ่ายรูป photobooth ใกล้ริมน้ำ TST",
-   "intro": "แนะนำ SNAPIO ที่ K11 MUSEA เพราะอยู่ติด Avenue of Stars เดินแค่ 2–4 นาที ถ่ายแล้วออกมาดูการแสดงแสงสี Symphony of Lights ตอน 20:00 ได้ทันที ราคาถูก (ประมาณ HK$60) และจ่ายด้วย Octopus ได้ ถ้าอยากได้ประสบการณ์แบบสตูดิโอเกาหลีที่มีหลายห้องและพร็อพ ให้ไป FLASH ที่ K11 Art Mall ช่วง 18:00–19:15 (เดินแค่ 8–10 นาที และยืนยันแล้วว่ายังเปิดอยู่ปี 2026) แล้วกลับมาที่ promenade ก่อน 20:00",
+   "intro": "แนะนำ SNAPIO ที่ K11 MUSEA เพราะอยู่ติด Avenue of Stars เดินแค่ 2–4 นาที ถ่ายแล้วออกมาดูโชว์ Winter Wonderland ช่วงค่ำได้ทันที ราคาถูก (ประมาณ HK$60) และจ่ายด้วย Octopus ได้ ถ้าอยากได้ประสบการณ์แบบสตูดิโอเกาหลีที่มีหลายห้องและพร็อพ ให้ไป FLASH ที่ K11 Art Mall ช่วง 18:00–19:15 (เดินแค่ 8–10 นาที และยืนยันแล้วว่ายังเปิดอยู่ปี 2026) แล้วกลับมาที่ promenade ก่อน 20:00",
    "facts": [
     {
      "label": "SNAPIO photo booth (K11 MUSEA)",
@@ -2396,7 +2398,7 @@
    "tips": [
     "จ่ายด้วย Octopus สะดวกที่สุด เว็บทางการไม่ได้ระบุว่ารับเงินสดหรือบัตรเครดิต",
     "มี 2 ตู้: ชั้น B2 (ใกล้ BRUNO) และชั้น 3 (ใกล้ Five Guys)",
-    "ถ่ายเสร็จช่วง 19:30 แล้วเดินออกไป Avenue of Stars ทันการแสดงแสงสี 20:00",
+    "ถ่ายเสร็จช่วง 19:30 แล้วเดินออกไป Avenue of Stars ทันโชว์ Winter Wonderland ช่วงค่ำ (เวลารอบยังไม่ยืนยัน)",
     "มีอุปกรณ์ประกอบฉากและกรอบให้เลือกกว่า 100 แบบ",
     "รับเงินสด, Alipay, Visa และ Mastercard ส่วน Octopus ยังไม่ยืนยัน",
     "ดู IG @flashhk_ ก่อนไป เพื่อเช็กโปรโมชันและราคาล่าสุด"
