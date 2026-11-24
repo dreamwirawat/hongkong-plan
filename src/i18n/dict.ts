@@ -123,7 +123,7 @@ const th = {
     thb: "บาท (≈{rate})",
     total: "รวม",
     perDay: "งบรายวัน (จากหัวแต่ละวันในแผน)",
-    perDayNote: "วันที่ 2 ไม่รวมตั๋วดิสนีย์ · วันที่ 4 รวมกระเช้า HK$295",
+    perDayNote: "วันที่ 2 ไม่รวมตั๋วดิสนีย์ · วันที่ 4 ไม่รวมกระเช้า (จองแล้วทั้งคู่)",
   },
   checklist: {
     title: "เช็คลิสต์",
@@ -269,7 +269,7 @@ const en: Dict = {
     thb: "THB (≈{rate})",
     total: "Total",
     perDay: "Budget by day (from each day's header in the plan)",
-    perDayNote: "Day 2 excludes the Disney ticket · Day 4 includes the HK$295 cable car",
+    perDayNote: "Day 2 excludes Disney tickets · Day 4 excludes the cable car (both already booked)",
   },
   checklist: {
     title: "Checklist",
@@ -413,7 +413,7 @@ const zh: Dict = {
     thb: "泰銖（≈{rate}）",
     total: "合計",
     perDay: "每日預算（取自行程每日標題）",
-    perDayNote: "第2日不含迪士尼門票 · 第4日已包括纜車 HK$295",
+    perDayNote: "第2日不含迪士尼門票 · 第4日不含纜車（兩者均已預訂）",
   },
   checklist: {
     title: "清單",

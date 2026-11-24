@@ -22,9 +22,9 @@
    "note": "Thu 26 Nov · Arrive 1 hr before opening"
   },
   "budgetHeadline": {
-   "label": "Budget per person (excl. Disney ticket)",
+   "label": "Budget per person (excl. tickets already booked)",
    "value": "10,000 THB ≈ HK$2,300",
-   "note": "Actual spend about 6,300 THB · the rest for shopping"
+   "note": "Expected spend about 5,100 baht · rest for shopping"
   },
   "transportLine": "All travel by hotel shuttle / bus / MTR / ferry / cable car",
   "overview": "Every day starts and ends at Regala Skycity Hotel in the SKYCITY zone, linked to Terminal 2 and AsiaWorld-Expo by covered walkways. The hotel runs free shuttles to the airport (T1), Tung Chung Station and Disneyland; when the shuttle isn't running, take bus S1/S56 to Tung Chung"
@@ -156,8 +156,8 @@
     },
     {
      "time": "09:15",
-     "title": "At the park gates — over 1 hour before opening",
-     "detail": "If the park opens at 10:00 that day, shift everything 30 minutes earlier (leave the hotel at 07:45)",
+     "title": "Arrive at the park gate · enter with the Early Park Entry Pass",
+     "detail": "Each of you has an Early Park Entry Pass: entry up to 1 hour before the official opening time through the Early Park Entry Pass checkpoint (the pass expires when the park opens), so from 09:30 if it opens at 10:30 · If the park opens at 10:00 that day, move everything 30 minutes earlier (leave the hotel at 07:45)",
      "key": true,
      "places": [
       "hong-kong-disneyland"
@@ -165,8 +165,8 @@
     },
     {
      "time": "10:30",
-     "title": "Park opens → head straight to World of Frozen",
-     "detail": "It has the longest queues; opening time is your best chance",
+     "title": "Early entry → head straight to World of Frozen",
+     "detail": "It has the longest queues, so before the park opens is the best chance · Check in the app which rides run during the early entry hour",
      "places": [
       "world-of-frozen"
      ]
@@ -177,7 +177,8 @@
      "places": [
       "mystic-manor",
       "big-grizzly-mountain"
-     ]
+     ],
+     "detail": "Use Disney Premier Access on these two (3 uses per person, chosen from Big Grizzly, Mystic Manor, Iron Man Experience, Ant-Man and The Wasp, \"it's a small world\")"
     },
     {
      "time": "13:00",
@@ -188,7 +189,7 @@
     {
      "time": "14:00",
      "title": "Toy Story Land, Iron Man Experience, Fantasyland",
-     "detail": "Check the afternoon parade time in the app's Times Guide and grab a spot 15–20 minutes early",
+     "detail": "Use the third Premier Access on Iron Man Experience · Check the afternoon parade time in the app's Times Guide and grab a spot 15–20 minutes early",
      "places": [
       "toy-story-land",
       "iron-man-experience",
@@ -435,7 +436,7 @@
    "accent": "navy",
    "transport": "Free shuttle + cable car",
    "intensity": "Moderate",
-   "budget": "≈ HK$570 (incl. cable car)",
+   "budget": "≈ HK$275 (cable car already booked)",
    "cover": "tian-tan-buddha",
    "items": [
     {
@@ -462,13 +463,13 @@
     },
     {
      "time": "09:30",
-     "title": "Queue for the Ngong Ping 360 cable car (Standard Cabin)",
-     "detail": "Saturdays are busy — book online in advance and make sure it isn't a maintenance closure day",
+     "title": "Queue for the Ngong Ping 360 cable car (Crystal Cabin up)",
+     "detail": "Booked via Klook: Crystal Cabin up Tung Chung → Ngong Ping + Standard Cabin down · Have the voucher and passports ready · Check once more that it is not a maintenance day",
      "leg": {
       "modes": [
        "cable"
       ],
-      "text": "Cable car ~25 min + queue · HK$295 round trip"
+      "text": "Cable car ~25 min + queue · booked"
      },
      "places": [
       "ngong-ping-360"
@@ -494,7 +495,7 @@
     },
     {
      "time": "13:30",
-     "title": "Queue for the cable car down to Tung Chung",
+     "title": "Queue for the cable car down to Tung Chung (Standard Cabin)",
      "detail": "Saturday afternoon queues down are long, so don't leave it later than this · Backup if the cable car is closed: bus 23 (HK$20.4)",
      "warn": "Time-critical point · allow 30–60 min for the queue",
      "places": [
@@ -612,21 +613,16 @@
     "item": "Transport for the whole trip (bus, MTR, bus 15, Star Ferry · hotel shuttle free)",
     "hkd": 110,
     "thb": 470
-   },
-   {
-    "item": "Ngong Ping 360 cable car (Standard, round trip)",
-    "hkd": 295,
-    "thb": 1270
    }
   ],
   "total": {
-   "hkd": 1475,
-   "thb": 6340
+   "hkd": 1180,
+   "thb": 5070
   },
   "leftover": {
-   "hkd": 825,
-   "thb": 3660,
-   "label": "Left for souvenirs / shopping / SIM"
+   "hkd": 1120,
+   "thb": 4930,
+   "label": "Left for souvenirs / shopping"
   },
   "perDay": [
    {
@@ -643,16 +639,16 @@
    },
    {
     "day": 4,
-    "hkd": 570
+    "hkd": 275
    }
   ],
-  "excluded": "Excludes: flights, hotel, Disney ticket (1-day ticket price depends on the date, about HK$669–939; after buying, register your park date on the official website) · Exchange rates fluctuate — check again before exchanging"
+  "excluded": "Not included: flights, hotel and tickets already booked: Disney (1-Day + Early Park Entry + Premier Access), Ngong Ping 360 cable car and eSIM · Exchange rates move, check again before exchanging"
  },
  "checklist": {
   "book": [
-   "Buy a Disney ticket for Thu 26 Nov, then register the park date on the official website",
+   "✓ Disney tickets for 26 Nov bought (1-Day Ticket ×2 + Early Park Entry Pass ×2 + Premier Access ×2) and park visit reserved",
    "Check park opening hours for the 26th on the park calendar (if it opens at 10:00, leave the hotel at 07:45)",
-   "Book Ngong Ping 360 cable car tickets for Sat 28 Nov and check for maintenance closures",
+   "✓ Cable car booked (Crystal up + Standard down, valid until 31 Dec 2026) · still check maintenance dates before going",
    "Check which terminal your return airline uses",
    "Ask Regala Skycity about the Disney shuttle: morning runs, return runs, free for all guests?, booking required?",
    "Get the latest airport and Tung Chung shuttle timetable and ask about luggage storage after check-out",
@@ -664,7 +660,7 @@
    "Your most comfortable walking shoes — lots of walking on days 2 and 3",
    "Power bank (the Disney app drains your battery all day)",
    "Plug adapter, 3 square pins (UK type)",
-   "SIM or eSIM for data",
+   "eSIM 5G Hong Kong (booked) — install it on the phone before flying; the plan starts when it connects in Hong Kong",
    "Motion-sickness pills (in case you take bus 23 up the mountain)"
   ],
   "routes": [
@@ -795,7 +791,7 @@
    ],
    "level": "ok",
    "title": "Cable car opens 09:00 on Saturdays · no November maintenance closure announced",
-   "text": "Open 09:00–18:30 on weekends, so the 09:30 queue in the plan fits · Standard round trip HK$295, matching the plan · The latest maintenance closure was 8–18 Sep 2026; no November closure announced yet (as of 18 Oct), but service can be suspended during storms",
+   "text": "Weekends open 09:00–18:30, so queuing at 09:30 fits · The booked ticket is Crystal Cabin up + Standard Cabin down (regular price for this ticket HK$330) · The latest maintenance closure was 8–18 Sep 2026, with no November closure announced (as of 18 Oct), but it can pause during storms",
    "sources": [
     "https://www.np360.com.hk/en/tickets-promotions/tickets-tours/cable-car-tickets",
     "https://www.np360.com.hk/media/jzngchi0/immediate-release-ngong-ping-cable-car-to-carry-out-scheduled-maintenance-from-8-to-18-september.pdf"
@@ -2172,7 +2168,7 @@
    ],
    "tips": [
     "Most recent maintenance closure was 8–18 Sep 2026 — no closure announced for Nov 2026 (as of 18 Oct), but it can be suspended temporarily during storms/thunderstorms",
-    "Buy online in advance at webstore.np360.com.hk",
+    "Booked via Klook: Crystal Cabin up + Standard Cabin down, valid until 31 Dec 2026",
     "The HK$88/HK$94 promotions are for Hong Kong residents only",
     "Budget option: cable car up, bus 23 down"
    ],
